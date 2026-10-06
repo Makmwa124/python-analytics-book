@@ -1,0 +1,10 @@
+store,month,revenue_target,actual,vs_target_pct
+Downtown,2026-01,22000,22625.6,2.8
+Downtown,2026-02,21000,21787.8,3.8
+Downtown,2026-03,24000,25791.9,7.5
+University,2026-01,16500,15920.5,-3.5
+University,2026-02,15500,16045.9,3.5
+University,2026-03,18500,18604.0,0.6
+Riverside,2026-01,13000,12865.1,-1.0
+Riverside,2026-02,12500,12421.05,-0.6
+Riverside,2026-03,14500,14852.05,2.4

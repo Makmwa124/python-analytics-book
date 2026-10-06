@@ -1,0 +1,601 @@
+respondent_id,store,age_group,visits_per_week,wait_minutes,satisfaction,would_recommend,favorite_product
+1,Downtown,35-49,2,7,8,Yes,Latte
+2,Downtown,18-24,1,3,7,No,Latte
+3,Downtown,35-49,1,11,7,No,Latte
+4,Downtown,25-34,1,9,5,No,Cappuccino
+5,Riverside,35-49,0,6,8,Yes,Croissant
+6,University,35-49,1,3,7,Yes,Espresso
+7,University,18-24,3,6,7,Yes,Latte
+8,Downtown,50+,0,14,4,No,Blueberry Muffin
+9,University,18-24,4,4,6,No,Latte
+10,Downtown,25-34,4,8,6,Yes,Croissant
+11,University,18-24,4,10,7,Yes,Espresso
+12,Downtown,18-24,4,7,8,No,Cold Brew
+13,Riverside,50+,1,2,7,Yes,Latte
+14,Riverside,18-24,3,8,7,Yes,Espresso
+15,Riverside,25-34,1,5,5,Yes,Espresso
+16,Riverside,35-49,6,3,6,Yes,Latte
+17,Downtown,18-24,2,3,7,No,Blueberry Muffin
+18,Downtown,35-49,4,9,7,Yes,Cold Brew
+19,University,35-49,1,6,7,No,Espresso
+20,University,18-24,3,4,7,Yes,Croissant
+21,Downtown,35-49,4,4,6,No,Blueberry Muffin
+22,University,18-24,3,6,7,Yes,Cold Brew
+23,Downtown,25-34,4,11,6,No,Blueberry Muffin
+24,Riverside,25-34,2,3,8,Yes,Cold Brew
+25,Downtown,25-34,3,7,7,Yes,Cappuccino
+26,Downtown,50+,1,14,5,No,Cold Brew
+27,Downtown,50+,1,8,5,No,Latte
+28,University,18-24,4,3,7,No,Espresso
+29,Downtown,50+,1,13,5,No,Blueberry Muffin
+30,University,35-49,3,6,6,Yes,Latte
+31,Downtown,25-34,1,18,6,Yes,Croissant
+32,Downtown,25-34,2,7,7,No,Croissant
+33,Downtown,18-24,1,6,10,Yes,Blueberry Muffin
+34,Riverside,18-24,2,4,9,Yes,Latte
+35,Downtown,50+,0,25,2,No,Croissant
+36,Downtown,35-49,6,5,8,Yes,Latte
+37,Riverside,18-24,0,4,7,No,Latte
+38,Downtown,25-34,1,7,9,Yes,Latte
+39,Riverside,25-34,2,5,7,No,Croissant
+40,Downtown,50+,3,4,6,Yes,Cold Brew
+41,Riverside,18-24,2,3,10,Yes,Latte
+42,Downtown,25-34,2,9,6,No,Cold Brew
+43,Riverside,35-49,3,4,8,Yes,Cappuccino
+44,University,18-24,3,3,6,No,Cold Brew
+45,Riverside,18-24,2,2,10,Yes,Cappuccino
+46,Riverside,50+,0,1,10,Yes,Latte
+47,Riverside,25-34,3,7,7,Yes,Cappuccino
+48,Downtown,50+,1,14,5,No,Latte
+49,University,18-24,1,7,5,No,Cappuccino
+50,University,18-24,1,4,8,Yes,Cold Brew
+51,Downtown,35-49,3,8,6,No,Latte
+52,University,50+,0,4,7,Yes,Latte
+53,University,18-24,2,6,6,Yes,Cappuccino
+54,Riverside,35-49,2,1,9,Yes,Blueberry Muffin
+55,Downtown,35-49,2,5,8,Yes,Cappuccino
+56,Downtown,25-34,1,2,8,Yes,Croissant
+57,Downtown,25-34,0,6,7,Yes,Latte
+58,University,25-34,2,11,5,No,Espresso
+59,Riverside,25-34,3,2,9,Yes,Cappuccino
+60,Downtown,50+,2,4,5,No,Espresso
+61,Downtown,50+,3,6,6,No,Cappuccino
+62,Riverside,25-34,1,1,7,Yes,Latte
+63,Downtown,50+,1,6,7,Yes,Espresso
+64,Downtown,25-34,0,12,5,No,Croissant
+65,Downtown,25-34,1,7,5,No,Latte
+66,Riverside,50+,4,6,9,Yes,Latte
+67,University,18-24,2,8,4,No,Croissant
+68,University,35-49,2,8,5,Yes,Cappuccino
+69,Riverside,25-34,1,3,7,Yes,Cappuccino
+70,University,18-24,0,7,7,Yes,Cold Brew
+71,Riverside,35-49,1,1,8,Yes,Cappuccino
+72,University,18-24,2,6,6,No,Cappuccino
+73,Riverside,25-34,1,6,6,Yes,Latte
+74,Downtown,25-34,1,8,6,Yes,Latte
+75,Downtown,35-49,1,7,9,Yes,Cappuccino
+76,University,18-24,4,7,7,Yes,Blueberry Muffin
+77,University,18-24,1,11,4,No,Latte
+78,University,35-49,1,5,5,No,Latte
+79,Downtown,35-49,4,5,8,Yes,Croissant
+80,University,18-24,3,8,4,No,Espresso
+81,Downtown,50+,1,5,5,No,Croissant
+82,Downtown,25-34,4,7,5,No,Latte
+83,Downtown,25-34,1,9,6,No,Cappuccino
+84,Riverside,35-49,0,1,7,No,Cold Brew
+85,University,25-34,2,12,5,No,Cold Brew
+86,Riverside,25-34,2,4,8,Yes,Croissant
+87,University,35-49,2,4,7,No,Blueberry Muffin
+88,University,25-34,6,4,9,Yes,Latte
+89,Downtown,50+,3,3,8,Yes,Cold Brew
+90,Riverside,50+,1,4,8,Yes,Latte
+91,Downtown,50+,2,10,4,No,Espresso
+92,University,35-49,2,8,6,Yes,Cold Brew
+93,Downtown,50+,2,9,4,No,Cold Brew
+94,University,25-34,4,7,6,No,Espresso
+95,University,18-24,2,2,7,No,Cold Brew
+96,University,35-49,1,4,7,Yes,Espresso
+97,Riverside,50+,2,10,7,Yes,Cappuccino
+98,University,18-24,1,2,7,No,Cold Brew
+99,University,18-24,3,5,7,Yes,Cold Brew
+100,Downtown,25-34,2,4,8,Yes,Latte
+101,Riverside,25-34,1,6,4,No,Cold Brew
+102,Downtown,25-34,4,5,8,Yes,Croissant
+103,University,18-24,1,4,9,Yes,Cappuccino
+104,Riverside,18-24,2,2,9,Yes,Latte
+105,Downtown,25-34,1,7,6,Yes,Blueberry Muffin
+106,Riverside,50+,0,9,5,No,Espresso
+107,Downtown,35-49,1,13,5,No,Latte
+108,University,18-24,1,6,6,No,Espresso
+109,Riverside,35-49,2,1,8,No,Croissant
+110,University,18-24,2,9,5,No,Latte
+111,Downtown,18-24,2,10,5,Yes,Latte
+112,Riverside,25-34,3,5,7,Yes,Cappuccino
+113,University,18-24,2,6,6,No,Cappuccino
+114,Downtown,35-49,7,10,8,Yes,Cappuccino
+115,Downtown,25-34,2,10,6,Yes,Latte
+116,Downtown,25-34,1,3,8,Yes,Croissant
+117,Downtown,25-34,1,12,4,No,Espresso
+118,University,35-49,2,7,7,Yes,Cappuccino
+119,Riverside,35-49,2,5,8,Yes,Croissant
+120,University,18-24,3,7,8,Yes,Latte
+121,University,18-24,3,7,7,Yes,Cold Brew
+122,University,18-24,2,5,7,Yes,Cappuccino
+123,University,18-24,3,2,7,Yes,Cappuccino
+124,Downtown,35-49,2,4,9,Yes,Cold Brew
+125,University,25-34,2,5,7,Yes,Blueberry Muffin
+126,University,18-24,2,6,7,Yes,Latte
+127,Downtown,35-49,3,8,6,Yes,Cappuccino
+128,University,18-24,4,4,9,Yes,Espresso
+129,University,35-49,3,10,3,No,Cappuccino
+130,University,18-24,6,4,6,Yes,Espresso
+131,Downtown,35-49,3,5,9,Yes,Cappuccino
+132,Riverside,50+,0,2,8,No,Cappuccino
+133,Riverside,25-34,1,5,7,Yes,Croissant
+134,University,18-24,1,4,8,Yes,Espresso
+135,Downtown,18-24,0,12,6,No,Latte
+136,University,18-24,0,7,7,No,Cold Brew
+137,University,25-34,3,12,4,No,Latte
+138,Riverside,18-24,1,3,7,Yes,Cappuccino
+139,Riverside,25-34,0,3,8,Yes,Latte
+140,Riverside,35-49,2,5,8,Yes,Cold Brew
+141,University,18-24,1,3,7,Yes,Espresso
+142,Downtown,35-49,2,7,7,No,Cold Brew
+143,Downtown,25-34,1,8,6,No,Espresso
+144,Riverside,25-34,0,5,6,Yes,Cappuccino
+145,Riverside,35-49,1,1,7,Yes,Espresso
+146,Downtown,35-49,2,7,8,No,Latte
+147,University,18-24,2,13,4,No,Latte
+148,Downtown,35-49,3,10,6,No,Espresso
+149,University,18-24,2,3,6,Yes,Cappuccino
+150,University,50+,1,10,4,No,Blueberry Muffin
+151,University,35-49,0,8,6,Yes,Cold Brew
+152,Riverside,50+,0,4,7,Yes,Cold Brew
+153,University,18-24,4,4,7,No,Blueberry Muffin
+154,University,25-34,2,3,9,Yes,Latte
+155,University,18-24,4,4,9,Yes,Cappuccino
+156,University,18-24,3,3,7,Yes,Cappuccino
+157,Downtown,50+,2,9,4,No,Cold Brew
+158,Riverside,25-34,0,3,6,Yes,Croissant
+159,University,18-24,3,5,8,Yes,Espresso
+160,Riverside,25-34,3,2,8,Yes,Cappuccino
+161,University,18-24,7,8,6,No,Cold Brew
+162,Downtown,35-49,1,4,7,No,Blueberry Muffin
+163,Riverside,50+,3,1,8,Yes,Cappuccino
+164,University,25-34,2,4,6,No,Cold Brew
+165,Downtown,18-24,1,8,5,No,Cold Brew
+166,University,18-24,0,5,6,No,Cold Brew
+167,University,18-24,4,4,6,Yes,Croissant
+168,Riverside,50+,1,2,5,Yes,Cappuccino
+169,University,18-24,4,10,6,Yes,Espresso
+170,University,18-24,3,8,7,Yes,Latte
+171,Riverside,35-49,2,3,6,No,Cappuccino
+172,University,18-24,5,5,8,No,Croissant
+173,University,18-24,4,6,7,Yes,Cold Brew
+174,University,35-49,0,6,5,No,Cappuccino
+175,University,25-34,4,5,8,Yes,Latte
+176,Downtown,35-49,2,13,6,No,Cappuccino
+177,Downtown,25-34,2,4,6,No,Cold Brew
+178,Downtown,50+,1,8,5,No,Blueberry Muffin
+179,University,50+,2,9,7,Yes,Cappuccino
+180,Downtown,35-49,3,11,4,No,Latte
+181,Riverside,25-34,2,2,9,Yes,Espresso
+182,University,18-24,3,4,6,No,Cappuccino
+183,Riverside,25-34,2,3,9,No,Latte
+184,Downtown,18-24,1,3,6,No,Croissant
+185,Downtown,35-49,1,5,7,Yes,Latte
+186,Riverside,50+,4,5,10,Yes,Espresso
+187,Downtown,18-24,1,4,7,Yes,Croissant
+188,University,35-49,2,6,7,No,Croissant
+189,Downtown,35-49,0,10,6,Yes,Croissant
+190,University,18-24,3,1,7,Yes,Cold Brew
+191,University,25-34,2,6,5,No,Latte
+192,Riverside,50+,1,5,5,No,Latte
+193,Downtown,35-49,0,15,4,No,Latte
+194,Riverside,35-49,3,3,7,Yes,Latte
+195,University,18-24,2,6,6,No,Cappuccino
+196,Downtown,50+,3,10,6,Yes,Croissant
+197,University,50+,7,10,6,Yes,Latte
+198,Downtown,35-49,4,11,8,Yes,Latte
+199,Downtown,25-34,1,9,5,Yes,Blueberry Muffin
+200,Riverside,25-34,2,2,6,Yes,Latte
+201,University,18-24,4,4,7,No,Cold Brew
+202,University,18-24,0,7,8,No,Blueberry Muffin
+203,Downtown,35-49,1,4,8,Yes,Cappuccino
+204,University,18-24,1,1,8,Yes,Cold Brew
+205,University,18-24,0,5,7,Yes,Cold Brew
+206,Downtown,25-34,0,3,9,Yes,Espresso
+207,University,18-24,5,5,7,No,Cold Brew
+208,Riverside,25-34,4,1,7,No,Cold Brew
+209,University,35-49,2,8,8,Yes,Cappuccino
+210,Riverside,35-49,1,3,8,No,Cold Brew
+211,University,25-34,7,9,7,Yes,Cappuccino
+212,Riverside,35-49,0,1,8,Yes,Blueberry Muffin
+213,Downtown,50+,1,6,6,No,Latte
+214,University,35-49,3,2,7,Yes,Cold Brew
+215,University,50+,2,8,7,Yes,Latte
+216,University,18-24,2,12,6,Yes,Latte
+217,Riverside,35-49,2,2,8,Yes,Cold Brew
+218,Riverside,50+,5,3,8,Yes,Cappuccino
+219,University,18-24,3,2,6,Yes,Espresso
+220,Riverside,50+,1,2,7,Yes,Espresso
+221,University,25-34,2,10,7,Yes,Cappuccino
+222,Downtown,25-34,1,15,4,No,Latte
+223,Downtown,35-49,2,3,8,Yes,Espresso
+224,Downtown,35-49,0,2,6,No,Espresso
+225,University,18-24,5,5,8,Yes,Croissant
+226,Riverside,25-34,3,4,9,Yes,Latte
+227,Downtown,25-34,3,9,6,No,Latte
+228,University,25-34,5,8,8,Yes,Cold Brew
+229,University,18-24,3,4,5,No,Blueberry Muffin
+230,University,18-24,4,10,5,No,Latte
+231,Downtown,25-34,2,9,6,No,Blueberry Muffin
+232,Riverside,35-49,0,3,8,Yes,Latte
+233,University,18-24,2,11,5,No,Espresso
+234,Downtown,35-49,1,7,6,No,Cappuccino
+235,Riverside,35-49,0,4,6,Yes,Latte
+236,University,35-49,1,5,7,Yes,Cold Brew
+237,University,25-34,2,5,10,Yes,Cold Brew
+238,Downtown,25-34,3,4,7,Yes,Cold Brew
+239,Downtown,35-49,3,19,3,No,Latte
+240,Downtown,35-49,1,1,8,No,Cappuccino
+241,University,25-34,1,8,6,No,Cappuccino
+242,Riverside,25-34,5,2,8,No,Cold Brew
+243,Downtown,35-49,1,4,6,Yes,Espresso
+244,University,18-24,4,6,8,Yes,Latte
+245,Riverside,25-34,2,2,7,Yes,Cold Brew
+246,Riverside,18-24,2,1,7,Yes,Latte
+247,Riverside,25-34,0,1,9,Yes,Croissant
+248,Downtown,25-34,1,4,8,Yes,Latte
+249,Riverside,50+,3,1,7,Yes,Cold Brew
+250,University,18-24,3,4,8,Yes,Blueberry Muffin
+251,University,18-24,1,5,7,Yes,Espresso
+252,University,50+,2,7,8,No,Croissant
+253,University,18-24,1,5,8,Yes,Cold Brew
+254,Riverside,35-49,2,5,8,Yes,Latte
+255,University,25-34,4,2,8,Yes,Cold Brew
+256,University,25-34,1,5,5,No,Espresso
+257,University,18-24,5,3,8,Yes,Cold Brew
+258,Downtown,35-49,3,5,7,No,Croissant
+259,Downtown,35-49,3,4,8,Yes,Croissant
+260,Downtown,50+,1,5,8,Yes,Latte
+261,Riverside,18-24,2,2,7,Yes,Latte
+262,University,25-34,0,5,6,Yes,Cappuccino
+263,Riverside,18-24,3,5,8,Yes,Latte
+264,Riverside,35-49,3,2,9,Yes,Espresso
+265,Downtown,25-34,1,6,5,No,Croissant
+266,University,18-24,0,4,7,Yes,Latte
+267,University,35-49,1,4,7,Yes,Espresso
+268,Downtown,50+,3,3,8,Yes,Espresso
+269,Riverside,50+,2,2,7,Yes,Cappuccino
+270,Riverside,25-34,2,5,9,Yes,Croissant
+271,Downtown,25-34,2,7,6,Yes,Latte
+272,Downtown,50+,2,8,4,No,Blueberry Muffin
+273,University,18-24,2,4,6,No,Latte
+274,Riverside,18-24,4,3,8,Yes,Cold Brew
+275,Downtown,25-34,2,11,4,No,Cappuccino
+276,Riverside,35-49,3,8,7,Yes,Latte
+277,Downtown,18-24,2,4,6,Yes,Croissant
+278,Downtown,50+,3,10,7,Yes,Espresso
+279,Downtown,50+,1,4,7,Yes,Espresso
+280,University,18-24,3,2,7,Yes,Latte
+281,Downtown,50+,2,18,3,No,Cappuccino
+282,Downtown,25-34,2,3,7,No,Espresso
+283,Downtown,35-49,1,6,7,Yes,Cold Brew
+284,University,18-24,1,10,7,Yes,Espresso
+285,Downtown,50+,1,8,5,No,Latte
+286,Riverside,18-24,0,3,9,Yes,Cold Brew
+287,Downtown,35-49,3,7,8,Yes,Cold Brew
+288,Downtown,25-34,3,13,5,No,Latte
+289,University,25-34,3,7,5,Yes,Croissant
+290,Downtown,25-34,1,7,2,No,Croissant
+291,Riverside,25-34,1,4,7,No,Espresso
+292,University,18-24,0,5,6,No,Latte
+293,Riverside,35-49,1,2,9,Yes,Cappuccino
+294,Downtown,18-24,3,1,8,Yes,Latte
+295,University,18-24,4,5,7,Yes,Latte
+296,University,25-34,0,4,7,Yes,Cold Brew
+297,Riverside,50+,2,6,8,Yes,Cappuccino
+298,University,25-34,2,3,6,Yes,Cappuccino
+299,Riverside,50+,4,1,8,Yes,Latte
+300,Downtown,35-49,2,4,7,No,Blueberry Muffin
+301,Riverside,35-49,3,2,9,Yes,Cappuccino
+302,University,18-24,3,7,8,Yes,Cold Brew
+303,Riverside,50+,2,3,9,Yes,Latte
+304,University,50+,5,8,7,Yes,Cappuccino
+305,Downtown,18-24,1,4,8,Yes,Latte
+306,Downtown,50+,1,5,6,No,Cappuccino
+307,Riverside,35-49,4,3,9,Yes,Croissant
+308,Riverside,25-34,2,1,7,Yes,Blueberry Muffin
+309,Riverside,25-34,4,4,8,Yes,Latte
+310,Riverside,35-49,3,2,9,Yes,Cappuccino
+311,University,18-24,1,8,6,Yes,Latte
+312,Downtown,50+,3,5,7,Yes,Cappuccino
+313,University,50+,1,6,5,Yes,Croissant
+314,Riverside,35-49,3,4,8,Yes,Cappuccino
+315,University,18-24,3,2,8,Yes,Croissant
+316,Downtown,50+,2,4,8,Yes,Latte
+317,Riverside,25-34,3,2,8,Yes,Latte
+318,University,18-24,1,4,7,Yes,Cappuccino
+319,University,25-34,1,4,6,No,Blueberry Muffin
+320,University,18-24,1,6,5,Yes,Espresso
+321,University,18-24,2,4,7,No,Blueberry Muffin
+322,Downtown,35-49,1,9,4,No,Cold Brew
+323,University,25-34,0,4,8,Yes,Espresso
+324,University,35-49,1,2,6,Yes,Latte
+325,University,25-34,0,11,6,No,Latte
+326,Downtown,25-34,4,8,8,No,Croissant
+327,University,25-34,3,3,5,No,Cappuccino
+328,Riverside,35-49,2,4,7,No,Cappuccino
+329,University,18-24,0,5,6,No,Cappuccino
+330,University,25-34,2,5,7,No,Cappuccino
+331,Downtown,25-34,4,10,6,No,Latte
+332,Riverside,35-49,3,2,6,No,Cold Brew
+333,Riverside,35-49,2,2,9,Yes,Croissant
+334,University,18-24,3,8,8,Yes,Cold Brew
+335,Riverside,25-34,2,1,5,No,Croissant
+336,Downtown,18-24,3,6,9,Yes,Cappuccino
+337,Riverside,50+,0,3,5,No,Latte
+338,University,18-24,1,7,4,No,Cold Brew
+339,University,18-24,4,5,4,No,Latte
+340,Riverside,25-34,7,3,7,No,Cappuccino
+341,Downtown,35-49,2,6,6,Yes,Croissant
+342,Riverside,50+,1,3,7,Yes,Croissant
+343,University,25-34,2,4,8,Yes,Blueberry Muffin
+344,Downtown,50+,2,5,6,No,Latte
+345,University,35-49,3,9,7,Yes,Espresso
+346,Riverside,25-34,1,4,7,Yes,Latte
+347,University,25-34,2,3,8,Yes,Cold Brew
+348,Riverside,25-34,1,3,5,No,Cappuccino
+349,Riverside,35-49,1,1,8,Yes,Cappuccino
+350,Downtown,25-34,1,5,7,Yes,Latte
+351,Downtown,50+,2,8,4,No,Cold Brew
+352,University,25-34,1,2,7,No,Blueberry Muffin
+353,Riverside,35-49,3,2,9,No,Cappuccino
+354,Downtown,35-49,4,10,7,Yes,Croissant
+355,Downtown,25-34,2,5,7,Yes,Latte
+356,University,25-34,4,3,8,Yes,Croissant
+357,University,18-24,4,5,5,No,Croissant
+358,Downtown,25-34,0,7,4,No,Latte
+359,University,25-34,2,5,8,Yes,Cappuccino
+360,Downtown,35-49,4,7,7,Yes,Cappuccino
+361,University,25-34,0,4,9,Yes,Latte
+362,Downtown,35-49,4,4,7,Yes,Croissant
+363,University,18-24,2,4,6,No,Blueberry Muffin
+364,Riverside,50+,2,2,9,Yes,Latte
+365,University,35-49,2,2,7,Yes,Latte
+366,Riverside,50+,1,3,7,Yes,Espresso
+367,Downtown,18-24,2,4,8,Yes,Cappuccino
+368,University,25-34,3,4,6,Yes,Cold Brew
+369,Downtown,50+,4,6,8,No,Cold Brew
+370,University,18-24,1,3,7,Yes,Blueberry Muffin
+371,Downtown,25-34,2,9,4,Yes,Espresso
+372,Riverside,35-49,2,2,8,Yes,Cappuccino
+373,Downtown,50+,5,6,6,Yes,Croissant
+374,Downtown,35-49,4,10,6,Yes,Cold Brew
+375,Downtown,25-34,2,3,9,Yes,Cappuccino
+376,Downtown,25-34,1,4,7,Yes,Latte
+377,Downtown,25-34,1,6,5,No,Croissant
+378,Downtown,25-34,2,15,5,No,Croissant
+379,Downtown,50+,3,2,9,Yes,Espresso
+380,Riverside,50+,1,2,8,Yes,Cappuccino
+381,University,50+,0,3,8,Yes,Cappuccino
+382,University,18-24,0,5,5,No,Latte
+383,Riverside,50+,1,5,9,Yes,Cold Brew
+384,Riverside,35-49,3,2,10,Yes,Blueberry Muffin
+385,Downtown,35-49,2,5,7,Yes,Croissant
+386,Downtown,35-49,3,6,5,No,Croissant
+387,University,25-34,1,5,7,Yes,Latte
+388,Riverside,25-34,2,4,5,Yes,Cold Brew
+389,Downtown,50+,1,7,7,Yes,Cappuccino
+390,Riverside,35-49,6,2,10,Yes,Cappuccino
+391,University,18-24,3,5,7,No,Latte
+392,Downtown,25-34,1,13,3,No,Croissant
+393,University,18-24,2,12,4,No,Cold Brew
+394,Downtown,35-49,1,9,5,No,Cold Brew
+395,University,18-24,2,4,8,No,Cappuccino
+396,University,35-49,3,6,9,Yes,Latte
+397,Riverside,25-34,1,3,9,Yes,Blueberry Muffin
+398,Downtown,18-24,2,5,4,No,Cold Brew
+399,Riverside,50+,1,2,8,Yes,Croissant
+400,Riverside,50+,5,2,7,Yes,Espresso
+401,Riverside,50+,3,4,6,Yes,Latte
+402,Riverside,50+,2,2,9,Yes,Latte
+403,Riverside,35-49,2,6,6,Yes,Latte
+404,Riverside,25-34,3,3,7,No,Latte
+405,Downtown,35-49,1,7,6,Yes,Espresso
+406,Riverside,35-49,3,3,8,No,Croissant
+407,Downtown,25-34,2,2,6,Yes,Blueberry Muffin
+408,University,25-34,2,6,6,Yes,Croissant
+409,University,18-24,3,2,8,Yes,Latte
+410,Downtown,35-49,2,8,5,Yes,Croissant
+411,Riverside,35-49,0,4,6,Yes,Latte
+412,Riverside,50+,2,5,6,Yes,Cappuccino
+413,Downtown,50+,4,15,1,No,Latte
+414,University,25-34,2,6,6,No,Croissant
+415,University,50+,1,5,6,Yes,Croissant
+416,Riverside,25-34,5,4,8,Yes,Latte
+417,Downtown,50+,2,10,6,Yes,Cold Brew
+418,Downtown,25-34,3,4,7,Yes,Croissant
+419,Downtown,35-49,1,10,6,No,Cappuccino
+420,Riverside,25-34,3,4,7,Yes,Latte
+421,Downtown,25-34,2,7,6,Yes,Cold Brew
+422,Riverside,25-34,2,4,6,No,Latte
+423,Riverside,35-49,1,3,8,Yes,Latte
+424,University,50+,3,10,5,Yes,Cappuccino
+425,Riverside,25-34,2,5,5,No,Croissant
+426,Downtown,18-24,2,6,7,Yes,Blueberry Muffin
+427,University,18-24,2,5,6,Yes,Croissant
+428,University,18-24,5,6,10,Yes,Cold Brew
+429,University,50+,3,2,8,Yes,Croissant
+430,Downtown,35-49,3,6,7,Yes,Cold Brew
+431,Riverside,50+,1,4,6,Yes,Espresso
+432,Downtown,25-34,0,11,5,Yes,Cappuccino
+433,Downtown,25-34,1,8,5,No,Cappuccino
+434,Downtown,25-34,5,12,6,No,Cappuccino
+435,Downtown,50+,1,3,6,No,Cappuccino
+436,Riverside,25-34,1,4,8,No,Cappuccino
+437,Riverside,35-49,1,1,8,Yes,Cappuccino
+438,Riverside,35-49,3,5,6,Yes,Latte
+439,University,25-34,1,2,9,Yes,Latte
+440,University,50+,1,9,5,Yes,Espresso
+441,Downtown,25-34,3,3,5,No,Cold Brew
+442,University,18-24,0,5,5,No,Croissant
+443,Downtown,35-49,3,10,5,No,Latte
+444,Downtown,18-24,0,11,7,Yes,Blueberry Muffin
+445,Downtown,50+,2,9,6,Yes,Blueberry Muffin
+446,Downtown,35-49,4,8,7,Yes,Espresso
+447,Riverside,25-34,3,3,9,Yes,Cappuccino
+448,Downtown,25-34,3,4,8,Yes,Latte
+449,Riverside,25-34,1,4,8,Yes,Espresso
+450,University,25-34,1,4,5,Yes,Latte
+451,Downtown,25-34,5,3,7,Yes,Croissant
+452,Downtown,35-49,2,13,4,No,Cappuccino
+453,University,18-24,2,5,7,No,Latte
+454,Riverside,25-34,2,4,7,No,Espresso
+455,Riverside,25-34,4,6,7,Yes,Cappuccino
+456,Riverside,50+,2,5,8,Yes,Croissant
+457,Riverside,35-49,1,7,7,No,Cold Brew
+458,Downtown,18-24,1,8,5,No,Croissant
+459,Downtown,25-34,2,3,7,Yes,Latte
+460,Downtown,25-34,5,7,9,Yes,Blueberry Muffin
+461,University,18-24,4,4,9,Yes,Latte
+462,Downtown,18-24,3,4,8,Yes,Espresso
+463,University,25-34,2,3,10,Yes,Cappuccino
+464,Riverside,50+,3,4,9,Yes,Cappuccino
+465,University,18-24,3,5,5,Yes,Cappuccino
+466,University,18-24,3,11,7,No,Cold Brew
+467,University,25-34,3,3,7,No,Croissant
+468,Downtown,25-34,2,16,4,No,Latte
+469,University,25-34,2,6,7,No,Cold Brew
+470,Downtown,50+,3,7,6,Yes,Latte
+471,University,25-34,3,5,6,Yes,Latte
+472,University,18-24,2,10,6,No,Latte
+473,University,35-49,4,8,6,No,Latte
+474,Downtown,35-49,3,5,6,No,Croissant
+475,University,18-24,2,3,6,Yes,Espresso
+476,Downtown,25-34,3,11,4,No,Cappuccino
+477,University,18-24,2,5,7,Yes,Cappuccino
+478,University,18-24,2,4,8,No,Croissant
+479,University,18-24,0,7,7,Yes,Blueberry Muffin
+480,University,18-24,0,3,6,Yes,Latte
+481,Riverside,35-49,2,5,6,Yes,Cold Brew
+482,Downtown,50+,2,8,4,No,Cappuccino
+483,Downtown,18-24,1,7,6,No,Espresso
+484,Riverside,35-49,2,3,9,No,Croissant
+485,Downtown,25-34,4,5,10,Yes,Latte
+486,University,18-24,0,5,8,Yes,Croissant
+487,Riverside,35-49,1,5,8,Yes,Cold Brew
+488,Downtown,25-34,3,13,5,No,Latte
+489,Riverside,35-49,0,1,7,Yes,Cold Brew
+490,Downtown,35-49,2,6,8,Yes,Cappuccino
+491,University,18-24,2,5,6,No,Croissant
+492,University,18-24,2,4,7,Yes,Croissant
+493,Downtown,25-34,2,5,6,Yes,Latte
+494,Downtown,25-34,1,6,6,No,Blueberry Muffin
+495,Riverside,25-34,2,2,10,No,Cold Brew
+496,University,18-24,2,5,7,Yes,Cappuccino
+497,Downtown,35-49,2,5,9,No,Latte
+498,Riverside,35-49,3,8,7,Yes,Cappuccino
+499,University,18-24,6,2,8,Yes,Cappuccino
+500,Riverside,25-34,2,3,6,No,Espresso
+501,University,25-34,1,3,7,No,Latte
+502,Downtown,25-34,1,7,7,Yes,Cold Brew
+503,Downtown,25-34,3,9,5,No,Cappuccino
+504,Downtown,25-34,3,8,7,Yes,Latte
+505,Downtown,18-24,1,5,7,No,Latte
+506,Riverside,35-49,5,2,6,No,Croissant
+507,Downtown,50+,1,11,6,Yes,Latte
+508,University,35-49,1,10,7,Yes,Latte
+509,Riverside,25-34,2,4,9,Yes,Cappuccino
+510,University,18-24,1,4,8,No,Latte
+511,Downtown,25-34,1,8,5,No,Croissant
+512,Downtown,50+,2,16,4,No,Blueberry Muffin
+513,University,18-24,3,10,6,Yes,Cold Brew
+514,University,18-24,0,5,8,Yes,Cappuccino
+515,University,18-24,1,4,6,No,Blueberry Muffin
+516,Riverside,50+,2,2,9,Yes,Espresso
+517,University,25-34,2,2,8,Yes,Cold Brew
+518,Riverside,25-34,1,5,8,No,Croissant
+519,University,50+,2,8,5,No,Latte
+520,Riverside,25-34,1,1,9,Yes,Latte
+521,University,25-34,2,4,8,Yes,Blueberry Muffin
+522,University,18-24,3,8,5,No,Espresso
+523,University,18-24,3,9,5,No,Croissant
+524,Downtown,25-34,4,9,7,Yes,Cappuccino
+525,Riverside,35-49,3,3,9,Yes,Cappuccino
+526,Downtown,35-49,1,6,6,Yes,Espresso
+527,University,25-34,4,5,5,No,Espresso
+528,University,25-34,0,7,6,No,Blueberry Muffin
+529,University,18-24,0,5,7,Yes,Blueberry Muffin
+530,Downtown,18-24,1,6,6,No,Espresso
+531,Downtown,35-49,2,14,6,No,Cappuccino
+532,University,35-49,1,2,9,Yes,Cold Brew
+533,Downtown,18-24,0,8,7,Yes,Blueberry Muffin
+534,Riverside,18-24,2,2,6,Yes,Croissant
+535,Downtown,18-24,2,7,5,No,Cappuccino
+536,Downtown,35-49,3,2,8,Yes,Cold Brew
+537,University,18-24,4,6,8,Yes,Croissant
+538,Downtown,25-34,3,6,8,Yes,Latte
+539,Riverside,25-34,0,4,7,Yes,Cappuccino
+540,University,25-34,2,4,7,No,Cold Brew
+541,Downtown,50+,2,5,7,Yes,Cold Brew
+542,University,18-24,0,12,6,Yes,Latte
+543,Downtown,50+,4,4,6,Yes,Latte
+544,University,18-24,1,7,6,No,Blueberry Muffin
+545,University,35-49,2,5,5,Yes,Espresso
+546,Riverside,25-34,1,3,5,No,Cappuccino
+547,Downtown,35-49,1,6,6,No,Cold Brew
+548,Downtown,25-34,4,1,10,Yes,Croissant
+549,Riverside,50+,1,3,6,Yes,Cappuccino
+550,Downtown,50+,1,6,8,Yes,Cappuccino
+551,University,18-24,6,4,6,No,Cold Brew
+552,Downtown,35-49,5,7,8,No,Cappuccino
+553,Riverside,50+,4,3,8,Yes,Cold Brew
+554,Downtown,50+,3,8,9,Yes,Espresso
+555,Downtown,50+,4,3,7,No,Croissant
+556,University,18-24,1,4,6,Yes,Espresso
+557,Riverside,18-24,3,2,8,Yes,Latte
+558,Downtown,25-34,5,14,6,No,Croissant
+559,University,18-24,3,6,4,Yes,Espresso
+560,Downtown,35-49,0,4,7,Yes,Cold Brew
+561,Downtown,35-49,5,2,7,No,Latte
+562,Downtown,50+,1,4,8,Yes,Cappuccino
+563,University,25-34,3,7,6,Yes,Cold Brew
+564,University,18-24,3,3,9,Yes,Latte
+565,University,18-24,1,7,6,No,Cold Brew
+566,Riverside,35-49,1,5,7,Yes,Latte
+567,University,18-24,4,11,5,No,Espresso
+568,Downtown,35-49,3,14,5,No,Cold Brew
+569,Downtown,50+,3,11,3,No,Cold Brew
+570,Riverside,25-34,2,3,7,Yes,Espresso
+571,Riverside,50+,2,1,7,Yes,Cappuccino
+572,Downtown,25-34,2,12,5,No,Cappuccino
+573,Riverside,25-34,4,6,7,Yes,Cappuccino
+574,Riverside,50+,2,6,6,Yes,Croissant
+575,University,25-34,3,4,8,Yes,Latte
+576,Downtown,35-49,7,9,5,No,Espresso
+577,Riverside,35-49,1,2,8,Yes,Blueberry Muffin
+578,Downtown,35-49,1,2,8,Yes,Latte
+579,Riverside,50+,2,4,9,Yes,Blueberry Muffin
+580,Riverside,35-49,2,3,6,Yes,Blueberry Muffin
+581,Downtown,25-34,1,7,7,No,Cappuccino
+582,University,18-24,5,13,5,No,Espresso
+583,Downtown,35-49,1,4,6,Yes,Espresso
+584,University,18-24,2,4,7,Yes,Croissant
+585,Riverside,50+,5,1,8,Yes,Cappuccino
+586,University,50+,0,9,5,No,Latte
+587,University,35-49,2,8,6,No,Latte
+588,Riverside,35-49,4,3,10,Yes,Blueberry Muffin
+589,University,25-34,6,8,8,Yes,Cappuccino
+590,Riverside,50+,1,2,8,Yes,Croissant
+591,University,25-34,2,6,5,No,Cappuccino
+592,Riverside,50+,3,2,8,Yes,Cold Brew
+593,Downtown,35-49,6,5,8,Yes,Espresso
+594,University,18-24,0,4,3,Yes,Latte
+595,Riverside,35-49,4,1,8,No,Latte
+596,Riverside,18-24,3,1,7,Yes,Cold Brew
+597,University,25-34,2,5,4,No,Croissant
+598,Downtown,50+,3,6,5,No,Latte
+599,Riverside,35-49,5,6,9,Yes,Latte
+600,University,18-24,0,5,6,Yes,Cappuccino

@@ -1,0 +1,12 @@
+# Python 3.11 or newer. The book was tested with Python 3.13 and pandas 3.
+jupyterlab
+pandas>=3.0
+numpy
+matplotlib
+seaborn
+plotly
+kaleido
+scipy
+statsmodels
+scikit-learn
+openpyxl

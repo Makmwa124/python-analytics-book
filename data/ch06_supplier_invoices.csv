@@ -1,0 +1,14 @@
+Rechnung Nr.;Datum;Lieferant;Artikel;Menge;Preis;Gesamt
+4101;05.01.2026;Kaffeerösterei Müller;Espresso beans 1 kg;5;18,40;92,00
+4102;05.01.2026;Tostadores Peña;Cold brew concentrate 5 l;10;32,90;329,00
+4103;19.01.2026;Pâtisserie Hélène;Croissants (box of 24);3;21,75;65,25
+4104;19.01.2026;Tostadores Peña;Cold brew concentrate 5 l;7;32,90;230,30
+4105;02.02.2026;Kaffeerösterei Müller;Espresso beans 1 kg;7;18,40;128,80
+4106;16.02.2026;Kaffeerösterei Müller;Espresso beans 1 kg;7;18,40;128,80
+4107;16.02.2026;Pâtisserie Hélène;Croissants (box of 24);9;21,75;195,75
+4108;16.02.2026;Tostadores Peña;Cold brew concentrate 5 l;6;32,90;197,40
+4109;02.03.2026;Tostadores Peña;Cold brew concentrate 5 l;6;32,90;197,40
+4110;16.03.2026;Pâtisserie Hélène;Croissants (box of 24);11;21,75;239,25
+4111;30.03.2026;Kaffeerösterei Müller;Espresso beans 1 kg;11;18,40;202,40
+4112;30.03.2026;Pâtisserie Hélène;Croissants (box of 24);2;21,75;43,50
+4113;30.03.2026;Tostadores Peña;Cold brew concentrate 5 l;5;32,90;164,50

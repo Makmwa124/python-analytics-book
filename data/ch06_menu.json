@@ -1,0 +1,44 @@
+[
+  {
+    "product": "Espresso",
+    "category": "Coffee",
+    "price": 3.0,
+    "vegan": true,
+    "launched": "2019-03-01"
+  },
+  {
+    "product": "Latte",
+    "category": "Coffee",
+    "price": 4.5,
+    "vegan": false,
+    "launched": "2019-03-01"
+  },
+  {
+    "product": "Cappuccino",
+    "category": "Coffee",
+    "price": 4.25,
+    "vegan": false,
+    "launched": "2019-03-01"
+  },
+  {
+    "product": "Cold Brew",
+    "category": "Coffee",
+    "price": 4.75,
+    "vegan": true,
+    "launched": "2023-06-01"
+  },
+  {
+    "product": "Croissant",
+    "category": "Bakery",
+    "price": 3.25,
+    "vegan": false,
+    "launched": "2019-03-01"
+  },
+  {
+    "product": "Blueberry Muffin",
+    "category": "Bakery",
+    "price": 2.95,
+    "vegan": false,
+    "launched": "2021-09-15"
+  }
+]

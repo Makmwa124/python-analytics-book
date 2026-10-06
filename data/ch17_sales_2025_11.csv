@@ -1,0 +1,541 @@
+Date,Location,Item,Qty,Unit Price,Total
+01/11/2025,Downtown,Espresso,35,$3.00,105.00
+01/11/2025,Downtown,Latte,59,$4.50,265.50
+01/11/2025,Downtown,Cappuccino,45,$4.25,191.25
+01/11/2025,Downtown,Cold Brew,21,$4.75,99.75
+01/11/2025,Downtown,Croissant,39,$3.25,126.75
+01/11/2025,Downtown,Blueberry Muffin,34,$2.95,100.30
+01/11/2025,University,Espresso,19,$3.00,57.00
+01/11/2025,University,Latte,32,$4.50,144.00
+01/11/2025,University,Cappuccino,28,$4.25,119.00
+01/11/2025,University,Cold Brew,15,$4.75,71.25
+01/11/2025,University,Croissant,21,$3.25,68.25
+01/11/2025,University,Blueberry Muffin,16,$2.95,47.20
+01/11/2025,Riverside,Espresso,20,$3.00,60.00
+01/11/2025,Riverside,Latte,33,$4.50,148.50
+01/11/2025,Riverside,Cappuccino,23,$4.25,97.75
+01/11/2025,Riverside,Cold Brew,12,$4.75,57.00
+01/11/2025,Riverside,Croissant,21,$3.25,68.25
+01/11/2025,Riverside,Blueberry Muffin,14,$2.95,41.30
+02/11/2025,Downtown,Espresso,30,$3.00,90.00
+02/11/2025,Downtown,Latte,57,$4.50,256.50
+02/11/2025,Downtown,Cappuccino,41,$4.25,174.25
+02/11/2025,Downtown,Cold Brew,21,$4.75,99.75
+02/11/2025,Downtown,Croissant,30,$3.25,97.50
+02/11/2025,Downtown,Blueberry Muffin,27,$2.95,79.65
+02/11/2025,University,Espresso,18,$3.00,54.00
+02/11/2025,University,Latte,33,$4.50,148.50
+02/11/2025,University,Cappuccino,20,$4.25,85.00
+02/11/2025,University,Cold Brew,14,$4.75,66.50
+02/11/2025,University,Croissant,21,$3.25,68.25
+02/11/2025,University,Blueberry Muffin,17,$2.95,50.15
+02/11/2025,Riverside,Espresso,19,$3.00,57.00
+02/11/2025,Riverside,Latte,38,$4.50,171.00
+02/11/2025,Riverside,Cappuccino,27,$4.25,114.75
+02/11/2025,Riverside,Cold Brew,21,$4.75,99.75
+02/11/2025,Riverside,Croissant,25,$3.25,81.25
+02/11/2025,Riverside,Blueberry Muffin,17,$2.95,50.15
+03/11/2025,Downtown,Espresso,23,$3.00,69.00
+03/11/2025,Downtown,Latte,53,$4.50,238.50
+03/11/2025,Downtown,Cappuccino,36,$4.25,153.00
+03/11/2025,Downtown,Cold Brew,33,$4.75,156.75
+03/11/2025,Downtown,Croissant,28,$3.25,91.00
+03/11/2025,Downtown,Blueberry Muffin,22,$2.95,64.90
+03/11/2025,University,Espresso,24,$3.00,72.00
+03/11/2025,University,Latte,36,$4.50,162.00
+03/11/2025,University,Cappuccino,26,$4.25,110.50
+03/11/2025,University,Cold Brew,18,$4.75,85.50
+03/11/2025,University,Croissant,23,$3.25,74.75
+03/11/2025,University,Blueberry Muffin,20,$2.95,59.00
+03/11/2025,Riverside,Espresso,17,$3.00,51.00
+03/11/2025,Riverside,Latte,34,$4.50,153.00
+03/11/2025,Riverside,Cappuccino,23,$4.25,97.75
+03/11/2025,Riverside,Cold Brew,13,$4.75,61.75
+03/11/2025,Riverside,Croissant,22,$3.25,71.50
+03/11/2025,Riverside,Blueberry Muffin,17,$2.95,50.15
+04/11/2025,Downtown,Espresso,30,$3.00,90.00
+04/11/2025,Downtown,Latte,47,$4.50,211.50
+04/11/2025,Downtown,Cappuccino,39,$4.25,165.75
+04/11/2025,Downtown,Cold Brew,23,$4.75,109.25
+04/11/2025,Downtown,Croissant,30,$3.25,97.50
+04/11/2025,Downtown,Blueberry Muffin,23,$2.95,67.85
+04/11/2025,University,Espresso,25,$3.00,75.00
+04/11/2025,University,Latte,47,$4.50,211.50
+04/11/2025,University,Cappuccino,30,$4.25,127.50
+04/11/2025,University,Cold Brew,22,$4.75,104.50
+04/11/2025,University,Croissant,29,$3.25,94.25
+04/11/2025,University,Blueberry Muffin,20,$2.95,59.00
+04/11/2025,Riverside,Espresso,16,$3.00,48.00
+04/11/2025,Riverside,Latte,34,$4.50,153.00
+04/11/2025,Riverside,Cappuccino,24,$4.25,102.00
+04/11/2025,Riverside,Cold Brew,17,$4.75,80.75
+04/11/2025,Riverside,Croissant,19,$3.25,61.75
+04/11/2025,Riverside,Blueberry Muffin,12,$2.95,35.40
+05/11/2025,Downtown,Espresso,28,$3.00,84.00
+05/11/2025,Downtown,Latte,47,$4.50,211.50
+05/11/2025,Downtown,Cappuccino,35,$4.25,148.75
+05/11/2025,Downtown,Cold Brew,32,$4.75,152.00
+05/11/2025,Downtown,Croissant,31,$3.25,100.75
+05/11/2025,Downtown,Blueberry Muffin,22,$2.95,64.90
+05/11/2025,University,Espresso,27,$3.00,81.00
+05/11/2025,University,Latte,48,$4.50,216.00
+05/11/2025,University,Cappuccino,34,$4.25,144.50
+05/11/2025,University,Cold Brew,23,$4.75,109.25
+05/11/2025,University,Croissant,28,$3.25,91.00
+05/11/2025,University,Blueberry Muffin,22,$2.95,64.90
+05/11/2025,Riverside,Espresso,19,$3.00,57.00
+05/11/2025,Riverside,Latte,32,$4.50,144.00
+05/11/2025,Riverside,Cappuccino,19,$4.25,80.75
+05/11/2025,Riverside,Cold Brew,9,$4.75,42.75
+05/11/2025,Riverside,Croissant,16,$3.25,52.00
+05/11/2025,Riverside,Blueberry Muffin,14,$2.95,41.30
+06/11/2025,Downtown,Espresso,31,$3.00,93.00
+06/11/2025,Downtown,Latte,64,$4.50,288.00
+06/11/2025,Downtown,Cappuccino,39,$4.25,165.75
+06/11/2025,Downtown,Cold Brew,29,$4.75,137.75
+06/11/2025,Downtown,Croissant,32,$3.25,104.00
+06/11/2025,Downtown,Blueberry Muffin,25,$2.95,73.75
+06/11/2025,University,Espresso,28,$3.00,84.00
+06/11/2025,University,Latte,46,$4.50,207.00
+06/11/2025,University,Cappuccino,34,$4.25,144.50
+06/11/2025,University,Cold Brew,31,$4.75,147.25
+06/11/2025,University,Croissant,25,$3.25,81.25
+06/11/2025,University,Blueberry Muffin,17,$2.95,50.15
+06/11/2025,Riverside,Espresso,13,$3.00,39.00
+06/11/2025,Riverside,Latte,27,$4.50,121.50
+06/11/2025,Riverside,Cappuccino,19,$4.25,80.75
+06/11/2025,Riverside,Cold Brew,10,$4.75,47.50
+06/11/2025,Riverside,Croissant,18,$3.25,58.50
+06/11/2025,Riverside,Blueberry Muffin,11,$2.95,32.45
+07/11/2025,Downtown,Espresso,24,$3.00,72.00
+07/11/2025,Downtown,Latte,46,$4.50,207.00
+07/11/2025,Downtown,Cappuccino,31,$4.25,131.75
+07/11/2025,Downtown,Cold Brew,9,$4.75,42.75
+07/11/2025,Downtown,Croissant,27,$3.25,87.75
+07/11/2025,Downtown,Blueberry Muffin,19,$2.95,56.05
+07/11/2025,University,Espresso,26,$3.00,78.00
+07/11/2025,University,Latte,48,$4.50,216.00
+07/11/2025,University,Cappuccino,29,$4.25,123.25
+07/11/2025,University,Cold Brew,15,$4.75,71.25
+07/11/2025,University,Croissant,25,$3.25,81.25
+07/11/2025,University,Blueberry Muffin,21,$2.95,61.95
+07/11/2025,Riverside,Espresso,16,$3.00,48.00
+07/11/2025,Riverside,Latte,30,$4.50,135.00
+07/11/2025,Riverside,Cappuccino,19,$4.25,80.75
+07/11/2025,Riverside,Cold Brew,14,$4.75,66.50
+07/11/2025,Riverside,Croissant,20,$3.25,65.00
+07/11/2025,Riverside,Blueberry Muffin,12,$2.95,35.40
+08/11/2025,Downtown,Espresso,34,$3.00,102.00
+08/11/2025,Downtown,Latte,69,$4.50,310.50
+08/11/2025,Downtown,Cappuccino,43,$4.25,182.75
+08/11/2025,Downtown,Cold Brew,20,$4.75,95.00
+08/11/2025,Downtown,Croissant,42,$3.25,136.50
+08/11/2025,Downtown,Blueberry Muffin,30,$2.95,88.50
+08/11/2025,University,Espresso,20,$3.00,60.00
+08/11/2025,University,Latte,35,$4.50,157.50
+08/11/2025,University,Cappuccino,25,$4.25,106.25
+08/11/2025,University,Cold Brew,15,$4.75,71.25
+08/11/2025,University,Croissant,18,$3.25,58.50
+08/11/2025,University,Blueberry Muffin,15,$2.95,44.25
+08/11/2025,Riverside,Espresso,20,$3.00,60.00
+08/11/2025,Riverside,Latte,32,$4.50,144.00
+08/11/2025,Riverside,Cappuccino,30,$4.25,127.50
+08/11/2025,Riverside,Cold Brew,17,$4.75,80.75
+08/11/2025,Riverside,Croissant,20,$3.25,65.00
+08/11/2025,Riverside,Blueberry Muffin,18,$2.95,53.10
+09/11/2025,Downtown,Espresso,31,$3.00,93.00
+09/11/2025,Downtown,Latte,73,$4.50,328.50
+09/11/2025,Downtown,Cappuccino,43,$4.25,182.75
+09/11/2025,Downtown,Cold Brew,20,$4.75,95.00
+09/11/2025,Downtown,Croissant,39,$3.25,126.75
+09/11/2025,Downtown,Blueberry Muffin,27,$2.95,79.65
+09/11/2025,University,Espresso,16,$3.00,48.00
+09/11/2025,University,Latte,29,$4.50,130.50
+09/11/2025,University,Cappuccino,22,$4.25,93.50
+09/11/2025,University,Cold Brew,16,$4.75,76.00
+09/11/2025,University,Croissant,20,$3.25,65.00
+09/11/2025,University,Blueberry Muffin,14,$2.95,41.30
+09/11/2025,Riverside,Espresso,23,$3.00,69.00
+09/11/2025,Riverside,Latte,45,$4.50,202.50
+09/11/2025,Riverside,Cappuccino,28,$4.25,119.00
+09/11/2025,Riverside,Cold Brew,10,$4.75,47.50
+09/11/2025,Riverside,Croissant,24,$3.25,78.00
+09/11/2025,Riverside,Blueberry Muffin,15,$2.95,44.25
+10/11/2025,Downtown,Espresso,26,$3.00,78.00
+10/11/2025,Downtown,Latte,52,$4.50,234.00
+10/11/2025,Downtown,Cappuccino,33,$4.25,140.25
+10/11/2025,Downtown,Cold Brew,18,$4.75,85.50
+10/11/2025,Downtown,Croissant,30,$3.25,97.50
+10/11/2025,Downtown,Blueberry Muffin,20,$2.95,59.00
+10/11/2025,University,Espresso,24,$3.00,72.00
+10/11/2025,University,Latte,46,$4.50,207.00
+10/11/2025,University,Cappuccino,29,$4.25,123.25
+10/11/2025,University,Cold Brew,11,$4.75,52.25
+10/11/2025,University,Croissant,25,$3.25,81.25
+10/11/2025,University,Blueberry Muffin,17,$2.95,50.15
+10/11/2025,Riverside,Espresso,14,$3.00,42.00
+10/11/2025,Riverside,Latte,28,$4.50,126.00
+10/11/2025,Riverside,Cappuccino,21,$4.25,89.25
+10/11/2025,Riverside,Cold Brew,8,$4.75,38.00
+10/11/2025,Riverside,Croissant,19,$3.25,61.75
+10/11/2025,Riverside,Blueberry Muffin,12,$2.95,35.40
+11/11/2025,Downtown,Espresso,25,$3.00,75.00
+11/11/2025,Downtown,Latte,50,$4.50,225.00
+11/11/2025,Downtown,Cappuccino,36,$4.25,153.00
+11/11/2025,Downtown,Cold Brew,13,$4.75,61.75
+11/11/2025,Downtown,Croissant,26,$3.25,84.50
+11/11/2025,Downtown,Blueberry Muffin,25,$2.95,73.75
+11/11/2025,University,Espresso,25,$3.00,75.00
+11/11/2025,University,Latte,44,$4.50,198.00
+11/11/2025,University,Cappuccino,31,$4.25,131.75
+11/11/2025,University,Cold Brew,12,$4.75,57.00
+11/11/2025,University,Croissant,27,$3.25,87.75
+11/11/2025,University,Blueberry Muffin,19,$2.95,56.05
+11/11/2025,Riverside,Espresso,19,$3.00,57.00
+11/11/2025,Riverside,Latte,33,$4.50,148.50
+11/11/2025,Riverside,Cappuccino,22,$4.25,93.50
+11/11/2025,Riverside,Cold Brew,7,$4.75,33.25
+11/11/2025,Riverside,Croissant,18,$3.25,58.50
+11/11/2025,Riverside,Blueberry Muffin,14,$2.95,41.30
+12/11/2025,Downtown,Espresso,30,$3.00,90.00
+12/11/2025,Downtown,Latte,60,$4.50,270.00
+12/11/2025,Downtown,Cappuccino,43,$4.25,182.75
+12/11/2025,Downtown,Cold Brew,8,$4.75,38.00
+12/11/2025,Downtown,Croissant,32,$3.25,104.00
+12/11/2025,Downtown,Blueberry Muffin,26,$2.95,76.70
+12/11/2025,University,Espresso,28,$3.00,84.00
+12/11/2025,University,Latte,49,$4.50,220.50
+12/11/2025,University,Cappuccino,36,$4.25,153.00
+12/11/2025,University,Cold Brew,9,$4.75,42.75
+12/11/2025,University,Croissant,27,$3.25,87.75
+12/11/2025,University,Blueberry Muffin,22,$2.95,64.90
+12/11/2025,Riverside,Espresso,16,$3.00,48.00
+12/11/2025,Riverside,Latte,31,$4.50,139.50
+12/11/2025,Riverside,Cappuccino,20,$4.25,85.00
+12/11/2025,Riverside,Cold Brew,7,$4.75,33.25
+12/11/2025,Riverside,Croissant,18,$3.25,58.50
+12/11/2025,Riverside,Blueberry Muffin,13,$2.95,38.35
+13/11/2025,Downtown,Espresso,32,$3.00,96.00
+13/11/2025,Downtown,Latte,63,$4.50,283.50
+13/11/2025,Downtown,Cappuccino,42,$4.25,178.50
+13/11/2025,Downtown,Cold Brew,9,$4.75,42.75
+13/11/2025,Downtown,Croissant,39,$3.25,126.75
+13/11/2025,Downtown,Blueberry Muffin,24,$2.95,70.80
+13/11/2025,University,Espresso,26,$3.00,78.00
+13/11/2025,University,Latte,50,$4.50,225.00
+13/11/2025,University,Cappuccino,35,$4.25,148.75
+13/11/2025,University,Cold Brew,12,$4.75,57.00
+13/11/2025,University,Croissant,29,$3.25,94.25
+13/11/2025,University,Blueberry Muffin,21,$2.95,61.95
+13/11/2025,Riverside,Espresso,18,$3.00,54.00
+13/11/2025,Riverside,Latte,36,$4.50,162.00
+13/11/2025,Riverside,Cappuccino,23,$4.25,97.75
+13/11/2025,Riverside,Cold Brew,9,$4.75,42.75
+13/11/2025,Riverside,Croissant,21,$3.25,68.25
+13/11/2025,Riverside,Blueberry Muffin,15,$2.95,44.25
+14/11/2025,Downtown,Espresso,27,$3.00,81.00
+14/11/2025,Downtown,Latte,57,$4.50,256.50
+14/11/2025,Downtown,Cappuccino,35,$4.25,148.75
+14/11/2025,Downtown,Cold Brew,17,$4.75,80.75
+14/11/2025,Downtown,Croissant,31,$3.25,100.75
+14/11/2025,Downtown,Blueberry Muffin,26,$2.95,76.70
+14/11/2025,University,Espresso,24,$3.00,72.00
+14/11/2025,University,Latte,41,$4.50,184.50
+14/11/2025,University,Cappuccino,32,$4.25,136.00
+14/11/2025,University,Cold Brew,17,$4.75,80.75
+14/11/2025,University,Croissant,26,$3.25,84.50
+14/11/2025,University,Blueberry Muffin,19,$2.95,56.05
+14/11/2025,Riverside,Espresso,16,$3.00,48.00
+14/11/2025,Riverside,Latte,31,$4.50,139.50
+14/11/2025,Riverside,Cappuccino,23,$4.25,97.75
+14/11/2025,Riverside,Cold Brew,7,$4.75,33.25
+14/11/2025,Riverside,Croissant,18,$3.25,58.50
+14/11/2025,Riverside,Blueberry Muffin,14,$2.95,41.30
+15/11/2025,Downtown,Espresso,39,$3.00,117.00
+15/11/2025,Downtown,Latte,76,$4.50,342.00
+15/11/2025,Downtown,Cappuccino,49,$4.25,208.25
+15/11/2025,Downtown,Cold Brew,17,$4.75,80.75
+15/11/2025,Downtown,Croissant,43,$3.25,139.75
+15/11/2025,Downtown,Blueberry Muffin,29,$2.95,85.55
+15/11/2025,University,Espresso,16,$3.00,48.00
+15/11/2025,University,Latte,34,$4.50,153.00
+15/11/2025,University,Cappuccino,20,$4.25,85.00
+15/11/2025,University,Cold Brew,16,$4.75,76.00
+15/11/2025,University,Croissant,16,$3.25,52.00
+15/11/2025,University,Blueberry Muffin,15,$2.95,44.25
+15/11/2025,Riverside,Espresso,19,$3.00,57.00
+15/11/2025,Riverside,Latte,36,$4.50,162.00
+15/11/2025,Riverside,Cappuccino,26,$4.25,110.50
+15/11/2025,Riverside,Cold Brew,10,$4.75,47.50
+15/11/2025,Riverside,Croissant,21,$3.25,68.25
+15/11/2025,Riverside,Blueberry Muffin,17,$2.95,50.15
+16/11/2025,Downtown,Espresso,35,$3.00,105.00
+16/11/2025,Downtown,Latte,59,$4.50,265.50
+16/11/2025,Downtown,Cappuccino,45,$4.25,191.25
+16/11/2025,Downtown,Cold Brew,17,$4.75,80.75
+16/11/2025,Downtown,Croissant,32,$3.25,104.00
+16/11/2025,Downtown,Blueberry Muffin,27,$2.95,79.65
+16/11/2025,University,Espresso,18,$3.00,54.00
+16/11/2025,University,Latte,36,$4.50,162.00
+16/11/2025,University,Cappuccino,21,$4.25,89.25
+16/11/2025,University,Cold Brew,6,$4.75,28.50
+16/11/2025,University,Croissant,22,$3.25,71.50
+16/11/2025,University,Blueberry Muffin,14,$2.95,41.30
+16/11/2025,Riverside,Espresso,20,$3.00,60.00
+16/11/2025,Riverside,Latte,44,$4.50,198.00
+16/11/2025,Riverside,Cappuccino,25,$4.25,106.25
+16/11/2025,Riverside,Cold Brew,15,$4.75,71.25
+16/11/2025,Riverside,Croissant,26,$3.25,84.50
+16/11/2025,Riverside,Blueberry Muffin,17,$2.95,50.15
+17/11/2025,Downtown,Espresso,29,$3.00,87.00
+17/11/2025,Downtown,Latte,49,$4.50,220.50
+17/11/2025,Downtown,Cappuccino,37,$4.25,157.25
+17/11/2025,Downtown,Cold Brew,19,$4.75,90.25
+17/11/2025,Downtown,Croissant,32,$3.25,104.00
+17/11/2025,Downtown,Blueberry Muffin,20,$2.95,59.00
+17/11/2025,University,Espresso,26,$3.00,78.00
+17/11/2025,University,Latte,51,$4.50,229.50
+17/11/2025,University,Cappuccino,35,$4.25,148.75
+17/11/2025,University,Cold Brew,12,$4.75,57.00
+17/11/2025,University,Croissant,31,$3.25,100.75
+17/11/2025,University,Blueberry Muffin,23,$2.95,67.85
+17/11/2025,Riverside,Espresso,17,$3.00,51.00
+17/11/2025,Riverside,Latte,36,$4.50,162.00
+17/11/2025,Riverside,Cappuccino,25,$4.25,106.25
+17/11/2025,Riverside,Cold Brew,9,$4.75,42.75
+17/11/2025,Riverside,Croissant,19,$3.25,61.75
+17/11/2025,Riverside,Blueberry Muffin,11,$2.95,32.45
+18/11/2025,Downtown,Espresso,25,$3.00,75.00
+18/11/2025,Downtown,Latte,49,$4.50,220.50
+18/11/2025,Downtown,Cappuccino,35,$4.25,148.75
+18/11/2025,Downtown,Cold Brew,12,$4.75,57.00
+18/11/2025,Downtown,Croissant,27,$3.25,87.75
+18/11/2025,Downtown,Blueberry Muffin,19,$2.95,56.05
+18/11/2025,University,Espresso,22,$3.00,66.00
+18/11/2025,University,Latte,39,$4.50,175.50
+18/11/2025,University,Cappuccino,32,$4.25,136.00
+18/11/2025,University,Cold Brew,13,$4.75,61.75
+18/11/2025,University,Croissant,24,$3.25,78.00
+18/11/2025,University,Blueberry Muffin,15,$2.95,44.25
+18/11/2025,Riverside,Espresso,14,$3.00,42.00
+18/11/2025,Riverside,Latte,32,$4.50,144.00
+18/11/2025,Riverside,Cappuccino,20,$4.25,85.00
+18/11/2025,Riverside,Cold Brew,6,$4.75,28.50
+18/11/2025,Riverside,Croissant,17,$3.25,55.25
+18/11/2025,Riverside,Blueberry Muffin,9,$2.95,26.55
+19/11/2025,Downtown,Espresso,31,$3.00,93.00
+19/11/2025,Downtown,Latte,58,$4.50,261.00
+19/11/2025,Downtown,Cappuccino,37,$4.25,157.25
+19/11/2025,Downtown,Cold Brew,14,$4.75,66.50
+19/11/2025,Downtown,Croissant,36,$3.25,117.00
+19/11/2025,Downtown,Blueberry Muffin,21,$2.95,61.95
+19/11/2025,University,Espresso,23,$3.00,69.00
+19/11/2025,University,Latte,45,$4.50,202.50
+19/11/2025,University,Cappuccino,32,$4.25,136.00
+19/11/2025,University,Cold Brew,12,$4.75,57.00
+19/11/2025,University,Croissant,25,$3.25,81.25
+19/11/2025,University,Blueberry Muffin,18,$2.95,53.10
+19/11/2025,Riverside,Espresso,15,$3.00,45.00
+19/11/2025,Riverside,Latte,32,$4.50,144.00
+19/11/2025,Riverside,Cappuccino,23,$4.25,97.75
+19/11/2025,Riverside,Cold Brew,8,$4.75,38.00
+19/11/2025,Riverside,Croissant,20,$3.25,65.00
+19/11/2025,Riverside,Blueberry Muffin,16,$2.95,47.20
+20/11/2025,Downtown,Espresso,29,$3.00,87.00
+20/11/2025,Downtown,Latte,57,$4.50,256.50
+20/11/2025,Downtown,Cappuccino,42,$4.25,178.50
+20/11/2025,Downtown,Cold Brew,21,$4.75,99.75
+20/11/2025,Downtown,Croissant,35,$3.25,113.75
+20/11/2025,Downtown,Blueberry Muffin,25,$2.95,73.75
+20/11/2025,University,Espresso,24,$3.00,72.00
+20/11/2025,University,Latte,50,$4.50,225.00
+20/11/2025,University,Cappuccino,31,$4.25,131.75
+20/11/2025,University,Cold Brew,12,$4.75,57.00
+20/11/2025,University,Croissant,26,$3.25,84.50
+20/11/2025,University,Blueberry Muffin,22,$2.95,64.90
+20/11/2025,Riverside,Espresso,14,$3.00,42.00
+20/11/2025,Riverside,Latte,26,$4.50,117.00
+20/11/2025,Riverside,Cappuccino,21,$4.25,89.25
+20/11/2025,Riverside,Cold Brew,9,$4.75,42.75
+20/11/2025,Riverside,Croissant,16,$3.25,52.00
+20/11/2025,Riverside,Blueberry Muffin,11,$2.95,32.45
+21/11/2025,Downtown,Espresso,29,$3.00,87.00
+21/11/2025,Downtown,Latte,60,$4.50,270.00
+21/11/2025,Downtown,Cappuccino,44,$4.25,187.00
+21/11/2025,Downtown,Cold Brew,12,$4.75,57.00
+21/11/2025,Downtown,Croissant,35,$3.25,113.75
+21/11/2025,Downtown,Blueberry Muffin,25,$2.95,73.75
+21/11/2025,University,Espresso,25,$3.00,75.00
+21/11/2025,University,Latte,49,$4.50,220.50
+21/11/2025,University,Cappuccino,33,$4.25,140.25
+21/11/2025,University,Cold Brew,8,$4.75,38.00
+21/11/2025,University,Croissant,28,$3.25,91.00
+21/11/2025,University,Blueberry Muffin,21,$2.95,61.95
+21/11/2025,Riverside,Espresso,14,$3.00,42.00
+21/11/2025,Riverside,Latte,32,$4.50,144.00
+21/11/2025,Riverside,Cappuccino,25,$4.25,106.25
+21/11/2025,Riverside,Cold Brew,6,$4.75,28.50
+21/11/2025,Riverside,Croissant,17,$3.25,55.25
+21/11/2025,Riverside,Blueberry Muffin,13,$2.95,38.35
+22/11/2025,Downtown,Espresso,33,$3.00,99.00
+22/11/2025,Downtown,Latte,70,$4.50,315.00
+22/11/2025,Downtown,Cappuccino,47,$4.25,199.75
+22/11/2025,Downtown,Cold Brew,21,$4.75,99.75
+22/11/2025,Downtown,Croissant,36,$3.25,117.00
+22/11/2025,Downtown,Blueberry Muffin,28,$2.95,82.60
+22/11/2025,University,Espresso,19,$3.00,57.00
+22/11/2025,University,Latte,34,$4.50,153.00
+22/11/2025,University,Cappuccino,25,$4.25,106.25
+22/11/2025,University,Cold Brew,10,$4.75,47.50
+22/11/2025,University,Croissant,19,$3.25,61.75
+22/11/2025,University,Blueberry Muffin,17,$2.95,50.15
+22/11/2025,Riverside,Espresso,20,$3.00,60.00
+22/11/2025,Riverside,Latte,38,$4.50,171.00
+22/11/2025,Riverside,Cappuccino,25,$4.25,106.25
+22/11/2025,Riverside,Cold Brew,7,$4.75,33.25
+22/11/2025,Riverside,Croissant,23,$3.25,74.75
+22/11/2025,Riverside,Blueberry Muffin,18,$2.95,53.10
+23/11/2025,Downtown,Espresso,32,$3.00,96.00
+23/11/2025,Downtown,Latte,67,$4.50,301.50
+23/11/2025,Downtown,Cappuccino,47,$4.25,199.75
+23/11/2025,Downtown,Cold Brew,22,$4.75,104.50
+23/11/2025,Downtown,Croissant,31,$3.25,100.75
+23/11/2025,Downtown,Blueberry Muffin,24,$2.95,70.80
+23/11/2025,University,Espresso,18,$3.00,54.00
+23/11/2025,University,Latte,30,$4.50,135.00
+23/11/2025,University,Cappuccino,20,$4.25,85.00
+23/11/2025,University,Cold Brew,10,$4.75,47.50
+23/11/2025,University,Croissant,18,$3.25,58.50
+23/11/2025,University,Blueberry Muffin,15,$2.95,44.25
+23/11/2025,Riverside,Espresso,22,$3.00,66.00
+23/11/2025,Riverside,Latte,47,$4.50,211.50
+23/11/2025,Riverside,Cappuccino,30,$4.25,127.50
+23/11/2025,Riverside,Cold Brew,13,$4.75,61.75
+23/11/2025,Riverside,Croissant,28,$3.25,91.00
+23/11/2025,Riverside,Blueberry Muffin,20,$2.95,59.00
+24/11/2025,Downtown,Espresso,23,$3.00,69.00
+24/11/2025,Downtown,Latte,50,$4.50,225.00
+24/11/2025,Downtown,Cappuccino,36,$4.25,153.00
+24/11/2025,Downtown,Cold Brew,19,$4.75,90.25
+24/11/2025,Downtown,Croissant,32,$3.25,104.00
+24/11/2025,Downtown,Blueberry Muffin,26,$2.95,76.70
+24/11/2025,University,Espresso,21,$3.00,63.00
+24/11/2025,University,Latte,41,$4.50,184.50
+24/11/2025,University,Cappuccino,34,$4.25,144.50
+24/11/2025,University,Cold Brew,16,$4.75,76.00
+24/11/2025,University,Croissant,24,$3.25,78.00
+24/11/2025,University,Blueberry Muffin,18,$2.95,53.10
+24/11/2025,Riverside,Espresso,16,$3.00,48.00
+24/11/2025,Riverside,Latte,31,$4.50,139.50
+24/11/2025,Riverside,Cappuccino,25,$4.25,106.25
+24/11/2025,Riverside,Cold Brew,8,$4.75,38.00
+24/11/2025,Riverside,Croissant,17,$3.25,55.25
+24/11/2025,Riverside,Blueberry Muffin,12,$2.95,35.40
+25/11/2025,Downtown,Espresso,32,$3.00,96.00
+25/11/2025,Downtown,Latte,59,$4.50,265.50
+25/11/2025,Downtown,Cappuccino,34,$4.25,144.50
+25/11/2025,Downtown,Cold Brew,21,$4.75,99.75
+25/11/2025,Downtown,Croissant,32,$3.25,104.00
+25/11/2025,Downtown,Blueberry Muffin,22,$2.95,64.90
+25/11/2025,University,Espresso,31,$3.00,93.00
+25/11/2025,University,Latte,45,$4.50,202.50
+25/11/2025,University,Cappuccino,31,$4.25,131.75
+25/11/2025,University,Cold Brew,17,$4.75,80.75
+25/11/2025,University,Croissant,25,$3.25,81.25
+25/11/2025,University,Blueberry Muffin,22,$2.95,64.90
+25/11/2025,Riverside,Espresso,18,$3.00,54.00
+25/11/2025,Riverside,Latte,35,$4.50,157.50
+25/11/2025,Riverside,Cappuccino,26,$4.25,110.50
+25/11/2025,Riverside,Cold Brew,9,$4.75,42.75
+25/11/2025,Riverside,Croissant,19,$3.25,61.75
+25/11/2025,Riverside,Blueberry Muffin,16,$2.95,47.20
+26/11/2025,Downtown,Espresso,29,$3.00,87.00
+26/11/2025,Downtown,Latte,50,$4.50,225.00
+26/11/2025,Downtown,Cappuccino,37,$4.25,157.25
+26/11/2025,Downtown,Cold Brew,19,$4.75,90.25
+26/11/2025,Downtown,Croissant,32,$3.25,104.00
+26/11/2025,Downtown,Blueberry Muffin,22,$2.95,64.90
+26/11/2025,University,Espresso,27,$3.00,81.00
+26/11/2025,University,Latte,50,$4.50,225.00
+26/11/2025,University,Cappuccino,30,$4.25,127.50
+26/11/2025,University,Cold Brew,14,$4.75,66.50
+26/11/2025,University,Croissant,25,$3.25,81.25
+26/11/2025,University,Blueberry Muffin,22,$2.95,64.90
+26/11/2025,Riverside,Espresso,15,$3.00,45.00
+26/11/2025,Riverside,Latte,29,$4.50,130.50
+26/11/2025,Riverside,Cappuccino,22,$4.25,93.50
+26/11/2025,Riverside,Cold Brew,17,$4.75,80.75
+26/11/2025,Riverside,Croissant,16,$3.25,52.00
+26/11/2025,Riverside,Blueberry Muffin,13,$2.95,38.35
+27/11/2025,Downtown,Espresso,26,$3.00,78.00
+27/11/2025,Downtown,Latte,41,$4.50,184.50
+27/11/2025,Downtown,Cappuccino,36,$4.25,153.00
+27/11/2025,Downtown,Cold Brew,14,$4.75,66.50
+27/11/2025,Downtown,Croissant,28,$3.25,91.00
+27/11/2025,Downtown,Blueberry Muffin,21,$2.95,61.95
+27/11/2025,University,Espresso,20,$3.00,60.00
+27/11/2025,University,Latte,41,$4.50,184.50
+27/11/2025,University,Cappuccino,26,$4.25,110.50
+27/11/2025,University,Cold Brew,16,$4.75,76.00
+27/11/2025,University,Croissant,20,$3.25,65.00
+27/11/2025,University,Blueberry Muffin,16,$2.95,47.20
+27/11/2025,Riverside,Espresso,15,$3.00,45.00
+27/11/2025,Riverside,Latte,27,$4.50,121.50
+27/11/2025,Riverside,Cappuccino,17,$4.25,72.25
+27/11/2025,Riverside,Cold Brew,9,$4.75,42.75
+27/11/2025,Riverside,Croissant,16,$3.25,52.00
+27/11/2025,Riverside,Blueberry Muffin,10,$2.95,29.50
+28/11/2025,Downtown,Espresso,27,$3.00,81.00
+28/11/2025,Downtown,Latte,53,$4.50,238.50
+28/11/2025,Downtown,Cappuccino,31,$4.25,131.75
+28/11/2025,Downtown,Cold Brew,16,$4.75,76.00
+28/11/2025,Downtown,Croissant,32,$3.25,104.00
+28/11/2025,Downtown,Blueberry Muffin,21,$2.95,61.95
+28/11/2025,University,Espresso,20,$3.00,60.00
+28/11/2025,University,Latte,47,$4.50,211.50
+28/11/2025,University,Cappuccino,32,$4.25,136.00
+28/11/2025,University,Cold Brew,16,$4.75,76.00
+28/11/2025,University,Croissant,33,$3.25,107.25
+28/11/2025,University,Blueberry Muffin,20,$2.95,59.00
+28/11/2025,Riverside,Espresso,16,$3.00,48.00
+28/11/2025,Riverside,Latte,31,$4.50,139.50
+28/11/2025,Riverside,Cappuccino,21,$4.25,89.25
+28/11/2025,Riverside,Cold Brew,10,$4.75,47.50
+28/11/2025,Riverside,Croissant,17,$3.25,55.25
+28/11/2025,Riverside,Blueberry Muffin,14,$2.95,41.30
+29/11/2025,Downtown,Espresso,38,$3.00,114.00
+29/11/2025,Downtown,Latte,63,$4.50,283.50
+29/11/2025,Downtown,Cappuccino,48,$4.25,204.00
+29/11/2025,Downtown,Cold Brew,24,$4.75,114.00
+29/11/2025,Downtown,Croissant,35,$3.25,113.75
+29/11/2025,Downtown,Blueberry Muffin,31,$2.95,91.45
+29/11/2025,University,Espresso,17,$3.00,51.00
+29/11/2025,University,Latte,35,$4.50,157.50
+29/11/2025,University,Cappuccino,24,$4.25,102.00
+29/11/2025,University,Cold Brew,12,$4.75,57.00
+29/11/2025,University,Croissant,18,$3.25,58.50
+29/11/2025,University,Blueberry Muffin,18,$2.95,53.10
+29/11/2025,Riverside,Espresso,18,$3.00,54.00
+29/11/2025,Riverside,Latte,40,$4.50,180.00
+29/11/2025,Riverside,Cappuccino,25,$4.25,106.25
+29/11/2025,Riverside,Cold Brew,9,$4.75,42.75
+29/11/2025,Riverside,Croissant,23,$3.25,74.75
+29/11/2025,Riverside,Blueberry Muffin,16,$2.95,47.20
+30/11/2025,Downtown,Espresso,29,$3.00,87.00
+30/11/2025,Downtown,Latte,63,$4.50,283.50
+30/11/2025,Downtown,Cappuccino,43,$4.25,182.75
+30/11/2025,Downtown,Cold Brew,28,$4.75,133.00
+30/11/2025,Downtown,Croissant,34,$3.25,110.50
+30/11/2025,Downtown,Blueberry Muffin,25,$2.95,73.75
+30/11/2025,University,Espresso,14,$3.00,42.00
+30/11/2025,University,Latte,29,$4.50,130.50
+30/11/2025,University,Cappuccino,20,$4.25,85.00
+30/11/2025,University,Cold Brew,8,$4.75,38.00
+30/11/2025,University,Croissant,16,$3.25,52.00
+30/11/2025,University,Blueberry Muffin,14,$2.95,41.30
+30/11/2025,Riverside,Espresso,17,$3.00,51.00
+30/11/2025,Riverside,Latte,32,$4.50,144.00
+30/11/2025,Riverside,Cappuccino,24,$4.25,102.00
+30/11/2025,Riverside,Cold Brew,11,$4.75,52.25
+30/11/2025,Riverside,Croissant,21,$3.25,68.25
+30/11/2025,Riverside,Blueberry Muffin,16,$2.95,47.20

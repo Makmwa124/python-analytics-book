@@ -1,0 +1,1574 @@
+date,store,product,category,quantity,unit_price,revenue
+2026-01-01,Riverside,Espresso,Coffee,10,3.0,30.0
+2026-01-01,Riverside,Cold Brew,Coffee,7,4.75,33.25
+2026-01-01,University,Latte,Coffee,36,4.5,162.0
+2026-01-01,University,Espresso,Coffee,19,3.0,57.0
+2026-01-01,Downtown,Cappuccino,Coffee,35,4.25,148.75
+2026-01-01,Downtown,Cold Brew,Coffee,14,4.75,66.5
+2026-01-01,University,Cappuccino,Coffee,30,4.25,127.5
+2026-01-01,University,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-01-01,Downtown,Latte,Coffee,53,4.5,238.5
+2026-01-01,Riverside,Latte,Coffee,23,4.5,103.5
+2026-01-01,Downtown,Croissant,Bakery,26,3.25,84.5
+2026-01-01,University,Croissant,Bakery,26,3.25,84.5
+2026-01-01,Riverside,Croissant,Bakery,12,3.25,39.0
+2026-01-01,University,Cold Brew,Coffee,19,4.75,90.25
+2026-01-01,Downtown,Espresso,Coffee,30,3.0,90.0
+2026-01-01,Riverside,Blueberry Muffin,Bakery,11,2.95,32.45
+2026-01-01,Riverside,Cappuccino,Coffee,17,4.25,72.25
+2026-01-01,Downtown,Blueberry Muffin,Bakery,23,2.95,67.85
+2026-01-02,Riverside,Blueberry Muffin,Bakery,13,2.95,38.35
+2026-01-02,University,Cappuccino,Coffee,18,4.25,76.5
+2026-01-02,Riverside,Croissant,Bakery,13,3.25,42.25
+2026-01-02,Riverside,Latte,Coffee,21,4.5,94.5
+2026-01-02,Riverside,Cappuccino,Coffee,23,4.25,97.75
+2026-01-02,Downtown,Cold Brew,Coffee,22,4.75,104.5
+2026-01-02,Downtown,Blueberry Muffin,Bakery,25,2.95,73.75
+2026-01-02,Riverside,Cold Brew,Coffee,4,4.75,19.0
+2026-01-02,University,Croissant,Bakery,23,3.25,74.75
+2026-01-02,Downtown,Espresso,Coffee,28,3.0,84.0
+2026-01-02,Riverside,Espresso,Coffee,15,3.0,45.0
+2026-01-02,University,Latte,Coffee,35,4.5,157.5
+2026-01-02,University,Espresso,Coffee,23,3.0,69.0
+2026-01-02,Downtown,Latte,Coffee,52,4.5,234.0
+2026-01-02,Downtown,Cappuccino,Coffee,29,4.25,123.25
+2026-01-02,University,Blueberry Muffin,Bakery,18,2.95,53.1
+2026-01-02,University,Cold Brew,Coffee,18,4.75,85.5
+2026-01-03,University,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-01-03,Riverside,Cold Brew,Coffee,14,4.75,66.5
+2026-01-03,University,Croissant,Bakery,19,3.25,61.75
+2026-01-03,Downtown,Croissant,Bakery,28,3.25,91.0
+2026-01-03,University,Cold Brew,Coffee,17,4.75,80.75
+2026-01-03,Riverside,Cappuccino,Coffee,26,4.25,110.5
+2026-01-03,Riverside,Espresso,Coffee,15,3.0,45.0
+2026-01-03,Downtown,Latte,Coffee,64,4.5,288.0
+2026-01-03,University,Espresso,Coffee,15,3.0,45.0
+2026-01-03,Riverside,Croissant,Bakery,21,3.25,68.25
+2026-01-03,Riverside,Latte,Coffee,26,4.5,117.0
+2026-01-03,Riverside,Blueberry Muffin,Bakery,8,2.95,23.6
+2026-01-03,University,Latte,Coffee,29,4.5,130.5
+2026-01-03,Downtown,Cappuccino,Coffee,43,4.25,182.75
+2026-01-03,Downtown,Cold Brew,Coffee,19,4.75,90.25
+2026-01-03,Downtown,Espresso,Coffee,34,3.0,102.0
+2026-01-03,University,Cappuccino,Coffee,29,4.25,123.25
+2026-01-03,Downtown,Blueberry Muffin,Bakery,25,2.95,73.75
+2026-01-04,Riverside,Croissant,Bakery,21,3.25,68.25
+2026-01-04,University,Latte,Coffee,42,4.5,189.0
+2026-01-04,Downtown,Cold Brew,Coffee,27,4.75,128.25
+2026-01-04,Downtown,Croissant,Bakery,50,3.25,162.5
+2026-01-04,Riverside,Blueberry Muffin,Bakery,12,2.95,35.4
+2026-01-04,University,Blueberry Muffin,Bakery,10,2.95,29.5
+2026-01-04,Downtown,Blueberry Muffin,Bakery,31,2.95,91.45
+2026-01-04,Downtown,Espresso,Coffee,29,3.0,87.0
+2026-01-04,Riverside,Cold Brew,Coffee,11,4.75,52.25
+2026-01-04,University,Espresso,Coffee,17,3.0,51.0
+2026-01-04,Riverside,Espresso,Coffee,12,3.0,36.0
+2026-01-04,University,Cappuccino,Coffee,21,4.25,89.25
+2026-01-04,Riverside,Cappuccino,Coffee,25,4.25,106.25
+2026-01-04,University,Croissant,Bakery,19,3.25,61.75
+2026-01-04,Downtown,Cappuccino,Coffee,40,4.25,170.0
+2026-01-04,Downtown,Latte,Coffee,45,4.5,202.5
+2026-01-04,Riverside,Latte,Coffee,28,4.5,126.0
+2026-01-04,University,Cold Brew,Coffee,12,4.75,57.0
+2026-01-05,Riverside,Cappuccino,Coffee,14,4.25,59.5
+2026-01-05,Downtown,Espresso,Coffee,20,3.0,60.0
+2026-01-05,Downtown,Cold Brew,Coffee,24,4.75,114.0
+2026-01-05,Riverside,Latte,Coffee,29,4.5,130.5
+2026-01-05,University,Cappuccino,Coffee,26,4.25,110.5
+2026-01-05,Riverside,Croissant,Bakery,11,3.25,35.75
+2026-01-05,Riverside,Espresso,Coffee,9,3.0,27.0
+2026-01-05,Riverside,Cold Brew,Coffee,14,4.75,66.5
+2026-01-05,Riverside,Blueberry Muffin,Bakery,18,2.95,53.1
+2026-01-05,Downtown,Blueberry Muffin,Bakery,25,2.95,73.75
+2026-01-05,Downtown,Croissant,Bakery,26,3.25,84.5
+2026-01-05,University,Latte,Coffee,28,4.5,126.0
+2026-01-05,University,Cold Brew,Coffee,12,4.75,57.0
+2026-01-05,University,Blueberry Muffin,Bakery,11,2.95,32.45
+2026-01-05,Downtown,Cappuccino,Coffee,31,4.25,131.75
+2026-01-05,University,Croissant,Bakery,22,3.25,71.5
+2026-01-05,University,Espresso,Coffee,29,3.0,87.0
+2026-01-05,Downtown,Latte,Coffee,55,4.5,247.5
+2026-01-06,Riverside,Cappuccino,Coffee,10,4.25,42.5
+2026-01-06,Riverside,Blueberry Muffin,Bakery,10,2.95,29.5
+2026-01-06,University,Cappuccino,Coffee,26,4.25,110.5
+2026-01-06,Downtown,Blueberry Muffin,Bakery,21,2.95,61.95
+2026-01-06,University,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-01-06,Downtown,Cold Brew,Coffee,15,4.75,71.25
+2026-01-06,University,Latte,Coffee,37,4.5,166.5
+2026-01-06,University,Cold Brew,Coffee,15,4.75,71.25
+2026-01-06,Riverside,Cold Brew,Coffee,10,4.75,47.5
+2026-01-06,Downtown,Latte,Coffee,41,4.5,184.5
+2026-01-06,Downtown,Espresso,Coffee,22,3.0,66.0
+2026-01-06,Riverside,Espresso,Coffee,11,3.0,33.0
+2026-01-06,University,Espresso,Coffee,16,3.0,48.0
+2026-01-06,Downtown,Cappuccino,Coffee,33,4.25,140.25
+2026-01-06,University,Croissant,Bakery,24,3.25,78.0
+2026-01-06,Downtown,Croissant,Bakery,38,3.25,123.5
+2026-01-06,Riverside,Latte,Coffee,31,4.5,139.5
+2026-01-07,Downtown,Espresso,Coffee,18,3.0,54.0
+2026-01-07,Riverside,Cold Brew,Coffee,12,4.75,57.0
+2026-01-07,University,Cold Brew,Coffee,7,4.75,33.25
+2026-01-07,Riverside,Croissant,Bakery,21,3.25,68.25
+2026-01-07,University,Cappuccino,Coffee,25,4.25,106.25
+2026-01-07,Riverside,Espresso,Coffee,21,3.0,63.0
+2026-01-07,Riverside,Latte,Coffee,30,4.5,135.0
+2026-01-07,Downtown,Cold Brew,Coffee,23,4.75,109.25
+2026-01-07,Downtown,Latte,Coffee,31,4.5,139.5
+2026-01-07,University,Croissant,Bakery,23,3.25,74.75
+2026-01-07,Riverside,Blueberry Muffin,Bakery,11,2.95,32.45
+2026-01-07,Riverside,Cappuccino,Coffee,22,4.25,93.5
+2026-01-07,University,Blueberry Muffin,Bakery,21,2.95,61.95
+2026-01-07,Downtown,Blueberry Muffin,Bakery,27,2.95,79.65
+2026-01-07,Downtown,Croissant,Bakery,25,3.25,81.25
+2026-01-07,University,Espresso,Coffee,9,3.0,27.0
+2026-01-07,Downtown,Cappuccino,Coffee,19,4.25,80.75
+2026-01-08,Riverside,Cold Brew,Coffee,13,4.75,61.75
+2026-01-08,University,Latte,Coffee,43,4.5,193.5
+2026-01-08,Riverside,Latte,Coffee,37,4.5,166.5
+2026-01-08,University,Croissant,Bakery,26,3.25,84.5
+2026-01-08,Downtown,Espresso,Coffee,22,3.0,66.0
+2026-01-08,Downtown,Blueberry Muffin,Bakery,29,2.95,85.55
+2026-01-08,University,Espresso,Coffee,18,3.0,54.0
+2026-01-08,University,Cold Brew,Coffee,18,4.75,85.5
+2026-01-08,Downtown,Cold Brew,Coffee,19,4.75,90.25
+2026-01-08,Riverside,Espresso,Coffee,18,3.0,54.0
+2026-01-08,Downtown,Latte,Coffee,45,4.5,202.5
+2026-01-08,University,Cappuccino,Coffee,29,4.25,123.25
+2026-01-08,Riverside,Blueberry Muffin,Bakery,12,2.95,35.4
+2026-01-08,Riverside,Cappuccino,Coffee,19,4.25,80.75
+2026-01-08,Downtown,Cappuccino,Coffee,26,4.25,110.5
+2026-01-08,University,Blueberry Muffin,Bakery,11,2.95,32.45
+2026-01-08,Riverside,Croissant,Bakery,17,3.25,55.25
+2026-01-08,Downtown,Croissant,Bakery,26,3.25,84.5
+2026-01-09,Riverside,Espresso,Coffee,18,3.0,54.0
+2026-01-09,Downtown,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-01-09,University,Espresso,Coffee,24,3.0,72.0
+2026-01-09,Downtown,Croissant,Bakery,33,3.25,107.25
+2026-01-09,Riverside,Cold Brew,Coffee,13,4.75,61.75
+2026-01-09,Downtown,Latte,Coffee,58,4.5,261.0
+2026-01-09,University,Cold Brew,Coffee,24,4.75,114.0
+2026-01-09,University,Latte,Coffee,33,4.5,148.5
+2026-01-09,University,Blueberry Muffin,Bakery,17,2.95,50.15
+2026-01-09,University,Croissant,Bakery,21,3.25,68.25
+2026-01-09,Riverside,Cappuccino,Coffee,20,4.25,85.0
+2026-01-09,Riverside,Croissant,Bakery,21,3.25,68.25
+2026-01-09,University,Cappuccino,Coffee,19,4.25,80.75
+2026-01-09,Downtown,Espresso,Coffee,25,3.0,75.0
+2026-01-09,Downtown,Cold Brew,Coffee,23,4.75,109.25
+2026-01-09,Downtown,Cappuccino,Coffee,23,4.25,97.75
+2026-01-10,Riverside,Cappuccino,Coffee,28,4.25,119.0
+2026-01-10,Downtown,Croissant,Bakery,28,3.25,91.0
+2026-01-10,Downtown,Cold Brew,Coffee,29,4.75,137.75
+2026-01-10,Downtown,Espresso,Coffee,29,3.0,87.0
+2026-01-10,University,Espresso,Coffee,20,3.0,60.0
+2026-01-10,Riverside,Croissant,Bakery,17,3.25,55.25
+2026-01-10,University,Croissant,Bakery,22,3.25,71.5
+2026-01-10,University,Cappuccino,Coffee,18,4.25,76.5
+2026-01-10,Downtown,Latte,Coffee,64,4.5,288.0
+2026-01-10,Riverside,Blueberry Muffin,Bakery,18,2.95,53.1
+2026-01-10,Downtown,Cappuccino,Coffee,35,4.25,148.75
+2026-01-10,Riverside,Espresso,Coffee,12,3.0,36.0
+2026-01-10,University,Blueberry Muffin,Bakery,5,2.95,14.75
+2026-01-10,Downtown,Blueberry Muffin,Bakery,22,2.95,64.9
+2026-01-10,University,Cold Brew,Coffee,21,4.75,99.75
+2026-01-10,University,Latte,Coffee,33,4.5,148.5
+2026-01-10,Riverside,Cold Brew,Coffee,18,4.75,85.5
+2026-01-10,Riverside,Latte,Coffee,37,4.5,166.5
+2026-01-11,Downtown,Croissant,Bakery,37,3.25,120.25
+2026-01-11,University,Cold Brew,Coffee,14,4.75,66.5
+2026-01-11,Riverside,Cappuccino,Coffee,23,4.25,97.75
+2026-01-11,Downtown,Latte,Coffee,64,4.5,288.0
+2026-01-11,University,Latte,Coffee,24,4.5,108.0
+2026-01-11,Riverside,Croissant,Bakery,22,3.25,71.5
+2026-01-11,Riverside,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-01-11,Riverside,Latte,Coffee,32,4.5,144.0
+2026-01-11,Riverside,Cold Brew,Coffee,18,4.75,85.5
+2026-01-11,University,Espresso,Coffee,16,3.0,48.0
+2026-01-11,University,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-01-11,Downtown,Cappuccino,Coffee,40,4.25,170.0
+2026-01-11,University,Cappuccino,Coffee,18,4.25,76.5
+2026-01-11,Downtown,Blueberry Muffin,Bakery,20,2.95,59.0
+2026-01-11,Riverside,Espresso,Coffee,19,3.0,57.0
+2026-01-11,Downtown,Espresso,Coffee,23,3.0,69.0
+2026-01-11,Downtown,Cold Brew,Coffee,38,4.75,180.5
+2026-01-11,University,Croissant,Bakery,21,3.25,68.25
+2026-01-12,University,Croissant,Bakery,28,3.25,91.0
+2026-01-12,University,Blueberry Muffin,Bakery,12,2.95,35.4
+2026-01-12,Downtown,Croissant,Bakery,29,3.25,94.25
+2026-01-12,Riverside,Cappuccino,Coffee,20,4.25,85.0
+2026-01-12,Downtown,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-01-12,Downtown,Latte,Coffee,43,4.5,193.5
+2026-01-12,University,Cold Brew,Coffee,15,4.75,71.25
+2026-01-12,Riverside,Cold Brew,Coffee,11,4.75,52.25
+2026-01-12,Downtown,Cold Brew,Coffee,30,4.75,142.5
+2026-01-12,Downtown,Espresso,Coffee,25,3.0,75.0
+2026-01-12,Downtown,Cappuccino,Coffee,35,4.25,148.75
+2026-01-12,Riverside,Croissant,Bakery,17,3.25,55.25
+2026-01-12,Riverside,Blueberry Muffin,Bakery,8,2.95,23.6
+2026-01-12,Riverside,Latte,Coffee,30,4.5,135.0
+2026-01-12,Riverside,Espresso,Coffee,9,3.0,27.0
+2026-01-12,University,Latte,Coffee,23,4.5,103.5
+2026-01-12,University,Espresso,Coffee,20,3.0,60.0
+2026-01-12,University,Cappuccino,Coffee,22,4.25,93.5
+2026-01-13,Downtown,Latte,Coffee,51,4.5,229.5
+2026-01-13,University,Espresso,Coffee,13,3.0,39.0
+2026-01-13,Riverside,Cappuccino,Coffee,25,4.25,106.25
+2026-01-13,Downtown,Cappuccino,Coffee,31,4.25,131.75
+2026-01-13,Downtown,Croissant,Bakery,25,3.25,81.25
+2026-01-13,Riverside,Espresso,Coffee,14,3.0,42.0
+2026-01-13,University,Cappuccino,Coffee,27,4.25,114.75
+2026-01-13,Riverside,Croissant,Bakery,16,3.25,52.0
+2026-01-13,Riverside,Latte,Coffee,32,4.5,144.0
+2026-01-13,Downtown,Cold Brew,Coffee,11,4.75,52.25
+2026-01-13,Downtown,Blueberry Muffin,Bakery,23,2.95,67.85
+2026-01-13,University,Croissant,Bakery,20,3.25,65.0
+2026-01-13,Riverside,Cold Brew,Coffee,17,4.75,80.75
+2026-01-13,University,Latte,Coffee,43,4.5,193.5
+2026-01-13,University,Blueberry Muffin,Bakery,15,2.95,44.25
+2026-01-13,Riverside,Blueberry Muffin,Bakery,7,2.95,20.65
+2026-01-13,University,Cold Brew,Coffee,21,4.75,99.75
+2026-01-13,Downtown,Espresso,Coffee,24,3.0,72.0
+2026-01-14,Downtown,Cappuccino,Coffee,26,4.25,110.5
+2026-01-14,Riverside,Latte,Coffee,19,4.5,85.5
+2026-01-14,Downtown,Latte,Coffee,39,4.5,175.5
+2026-01-14,Riverside,Espresso,Coffee,18,3.0,54.0
+2026-01-14,Riverside,Cold Brew,Coffee,16,4.75,76.0
+2026-01-14,University,Croissant,Bakery,23,3.25,74.75
+2026-01-14,Riverside,Croissant,Bakery,17,3.25,55.25
+2026-01-14,Downtown,Espresso,Coffee,34,3.0,102.0
+2026-01-14,Downtown,Croissant,Bakery,25,3.25,81.25
+2026-01-14,Downtown,Cold Brew,Coffee,30,4.75,142.5
+2026-01-14,Riverside,Cappuccino,Coffee,22,4.25,93.5
+2026-01-14,University,Espresso,Coffee,20,3.0,60.0
+2026-01-14,University,Latte,Coffee,45,4.5,202.5
+2026-01-14,University,Cappuccino,Coffee,31,4.25,131.75
+2026-01-14,Downtown,Blueberry Muffin,Bakery,24,2.95,70.8
+2026-01-14,Riverside,Blueberry Muffin,Bakery,18,2.95,53.1
+2026-01-14,University,Cold Brew,Coffee,20,4.75,95.0
+2026-01-14,University,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-01-15,Downtown,Latte,Coffee,49,4.5,220.5
+2026-01-15,Riverside,Blueberry Muffin,Bakery,8,2.95,23.6
+2026-01-15,University,Espresso,Coffee,23,3.0,69.0
+2026-01-15,Riverside,Cold Brew,Coffee,14,4.75,66.5
+2026-01-15,Downtown,Cappuccino,Coffee,19,4.25,80.75
+2026-01-15,Riverside,Cappuccino,Coffee,13,4.25,55.25
+2026-01-15,University,Cold Brew,Coffee,18,4.75,85.5
+2026-01-15,University,Latte,Coffee,43,4.5,193.5
+2026-01-15,University,Cappuccino,Coffee,31,4.25,131.75
+2026-01-15,Downtown,Espresso,Coffee,14,3.0,42.0
+2026-01-15,Downtown,Croissant,Bakery,32,3.25,104.0
+2026-01-15,Riverside,Croissant,Bakery,23,3.25,74.75
+2026-01-15,University,Croissant,Bakery,19,3.25,61.75
+2026-01-15,University,Blueberry Muffin,Bakery,13,2.95,38.35
+2026-01-15,Downtown,Blueberry Muffin,Bakery,20,2.95,59.0
+2026-01-15,Downtown,Cold Brew,Coffee,24,4.75,114.0
+2026-01-15,Riverside,Espresso,Coffee,13,3.0,39.0
+2026-01-15,Riverside,Latte,Coffee,23,4.5,103.5
+2026-01-16,Riverside,Espresso,Coffee,18,3.0,54.0
+2026-01-16,Riverside,Croissant,Bakery,13,3.25,42.25
+2026-01-16,Riverside,Latte,Coffee,27,4.5,121.5
+2026-01-16,University,Latte,Coffee,41,4.5,184.5
+2026-01-16,University,Cold Brew,Coffee,14,4.75,66.5
+2026-01-16,Riverside,Cappuccino,Coffee,18,4.25,76.5
+2026-01-16,Riverside,Blueberry Muffin,Bakery,12,2.95,35.4
+2026-01-16,Riverside,Cold Brew,Coffee,7,4.75,33.25
+2026-01-16,Downtown,Blueberry Muffin,Bakery,18,2.95,53.1
+2026-01-16,University,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-01-16,Downtown,Cappuccino,Coffee,30,4.25,127.5
+2026-01-16,University,Cappuccino,Coffee,27,4.25,114.75
+2026-01-16,Downtown,Cold Brew,Coffee,26,4.75,123.5
+2026-01-16,Downtown,Latte,Coffee,49,4.5,220.5
+2026-01-16,Downtown,Espresso,Coffee,16,3.0,48.0
+2026-01-16,University,Espresso,Coffee,28,3.0,84.0
+2026-01-16,Downtown,Croissant,Bakery,25,3.25,81.25
+2026-01-17,Riverside,Espresso,Coffee,9,3.0,27.0
+2026-01-17,Downtown,Blueberry Muffin,Bakery,34,2.95,100.3
+2026-01-17,University,Blueberry Muffin,Bakery,13,2.95,38.35
+2026-01-17,Riverside,Cappuccino,Coffee,12,4.25,51.0
+2026-01-17,Downtown,Espresso,Coffee,29,3.0,87.0
+2026-01-17,Riverside,Cold Brew,Coffee,23,4.75,109.25
+2026-01-17,University,Latte,Coffee,29,4.5,130.5
+2026-01-17,Riverside,Blueberry Muffin,Bakery,10,2.95,29.5
+2026-01-17,University,Croissant,Bakery,22,3.25,71.5
+2026-01-17,University,Cappuccino,Coffee,18,4.25,76.5
+2026-01-17,University,Cold Brew,Coffee,12,4.75,57.0
+2026-01-17,Downtown,Latte,Coffee,47,4.5,211.5
+2026-01-17,Riverside,Croissant,Bakery,16,3.25,52.0
+2026-01-17,Riverside,Latte,Coffee,37,4.5,166.5
+2026-01-17,Downtown,Cold Brew,Coffee,23,4.75,109.25
+2026-01-17,Downtown,Cappuccino,Coffee,27,4.25,114.75
+2026-01-17,University,Espresso,Coffee,18,3.0,54.0
+2026-01-18,University,Cold Brew,Coffee,18,4.75,85.5
+2026-01-18,Downtown,Cappuccino,Coffee,42,4.25,178.5
+2026-01-18,University,Croissant,Bakery,26,3.25,84.5
+2026-01-18,University,Espresso,Coffee,14,3.0,42.0
+2026-01-18,University,Blueberry Muffin,Bakery,10,2.95,29.5
+2026-01-18,Riverside,Latte,Coffee,41,4.5,184.5
+2026-01-18,Downtown,Cold Brew,Coffee,27,4.75,128.25
+2026-01-18,Riverside,Croissant,Bakery,26,3.25,84.5
+2026-01-18,University,Latte,Coffee,29,4.5,130.5
+2026-01-18,Riverside,Blueberry Muffin,Bakery,17,2.95,50.15
+2026-01-18,Downtown,Croissant,Bakery,42,3.25,136.5
+2026-01-18,Downtown,Espresso,Coffee,28,3.0,84.0
+2026-01-18,Riverside,Espresso,Coffee,21,3.0,63.0
+2026-01-18,Riverside,Cold Brew,Coffee,14,4.75,66.5
+2026-01-18,Downtown,Blueberry Muffin,Bakery,32,2.95,94.4
+2026-01-18,Downtown,Latte,Coffee,60,4.5,270.0
+2026-01-18,Riverside,Cappuccino,Coffee,24,4.25,102.0
+2026-01-19,University,Croissant,Bakery,26,3.25,84.5
+2026-01-19,Riverside,Latte,Coffee,30,4.5,135.0
+2026-01-19,Riverside,Cappuccino,Coffee,17,4.25,72.25
+2026-01-19,University,Espresso,Coffee,19,3.0,57.0
+2026-01-19,Downtown,Cappuccino,Coffee,30,4.25,127.5
+2026-01-19,University,Latte,Coffee,30,4.5,135.0
+2026-01-19,Downtown,Cold Brew,Coffee,26,4.75,123.5
+2026-01-19,Riverside,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-01-19,Riverside,Espresso,Coffee,9,3.0,27.0
+2026-01-19,Downtown,Blueberry Muffin,Bakery,22,2.95,64.9
+2026-01-19,Downtown,Latte,Coffee,48,4.5,216.0
+2026-01-19,Downtown,Croissant,Bakery,28,3.25,91.0
+2026-01-19,Riverside,Cold Brew,Coffee,14,4.75,66.5
+2026-01-19,University,Cold Brew,Coffee,16,4.75,76.0
+2026-01-19,Riverside,Croissant,Bakery,15,3.25,48.75
+2026-01-19,University,Cappuccino,Coffee,20,4.25,85.0
+2026-01-19,Downtown,Espresso,Coffee,33,3.0,99.0
+2026-01-20,Riverside,Cappuccino,Coffee,13,4.25,55.25
+2026-01-20,Downtown,Croissant,Bakery,24,3.25,78.0
+2026-01-20,University,Espresso,Coffee,16,3.0,48.0
+2026-01-20,Downtown,Latte,Coffee,44,4.5,198.0
+2026-01-20,Downtown,Cappuccino,Coffee,25,4.25,106.25
+2026-01-20,Riverside,Croissant,Bakery,17,3.25,55.25
+2026-01-20,Riverside,Espresso,Coffee,12,3.0,36.0
+2026-01-20,University,Croissant,Bakery,19,3.25,61.75
+2026-01-20,University,Latte,Coffee,36,4.5,162.0
+2026-01-20,Downtown,Blueberry Muffin,Bakery,18,2.95,53.1
+2026-01-20,University,Cold Brew,Coffee,18,4.75,85.5
+2026-01-20,Riverside,Latte,Coffee,28,4.5,126.0
+2026-01-20,University,Blueberry Muffin,Bakery,9,2.95,26.55
+2026-01-20,Downtown,Espresso,Coffee,21,3.0,63.0
+2026-01-20,Riverside,Blueberry Muffin,Bakery,10,2.95,29.5
+2026-01-20,Riverside,Cold Brew,Coffee,9,4.75,42.75
+2026-01-20,University,Cappuccino,Coffee,37,4.25,157.25
+2026-01-20,Downtown,Cold Brew,Coffee,21,4.75,99.75
+2026-01-21,Downtown,Cappuccino,Coffee,43,4.25,182.75
+2026-01-21,University,Croissant,Bakery,19,3.25,61.75
+2026-01-21,University,Espresso,Coffee,20,3.0,60.0
+2026-01-21,Riverside,Croissant,Bakery,26,3.25,84.5
+2026-01-21,Downtown,Latte,Coffee,52,4.5,234.0
+2026-01-21,University,Cappuccino,Coffee,32,4.25,136.0
+2026-01-21,Downtown,Blueberry Muffin,Bakery,17,2.95,50.15
+2026-01-21,Riverside,Cold Brew,Coffee,8,4.75,38.0
+2026-01-21,Downtown,Espresso,Coffee,25,3.0,75.0
+2026-01-21,Downtown,Cold Brew,Coffee,30,4.75,142.5
+2026-01-21,University,Cold Brew,Coffee,18,4.75,85.5
+2026-01-21,University,Blueberry Muffin,Bakery,25,2.95,73.75
+2026-01-21,Riverside,Latte,Coffee,26,4.5,117.0
+2026-01-21,University,Latte,Coffee,40,4.5,180.0
+2026-01-21,Riverside,Espresso,Coffee,18,3.0,54.0
+2026-01-21,Riverside,Cappuccino,Coffee,19,4.25,80.75
+2026-01-21,Downtown,Croissant,Bakery,25,3.25,81.25
+2026-01-21,Riverside,Blueberry Muffin,Bakery,20,2.95,59.0
+2026-01-22,Downtown,Blueberry Muffin,Bakery,25,2.95,73.75
+2026-01-22,University,Croissant,Bakery,31,3.25,100.75
+2026-01-22,University,Espresso,Coffee,18,3.0,54.0
+2026-01-22,Riverside,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-01-22,University,Cappuccino,Coffee,27,4.25,114.75
+2026-01-22,University,Latte,Coffee,34,4.5,153.0
+2026-01-22,Riverside,Espresso,Coffee,7,3.0,21.0
+2026-01-22,University,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-01-22,Riverside,Cappuccino,Coffee,20,4.25,85.0
+2026-01-22,Downtown,Latte,Coffee,41,4.5,184.5
+2026-01-22,Riverside,Croissant,Bakery,19,3.25,61.75
+2026-01-22,Downtown,Espresso,Coffee,27,3.0,81.0
+2026-01-22,Downtown,Croissant,Bakery,29,3.25,94.25
+2026-01-22,Downtown,Cold Brew,Coffee,23,4.75,109.25
+2026-01-22,Downtown,Cappuccino,Coffee,29,4.25,123.25
+2026-01-22,Riverside,Cold Brew,Coffee,20,4.75,95.0
+2026-01-22,Riverside,Latte,Coffee,20,4.5,90.0
+2026-01-22,University,Cold Brew,Coffee,22,4.75,104.5
+2026-01-23,University,Cappuccino,Coffee,24,4.25,102.0
+2026-01-23,University,Latte,Coffee,37,4.5,166.5
+2026-01-23,Riverside,Croissant,Bakery,14,3.25,45.5
+2026-01-23,Downtown,Cold Brew,Coffee,26,4.75,123.5
+2026-01-23,University,Cold Brew,Coffee,16,4.75,76.0
+2026-01-23,University,Croissant,Bakery,22,3.25,71.5
+2026-01-23,Downtown,Croissant,Bakery,41,3.25,133.25
+2026-01-23,Downtown,Blueberry Muffin,Bakery,25,2.95,73.75
+2026-01-23,Riverside,Latte,Coffee,33,4.5,148.5
+2026-01-23,Downtown,Espresso,Coffee,26,3.0,78.0
+2026-01-23,Riverside,Blueberry Muffin,Bakery,18,2.95,53.1
+2026-01-23,Riverside,Cappuccino,Coffee,20,4.25,85.0
+2026-01-23,University,Espresso,Coffee,21,3.0,63.0
+2026-01-23,University,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-01-23,Downtown,Cappuccino,Coffee,35,4.25,148.75
+2026-01-23,Riverside,Espresso,Coffee,11,3.0,33.0
+2026-01-23,Riverside,Cold Brew,Coffee,11,4.75,52.25
+2026-01-24,University,Blueberry Muffin,Bakery,12,2.95,35.4
+2026-01-24,Riverside,Croissant,Bakery,14,3.25,45.5
+2026-01-24,Riverside,Espresso,Coffee,16,3.0,48.0
+2026-01-24,Riverside,Latte,Coffee,35,4.5,157.5
+2026-01-24,University,Latte,Coffee,39,4.5,175.5
+2026-01-24,University,Croissant,Bakery,20,3.25,65.0
+2026-01-24,Riverside,Blueberry Muffin,Bakery,11,2.95,32.45
+2026-01-24,Downtown,Cold Brew,Coffee,27,4.75,128.25
+2026-01-24,Downtown,Blueberry Muffin,Bakery,34,2.95,100.3
+2026-01-24,University,Cold Brew,Coffee,18,4.75,85.5
+2026-01-24,Riverside,Cappuccino,Coffee,29,4.25,123.25
+2026-01-24,Downtown,Cappuccino,Coffee,35,4.25,148.75
+2026-01-24,University,Espresso,Coffee,17,3.0,51.0
+2026-01-24,Riverside,Cold Brew,Coffee,12,4.75,57.0
+2026-01-24,Downtown,Latte,Coffee,76,4.5,342.0
+2026-01-24,Downtown,Espresso,Coffee,33,3.0,99.0
+2026-01-24,Downtown,Croissant,Bakery,35,3.25,113.75
+2026-01-25,Downtown,Espresso,Coffee,29,3.0,87.0
+2026-01-25,Riverside,Cappuccino,Coffee,22,4.25,93.5
+2026-01-25,Riverside,Cold Brew,Coffee,21,4.75,99.75
+2026-01-25,Downtown,Croissant,Bakery,36,3.25,117.0
+2026-01-25,Downtown,Latte,Coffee,62,4.5,279.0
+2026-01-25,Riverside,Espresso,Coffee,19,3.0,57.0
+2026-01-25,University,Cold Brew,Coffee,15,4.75,71.25
+2026-01-25,University,Espresso,Coffee,17,3.0,51.0
+2026-01-25,Downtown,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-01-25,Riverside,Blueberry Muffin,Bakery,20,2.95,59.0
+2026-01-25,University,Blueberry Muffin,Bakery,9,2.95,26.55
+2026-01-25,Riverside,Latte,Coffee,21,4.5,94.5
+2026-01-25,University,Latte,Coffee,20,4.5,90.0
+2026-01-25,Downtown,Cappuccino,Coffee,47,4.25,199.75
+2026-01-25,Riverside,Croissant,Bakery,26,3.25,84.5
+2026-01-25,University,Cappuccino,Coffee,20,4.25,85.0
+2026-01-25,University,Croissant,Bakery,20,3.25,65.0
+2026-01-25,Downtown,Cold Brew,Coffee,28,4.75,133.0
+2026-01-26,Riverside,Latte,Coffee,28,4.5,126.0
+2026-01-26,Riverside,Croissant,Bakery,14,3.25,45.5
+2026-01-26,University,Blueberry Muffin,Bakery,13,2.95,38.35
+2026-01-26,Riverside,Cappuccino,Coffee,23,4.25,97.75
+2026-01-26,Downtown,Croissant,Bakery,24,3.25,78.0
+2026-01-26,University,Cappuccino,Coffee,19,4.25,80.75
+2026-01-26,Downtown,Blueberry Muffin,Bakery,26,2.95,76.7
+2026-01-26,University,Espresso,Coffee,13,3.0,39.0
+2026-01-26,Riverside,Blueberry Muffin,Bakery,13,2.95,38.35
+2026-01-26,Downtown,Latte,Coffee,42,4.5,189.0
+2026-01-26,Riverside,Espresso,Coffee,12,3.0,36.0
+2026-01-26,University,Latte,Coffee,30,4.5,135.0
+2026-01-26,Downtown,Cold Brew,Coffee,23,4.75,109.25
+2026-01-26,Downtown,Espresso,Coffee,25,3.0,75.0
+2026-01-26,University,Croissant,Bakery,29,3.25,94.25
+2026-01-26,University,Cold Brew,Coffee,18,4.75,85.5
+2026-01-26,Riverside,Cold Brew,Coffee,15,4.75,71.25
+2026-01-27,Riverside,Espresso,Coffee,13,3.0,39.0
+2026-01-27,Downtown,Espresso,Coffee,23,3.0,69.0
+2026-01-27,Riverside,Cold Brew,Coffee,8,4.75,38.0
+2026-01-27,University,Latte,Coffee,31,4.5,139.5
+2026-01-27,Downtown,Cappuccino,Coffee,35,4.25,148.75
+2026-01-27,Downtown,Latte,Coffee,43,4.5,193.5
+2026-01-27,Downtown,Cold Brew,Coffee,31,4.75,147.25
+2026-01-27,University,Blueberry Muffin,Bakery,22,2.95,64.9
+2026-01-27,University,Cold Brew,Coffee,15,4.75,71.25
+2026-01-27,Riverside,Latte,Coffee,24,4.5,108.0
+2026-01-27,University,Croissant,Bakery,18,3.25,58.5
+2026-01-27,Riverside,Cappuccino,Coffee,20,4.25,85.0
+2026-01-27,Riverside,Blueberry Muffin,Bakery,8,2.95,23.6
+2026-01-27,Downtown,Blueberry Muffin,Bakery,31,2.95,91.45
+2026-01-27,Downtown,Croissant,Bakery,29,3.25,94.25
+2026-01-27,Riverside,Croissant,Bakery,11,3.25,35.75
+2026-01-27,University,Espresso,Coffee,16,3.0,48.0
+2026-01-27,University,Cappuccino,Coffee,21,4.25,89.25
+2026-01-28,Downtown,Cold Brew,Coffee,24,4.75,114.0
+2026-01-28,Downtown,Latte,Coffee,30,4.5,135.0
+2026-01-28,University,Espresso,Coffee,16,3.0,48.0
+2026-01-28,Riverside,Cold Brew,Coffee,8,4.75,38.0
+2026-01-28,University,Cold Brew,Coffee,18,4.75,85.5
+2026-01-28,University,Cappuccino,Coffee,23,4.25,97.75
+2026-01-28,Riverside,Espresso,Coffee,15,3.0,45.0
+2026-01-28,Downtown,Cappuccino,Coffee,33,4.25,140.25
+2026-01-28,Downtown,Espresso,Coffee,30,3.0,90.0
+2026-01-28,Riverside,Cappuccino,Coffee,16,4.25,68.0
+2026-01-28,Riverside,Blueberry Muffin,Bakery,9,2.95,26.55
+2026-01-28,Downtown,Croissant,Bakery,28,3.25,91.0
+2026-01-28,Riverside,Croissant,Bakery,20,3.25,65.0
+2026-01-28,Riverside,Latte,Coffee,28,4.5,126.0
+2026-01-28,University,Latte,Coffee,45,4.5,202.5
+2026-01-28,University,Croissant,Bakery,21,3.25,68.25
+2026-01-28,University,Blueberry Muffin,Bakery,17,2.95,50.15
+2026-01-28,Downtown,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-01-29,University,Cold Brew,Coffee,23,4.75,109.25
+2026-01-29,Downtown,Blueberry Muffin,Bakery,22,2.95,64.9
+2026-01-29,Riverside,Latte,Coffee,26,4.5,117.0
+2026-01-29,Downtown,Espresso,Coffee,31,3.0,93.0
+2026-01-29,University,Croissant,Bakery,18,3.25,58.5
+2026-01-29,Riverside,Blueberry Muffin,Bakery,13,2.95,38.35
+2026-01-29,Downtown,Cappuccino,Coffee,30,4.25,127.5
+2026-01-29,Downtown,Latte,Coffee,49,4.5,220.5
+2026-01-29,Riverside,Croissant,Bakery,22,3.25,71.5
+2026-01-29,University,Cappuccino,Coffee,22,4.25,93.5
+2026-01-29,Riverside,Cold Brew,Coffee,11,4.75,52.25
+2026-01-29,Riverside,Cappuccino,Coffee,17,4.25,72.25
+2026-01-29,University,Espresso,Coffee,18,3.0,54.0
+2026-01-29,Downtown,Croissant,Bakery,30,3.25,97.5
+2026-01-29,Riverside,Espresso,Coffee,15,3.0,45.0
+2026-01-29,Downtown,Cold Brew,Coffee,26,4.75,123.5
+2026-01-29,University,Latte,Coffee,35,4.5,157.5
+2026-01-30,University,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-01-30,Downtown,Latte,Coffee,50,4.5,225.0
+2026-01-30,Downtown,Blueberry Muffin,Bakery,17,2.95,50.15
+2026-01-30,University,Cold Brew,Coffee,21,4.75,99.75
+2026-01-30,Downtown,Croissant,Bakery,24,3.25,78.0
+2026-01-30,University,Latte,Coffee,35,4.5,157.5
+2026-01-30,Downtown,Cappuccino,Coffee,34,4.25,144.5
+2026-01-30,Downtown,Cold Brew,Coffee,24,4.75,114.0
+2026-01-30,Riverside,Cold Brew,Coffee,21,4.75,99.75
+2026-01-30,University,Cappuccino,Coffee,42,4.25,178.5
+2026-01-30,University,Croissant,Bakery,25,3.25,81.25
+2026-01-30,Riverside,Cappuccino,Coffee,25,4.25,106.25
+2026-01-30,Downtown,Espresso,Coffee,29,3.0,87.0
+2026-01-30,Riverside,Croissant,Bakery,11,3.25,35.75
+2026-01-30,Riverside,Latte,Coffee,30,4.5,135.0
+2026-01-30,University,Espresso,Coffee,14,3.0,42.0
+2026-01-30,Riverside,Blueberry Muffin,Bakery,17,2.95,50.15
+2026-01-31,Riverside,Croissant,Bakery,15,3.25,48.75
+2026-01-31,University,Espresso,Coffee,19,3.0,57.0
+2026-01-31,Downtown,Espresso,Coffee,34,3.0,102.0
+2026-01-31,Downtown,Croissant,Bakery,53,3.25,172.25
+2026-01-31,Riverside,Espresso,Coffee,27,3.0,81.0
+2026-01-31,University,Croissant,Bakery,13,3.25,42.25
+2026-01-31,Downtown,Blueberry Muffin,Bakery,34,2.95,100.3
+2026-01-31,Downtown,Cappuccino,Coffee,39,4.25,165.75
+2026-01-31,Downtown,Latte,Coffee,60,4.5,270.0
+2026-01-31,Riverside,Latte,Coffee,18,4.5,81.0
+2026-01-31,Riverside,Cold Brew,Coffee,14,4.75,66.5
+2026-01-31,University,Cold Brew,Coffee,15,4.75,71.25
+2026-01-31,University,Cappuccino,Coffee,22,4.25,93.5
+2026-01-31,Riverside,Cappuccino,Coffee,19,4.25,80.75
+2026-01-31,University,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-01-31,Downtown,Cold Brew,Coffee,25,4.75,118.75
+2026-01-31,University,Latte,Coffee,36,4.5,162.0
+2026-02-01,Downtown,Cold Brew,Coffee,29,4.75,137.75
+2026-02-01,University,Cold Brew,Coffee,16,4.75,76.0
+2026-02-01,Downtown,Croissant,Bakery,31,3.25,100.75
+2026-02-01,Riverside,Blueberry Muffin,Bakery,17,2.95,50.15
+2026-02-01,Riverside,Cold Brew,Coffee,17,4.75,80.75
+2026-02-01,Downtown,Latte,Coffee,62,4.5,279.0
+2026-02-01,Riverside,Espresso,Coffee,12,3.0,36.0
+2026-02-01,University,Croissant,Bakery,23,3.25,74.75
+2026-02-01,University,Espresso,Coffee,22,3.0,66.0
+2026-02-01,Downtown,Espresso,Coffee,43,3.0,129.0
+2026-02-01,Downtown,Cappuccino,Coffee,47,4.25,199.75
+2026-02-01,University,Latte,Coffee,26,4.5,117.0
+2026-02-01,Downtown,Blueberry Muffin,Bakery,39,2.95,115.05
+2026-02-01,Riverside,Latte,Coffee,34,4.5,153.0
+2026-02-01,Riverside,Cappuccino,Coffee,23,4.25,97.75
+2026-02-01,University,Blueberry Muffin,Bakery,23,2.95,67.85
+2026-02-01,University,Cappuccino,Coffee,24,4.25,102.0
+2026-02-02,University,Latte,Coffee,42,4.5,189.0
+2026-02-02,Downtown,Croissant,Bakery,27,3.25,87.75
+2026-02-02,Riverside,Croissant,Bakery,12,3.25,39.0
+2026-02-02,Riverside,Cold Brew,Coffee,13,4.75,61.75
+2026-02-02,Riverside,Latte,Coffee,24,4.5,108.0
+2026-02-02,Downtown,Latte,Coffee,50,4.5,225.0
+2026-02-02,Downtown,Espresso,Coffee,34,3.0,102.0
+2026-02-02,Downtown,Cappuccino,Coffee,31,4.25,131.75
+2026-02-02,University,Blueberry Muffin,Bakery,24,2.95,70.8
+2026-02-02,University,Croissant,Bakery,25,3.25,81.25
+2026-02-02,Downtown,Blueberry Muffin,Bakery,20,2.95,59.0
+2026-02-02,Riverside,Cappuccino,Coffee,21,4.25,89.25
+2026-02-02,Downtown,Cold Brew,Coffee,31,4.75,147.25
+2026-02-02,University,Cold Brew,Coffee,14,4.75,66.5
+2026-02-02,Riverside,Blueberry Muffin,Bakery,10,2.95,29.5
+2026-02-02,Riverside,Espresso,Coffee,10,3.0,30.0
+2026-02-02,University,Cappuccino,Coffee,21,4.25,89.25
+2026-02-03,Riverside,Blueberry Muffin,Bakery,12,2.95,35.4
+2026-02-03,University,Espresso,Coffee,20,3.0,60.0
+2026-02-03,Downtown,Blueberry Muffin,Bakery,20,2.95,59.0
+2026-02-03,Downtown,Latte,Coffee,35,4.5,157.5
+2026-02-03,University,Latte,Coffee,32,4.5,144.0
+2026-02-03,University,Cappuccino,Coffee,23,4.25,97.75
+2026-02-03,Downtown,Espresso,Coffee,27,3.0,81.0
+2026-02-03,Riverside,Espresso,Coffee,22,3.0,66.0
+2026-02-03,Riverside,Croissant,Bakery,17,3.25,55.25
+2026-02-03,Downtown,Cappuccino,Coffee,38,4.25,161.5
+2026-02-03,Riverside,Latte,Coffee,29,4.5,130.5
+2026-02-03,Riverside,Cappuccino,Coffee,23,4.25,97.75
+2026-02-03,University,Croissant,Bakery,20,3.25,65.0
+2026-02-03,Riverside,Cold Brew,Coffee,8,4.75,38.0
+2026-02-03,Downtown,Cold Brew,Coffee,31,4.75,147.25
+2026-02-03,Downtown,Croissant,Bakery,35,3.25,113.75
+2026-02-03,University,Cold Brew,Coffee,14,4.75,66.5
+2026-02-04,Riverside,Croissant,Bakery,16,3.25,52.0
+2026-02-04,University,Latte,Coffee,31,4.5,139.5
+2026-02-04,Riverside,Blueberry Muffin,Bakery,10,2.95,29.5
+2026-02-04,Downtown,Cold Brew,Coffee,24,4.75,114.0
+2026-02-04,University,Espresso,Coffee,18,3.0,54.0
+2026-02-04,Downtown,Blueberry Muffin,Bakery,20,2.95,59.0
+2026-02-04,Riverside,Latte,Coffee,30,4.5,135.0
+2026-02-04,University,Cold Brew,Coffee,25,4.75,118.75
+2026-02-04,Riverside,Cappuccino,Coffee,15,4.25,63.75
+2026-02-04,Downtown,Croissant,Bakery,31,3.25,100.75
+2026-02-04,Downtown,Espresso,Coffee,27,3.0,81.0
+2026-02-04,University,Cappuccino,Coffee,37,4.25,157.25
+2026-02-04,University,Croissant,Bakery,18,3.25,58.5
+2026-02-04,University,Blueberry Muffin,Bakery,22,2.95,64.9
+2026-02-04,Downtown,Latte,Coffee,37,4.5,166.5
+2026-02-04,Riverside,Cold Brew,Coffee,25,4.75,118.75
+2026-02-04,Downtown,Cappuccino,Coffee,41,4.25,174.25
+2026-02-04,Riverside,Espresso,Coffee,22,3.0,66.0
+2026-02-05,University,Espresso,Coffee,16,3.0,48.0
+2026-02-05,Downtown,Latte,Coffee,55,4.5,247.5
+2026-02-05,Downtown,Croissant,Bakery,28,3.25,91.0
+2026-02-05,Riverside,Cappuccino,Coffee,16,4.25,68.0
+2026-02-05,Downtown,Cold Brew,Coffee,31,4.75,147.25
+2026-02-05,Riverside,Blueberry Muffin,Bakery,20,2.95,59.0
+2026-02-05,Riverside,Latte,Coffee,22,4.5,99.0
+2026-02-05,University,Latte,Coffee,37,4.5,166.5
+2026-02-05,Riverside,Croissant,Bakery,14,3.25,45.5
+2026-02-05,Riverside,Cold Brew,Coffee,12,4.75,57.0
+2026-02-05,Downtown,Blueberry Muffin,Bakery,20,2.95,59.0
+2026-02-05,Downtown,Espresso,Coffee,31,3.0,93.0
+2026-02-05,University,Blueberry Muffin,Bakery,21,2.95,61.95
+2026-02-05,University,Cold Brew,Coffee,19,4.75,90.25
+2026-02-05,Riverside,Espresso,Coffee,15,3.0,45.0
+2026-02-05,University,Croissant,Bakery,19,3.25,61.75
+2026-02-05,Downtown,Cappuccino,Coffee,27,4.25,114.75
+2026-02-05,University,Cappuccino,Coffee,28,4.25,119.0
+2026-02-06,Riverside,Latte,Coffee,23,4.5,103.5
+2026-02-06,Riverside,Croissant,Bakery,27,3.25,87.75
+2026-02-06,University,Latte,Coffee,42,4.5,189.0
+2026-02-06,University,Espresso,Coffee,25,3.0,75.0
+2026-02-06,Downtown,Latte,Coffee,45,4.5,202.5
+2026-02-06,Downtown,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-02-06,University,Cappuccino,Coffee,33,4.25,140.25
+2026-02-06,Downtown,Croissant,Bakery,36,3.25,117.0
+2026-02-06,Riverside,Blueberry Muffin,Bakery,11,2.95,32.45
+2026-02-06,Downtown,Cappuccino,Coffee,26,4.25,110.5
+2026-02-06,Riverside,Espresso,Coffee,16,3.0,48.0
+2026-02-06,University,Cold Brew,Coffee,24,4.75,114.0
+2026-02-06,University,Croissant,Bakery,17,3.25,55.25
+2026-02-06,Downtown,Espresso,Coffee,22,3.0,66.0
+2026-02-06,Downtown,Cold Brew,Coffee,31,4.75,147.25
+2026-02-06,Riverside,Cappuccino,Coffee,21,4.25,89.25
+2026-02-06,University,Blueberry Muffin,Bakery,17,2.95,50.15
+2026-02-07,Riverside,Cappuccino,Coffee,19,4.25,80.75
+2026-02-07,Riverside,Cold Brew,Coffee,21,4.75,99.75
+2026-02-07,Riverside,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-02-07,Downtown,Espresso,Coffee,24,3.0,72.0
+2026-02-07,University,Blueberry Muffin,Bakery,20,2.95,59.0
+2026-02-07,Downtown,Cold Brew,Coffee,29,4.75,137.75
+2026-02-07,University,Latte,Coffee,33,4.5,148.5
+2026-02-07,University,Espresso,Coffee,21,3.0,63.0
+2026-02-07,Downtown,Cappuccino,Coffee,47,4.25,199.75
+2026-02-07,Riverside,Latte,Coffee,34,4.5,153.0
+2026-02-07,University,Cold Brew,Coffee,27,4.75,128.25
+2026-02-07,Downtown,Latte,Coffee,70,4.5,315.0
+2026-02-07,Riverside,Croissant,Bakery,25,3.25,81.25
+2026-02-07,University,Cappuccino,Coffee,20,4.25,85.0
+2026-02-07,Downtown,Blueberry Muffin,Bakery,30,2.95,88.5
+2026-02-07,Riverside,Espresso,Coffee,25,3.0,75.0
+2026-02-07,University,Croissant,Bakery,24,3.25,78.0
+2026-02-07,Downtown,Croissant,Bakery,34,3.25,110.5
+2026-02-08,Riverside,Espresso,Coffee,16,3.0,48.0
+2026-02-08,Downtown,Croissant,Bakery,29,3.25,94.25
+2026-02-08,Riverside,Latte,Coffee,29,4.5,130.5
+2026-02-08,Riverside,Cold Brew,Coffee,24,4.75,114.0
+2026-02-08,Downtown,Cold Brew,Coffee,27,4.75,128.25
+2026-02-08,Downtown,Blueberry Muffin,Bakery,21,2.95,61.95
+2026-02-08,Riverside,Blueberry Muffin,Bakery,12,2.95,35.4
+2026-02-08,University,Latte,Coffee,35,4.5,157.5
+2026-02-08,University,Cappuccino,Coffee,24,4.25,102.0
+2026-02-08,Riverside,Cappuccino,Coffee,21,4.25,89.25
+2026-02-08,University,Cold Brew,Coffee,21,4.75,99.75
+2026-02-08,University,Espresso,Coffee,19,3.0,57.0
+2026-02-08,Downtown,Espresso,Coffee,36,3.0,108.0
+2026-02-08,Downtown,Cappuccino,Coffee,38,4.25,161.5
+2026-02-08,Riverside,Croissant,Bakery,25,3.25,81.25
+2026-02-08,University,Croissant,Bakery,18,3.25,58.5
+2026-02-08,Downtown,Latte,Coffee,56,4.5,252.0
+2026-02-09,University,Espresso,Coffee,13,3.0,39.0
+2026-02-09,University,Cold Brew,Coffee,24,4.75,114.0
+2026-02-09,Riverside,Croissant,Bakery,17,3.25,55.25
+2026-02-09,University,Latte,Coffee,36,4.5,162.0
+2026-02-09,University,Cappuccino,Coffee,21,4.25,89.25
+2026-02-09,Downtown,Croissant,Bakery,23,3.25,74.75
+2026-02-09,Riverside,Latte,Coffee,37,4.5,166.5
+2026-02-09,Downtown,Blueberry Muffin,Bakery,25,2.95,73.75
+2026-02-09,Downtown,Latte,Coffee,49,4.5,220.5
+2026-02-09,Riverside,Cappuccino,Coffee,19,4.25,80.75
+2026-02-09,Riverside,Espresso,Coffee,15,3.0,45.0
+2026-02-09,Downtown,Espresso,Coffee,35,3.0,105.0
+2026-02-09,Riverside,Cold Brew,Coffee,18,4.75,85.5
+2026-02-09,University,Blueberry Muffin,Bakery,21,2.95,61.95
+2026-02-09,Downtown,Cappuccino,Coffee,34,4.25,144.5
+2026-02-09,Downtown,Cold Brew,Coffee,28,4.75,133.0
+2026-02-09,University,Croissant,Bakery,29,3.25,94.25
+2026-02-09,Riverside,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-02-10,Downtown,Cold Brew,Coffee,21,4.75,99.75
+2026-02-10,Downtown,Cappuccino,Coffee,38,4.25,161.5
+2026-02-10,University,Cappuccino,Coffee,22,4.25,93.5
+2026-02-10,Riverside,Blueberry Muffin,Bakery,11,2.95,32.45
+2026-02-10,Downtown,Espresso,Coffee,26,3.0,78.0
+2026-02-10,Riverside,Espresso,Coffee,13,3.0,39.0
+2026-02-10,Riverside,Latte,Coffee,24,4.5,108.0
+2026-02-10,University,Croissant,Bakery,33,3.25,107.25
+2026-02-10,Riverside,Cold Brew,Coffee,15,4.75,71.25
+2026-02-10,Riverside,Cappuccino,Coffee,19,4.25,80.75
+2026-02-10,Downtown,Croissant,Bakery,27,3.25,87.75
+2026-02-10,University,Blueberry Muffin,Bakery,18,2.95,53.1
+2026-02-10,Riverside,Croissant,Bakery,16,3.25,52.0
+2026-02-10,University,Espresso,Coffee,21,3.0,63.0
+2026-02-10,Downtown,Latte,Coffee,42,4.5,189.0
+2026-02-10,Downtown,Blueberry Muffin,Bakery,21,2.95,61.95
+2026-02-10,University,Cold Brew,Coffee,23,4.75,109.25
+2026-02-11,University,Cold Brew,Coffee,22,4.75,104.5
+2026-02-11,Downtown,Croissant,Bakery,27,3.25,87.75
+2026-02-11,Riverside,Cold Brew,Coffee,15,4.75,71.25
+2026-02-11,University,Croissant,Bakery,23,3.25,74.75
+2026-02-11,University,Cappuccino,Coffee,32,4.25,136.0
+2026-02-11,Riverside,Cappuccino,Coffee,19,4.25,80.75
+2026-02-11,Riverside,Blueberry Muffin,Bakery,11,2.95,32.45
+2026-02-11,Downtown,Latte,Coffee,56,4.5,252.0
+2026-02-11,Downtown,Blueberry Muffin,Bakery,25,2.95,73.75
+2026-02-11,Riverside,Croissant,Bakery,13,3.25,42.25
+2026-02-11,University,Blueberry Muffin,Bakery,24,2.95,70.8
+2026-02-11,Riverside,Espresso,Coffee,11,3.0,33.0
+2026-02-11,Downtown,Cold Brew,Coffee,28,4.75,133.0
+2026-02-11,Downtown,Espresso,Coffee,20,3.0,60.0
+2026-02-11,Riverside,Latte,Coffee,30,4.5,135.0
+2026-02-11,University,Latte,Coffee,39,4.5,175.5
+2026-02-11,University,Espresso,Coffee,12,3.0,36.0
+2026-02-11,Downtown,Cappuccino,Coffee,28,4.25,119.0
+2026-02-12,Riverside,Blueberry Muffin,Bakery,15,2.95,44.25
+2026-02-12,Riverside,Latte,Coffee,27,4.5,121.5
+2026-02-12,University,Espresso,Coffee,20,3.0,60.0
+2026-02-12,Riverside,Croissant,Bakery,17,3.25,55.25
+2026-02-12,University,Croissant,Bakery,25,3.25,81.25
+2026-02-12,Downtown,Latte,Coffee,54,4.5,243.0
+2026-02-12,Downtown,Espresso,Coffee,29,3.0,87.0
+2026-02-12,Downtown,Cold Brew,Coffee,27,4.75,128.25
+2026-02-12,University,Latte,Coffee,52,4.5,234.0
+2026-02-12,University,Cold Brew,Coffee,27,4.75,128.25
+2026-02-12,University,Cappuccino,Coffee,27,4.25,114.75
+2026-02-12,Downtown,Croissant,Bakery,26,3.25,84.5
+2026-02-12,Riverside,Cold Brew,Coffee,11,4.75,52.25
+2026-02-12,Downtown,Cappuccino,Coffee,37,4.25,157.25
+2026-02-12,Downtown,Blueberry Muffin,Bakery,18,2.95,53.1
+2026-02-12,Riverside,Cappuccino,Coffee,22,4.25,93.5
+2026-02-12,Riverside,Espresso,Coffee,18,3.0,54.0
+2026-02-13,Downtown,Blueberry Muffin,Bakery,22,2.95,64.9
+2026-02-13,Downtown,Cold Brew,Coffee,19,4.75,90.25
+2026-02-13,Downtown,Latte,Coffee,56,4.5,252.0
+2026-02-13,University,Cappuccino,Coffee,32,4.25,136.0
+2026-02-13,University,Cold Brew,Coffee,32,4.75,152.0
+2026-02-13,Riverside,Cold Brew,Coffee,14,4.75,66.5
+2026-02-13,University,Blueberry Muffin,Bakery,18,2.95,53.1
+2026-02-13,Riverside,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-02-13,University,Espresso,Coffee,18,3.0,54.0
+2026-02-13,Riverside,Latte,Coffee,15,4.5,67.5
+2026-02-13,Riverside,Espresso,Coffee,11,3.0,33.0
+2026-02-13,Downtown,Espresso,Coffee,34,3.0,102.0
+2026-02-13,Downtown,Cappuccino,Coffee,29,4.25,123.25
+2026-02-13,University,Croissant,Bakery,17,3.25,55.25
+2026-02-13,Riverside,Cappuccino,Coffee,13,4.25,55.25
+2026-02-13,University,Latte,Coffee,45,4.5,202.5
+2026-02-13,Riverside,Croissant,Bakery,14,3.25,45.5
+2026-02-13,Downtown,Croissant,Bakery,27,3.25,87.75
+2026-02-14,Riverside,Cappuccino,Coffee,17,4.25,72.25
+2026-02-14,Downtown,Croissant,Bakery,35,3.25,113.75
+2026-02-14,Riverside,Latte,Coffee,31,4.5,139.5
+2026-02-14,Downtown,Cold Brew,Coffee,35,4.75,166.25
+2026-02-14,Downtown,Cappuccino,Coffee,48,4.25,204.0
+2026-02-14,University,Croissant,Bakery,20,3.25,65.0
+2026-02-14,University,Espresso,Coffee,27,3.0,81.0
+2026-02-14,Riverside,Cold Brew,Coffee,29,4.75,137.75
+2026-02-14,Downtown,Blueberry Muffin,Bakery,20,2.95,59.0
+2026-02-14,Downtown,Espresso,Coffee,36,3.0,108.0
+2026-02-14,Downtown,Latte,Coffee,59,4.5,265.5
+2026-02-14,University,Cappuccino,Coffee,19,4.25,80.75
+2026-02-14,Riverside,Blueberry Muffin,Bakery,15,2.95,44.25
+2026-02-14,Riverside,Espresso,Coffee,19,3.0,57.0
+2026-02-14,Riverside,Croissant,Bakery,21,3.25,68.25
+2026-02-14,University,Blueberry Muffin,Bakery,11,2.95,32.45
+2026-02-14,University,Cold Brew,Coffee,36,4.75,171.0
+2026-02-14,University,Latte,Coffee,35,4.5,157.5
+2026-02-15,Riverside,Cappuccino,Coffee,27,4.25,114.75
+2026-02-15,Riverside,Cold Brew,Coffee,21,4.75,99.75
+2026-02-15,Downtown,Espresso,Coffee,29,3.0,87.0
+2026-02-15,University,Croissant,Bakery,19,3.25,61.75
+2026-02-15,Downtown,Latte,Coffee,70,4.5,315.0
+2026-02-15,Downtown,Cappuccino,Coffee,37,4.25,157.25
+2026-02-15,University,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-02-15,Riverside,Latte,Coffee,26,4.5,117.0
+2026-02-15,Riverside,Croissant,Bakery,19,3.25,61.75
+2026-02-15,Downtown,Croissant,Bakery,34,3.25,110.5
+2026-02-15,University,Espresso,Coffee,21,3.0,63.0
+2026-02-15,Riverside,Espresso,Coffee,26,3.0,78.0
+2026-02-15,Downtown,Cold Brew,Coffee,32,4.75,152.0
+2026-02-15,University,Cappuccino,Coffee,21,4.25,89.25
+2026-02-15,University,Cold Brew,Coffee,22,4.75,104.5
+2026-02-15,University,Latte,Coffee,36,4.5,162.0
+2026-02-15,Downtown,Blueberry Muffin,Bakery,26,2.95,76.7
+2026-02-15,Riverside,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-02-16,University,Cappuccino,Coffee,21,4.25,89.25
+2026-02-16,Riverside,Espresso,Coffee,19,3.0,57.0
+2026-02-16,Downtown,Croissant,Bakery,26,3.25,84.5
+2026-02-16,Downtown,Cold Brew,Coffee,24,4.75,114.0
+2026-02-16,Riverside,Latte,Coffee,30,4.5,135.0
+2026-02-16,Downtown,Blueberry Muffin,Bakery,21,2.95,61.95
+2026-02-16,Downtown,Espresso,Coffee,22,3.0,66.0
+2026-02-16,Riverside,Blueberry Muffin,Bakery,12,2.95,35.4
+2026-02-16,Riverside,Cold Brew,Coffee,10,4.75,47.5
+2026-02-16,University,Espresso,Coffee,19,3.0,57.0
+2026-02-16,University,Croissant,Bakery,21,3.25,68.25
+2026-02-16,Riverside,Cappuccino,Coffee,20,4.25,85.0
+2026-02-16,Downtown,Cappuccino,Coffee,25,4.25,106.25
+2026-02-16,Downtown,Latte,Coffee,43,4.5,193.5
+2026-02-16,University,Blueberry Muffin,Bakery,24,2.95,70.8
+2026-02-16,Riverside,Croissant,Bakery,16,3.25,52.0
+2026-02-16,University,Cold Brew,Coffee,22,4.75,104.5
+2026-02-16,University,Latte,Coffee,28,4.5,126.0
+2026-02-17,Downtown,Blueberry Muffin,Bakery,23,2.95,67.85
+2026-02-17,University,Blueberry Muffin,Bakery,15,2.95,44.25
+2026-02-17,Riverside,Cold Brew,Coffee,8,4.75,38.0
+2026-02-17,Riverside,Espresso,Coffee,10,3.0,30.0
+2026-02-17,Riverside,Croissant,Bakery,14,3.25,45.5
+2026-02-17,University,Croissant,Bakery,29,3.25,94.25
+2026-02-17,Riverside,Blueberry Muffin,Bakery,18,2.95,53.1
+2026-02-17,University,Espresso,Coffee,19,3.0,57.0
+2026-02-17,University,Cold Brew,Coffee,22,4.75,104.5
+2026-02-17,Downtown,Cappuccino,Coffee,42,4.25,178.5
+2026-02-17,Riverside,Latte,Coffee,31,4.5,139.5
+2026-02-17,University,Cappuccino,Coffee,32,4.25,136.0
+2026-02-17,Downtown,Espresso,Coffee,25,3.0,75.0
+2026-02-17,Riverside,Cappuccino,Coffee,20,4.25,85.0
+2026-02-17,Downtown,Croissant,Bakery,29,3.25,94.25
+2026-02-17,University,Latte,Coffee,36,4.5,162.0
+2026-02-18,University,Cappuccino,Coffee,34,4.25,144.5
+2026-02-18,University,Croissant,Bakery,21,3.25,68.25
+2026-02-18,University,Espresso,Coffee,19,3.0,57.0
+2026-02-18,Downtown,Espresso,Coffee,24,3.0,72.0
+2026-02-18,University,Latte,Coffee,36,4.5,162.0
+2026-02-18,Downtown,Cappuccino,Coffee,26,4.25,110.5
+2026-02-18,Riverside,Croissant,Bakery,14,3.25,45.5
+2026-02-18,Riverside,Latte,Coffee,24,4.5,108.0
+2026-02-18,University,Blueberry Muffin,Bakery,12,2.95,35.4
+2026-02-18,Downtown,Latte,Coffee,53,4.5,238.5
+2026-02-18,Downtown,Blueberry Muffin,Bakery,33,2.95,97.35
+2026-02-18,Riverside,Cappuccino,Coffee,17,4.25,72.25
+2026-02-18,University,Cold Brew,Coffee,25,4.75,118.75
+2026-02-18,Riverside,Cold Brew,Coffee,15,4.75,71.25
+2026-02-18,Downtown,Croissant,Bakery,40,3.25,130.0
+2026-02-18,Riverside,Blueberry Muffin,Bakery,12,2.95,35.4
+2026-02-18,Downtown,Cold Brew,Coffee,35,4.75,166.25
+2026-02-19,University,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-02-19,Downtown,Croissant,Bakery,31,3.25,100.75
+2026-02-19,University,Espresso,Coffee,23,3.0,69.0
+2026-02-19,Riverside,Espresso,Coffee,12,3.0,36.0
+2026-02-19,Downtown,Cold Brew,Coffee,28,4.75,133.0
+2026-02-19,University,Cappuccino,Coffee,27,4.25,114.75
+2026-02-19,University,Cold Brew,Coffee,28,4.75,133.0
+2026-02-19,Downtown,Blueberry Muffin,Bakery,26,2.95,76.7
+2026-02-19,Riverside,Latte,Coffee,35,4.5,157.5
+2026-02-19,Riverside,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-02-19,Downtown,Cappuccino,Coffee,22,4.25,93.5
+2026-02-19,Downtown,Espresso,Coffee,28,3.0,84.0
+2026-02-19,University,Latte,Coffee,46,4.5,207.0
+2026-02-19,Riverside,Cold Brew,Coffee,17,4.75,80.75
+2026-02-19,Riverside,Croissant,Bakery,15,3.25,48.75
+2026-02-19,University,Croissant,Bakery,23,3.25,74.75
+2026-02-19,Riverside,Cappuccino,Coffee,15,4.25,63.75
+2026-02-20,University,Cappuccino,Coffee,11,4.25,46.75
+2026-02-20,Riverside,Croissant,Bakery,18,3.25,58.5
+2026-02-20,University,Cold Brew,Coffee,21,4.75,99.75
+2026-02-20,University,Espresso,Coffee,16,3.0,48.0
+2026-02-20,Riverside,Espresso,Coffee,17,3.0,51.0
+2026-02-20,Downtown,Croissant,Bakery,28,3.25,91.0
+2026-02-20,University,Croissant,Bakery,19,3.25,61.75
+2026-02-20,Downtown,Cold Brew,Coffee,30,4.75,142.5
+2026-02-20,Riverside,Blueberry Muffin,Bakery,9,2.95,26.55
+2026-02-20,Downtown,Cappuccino,Coffee,34,4.25,144.5
+2026-02-20,Riverside,Cold Brew,Coffee,22,4.75,104.5
+2026-02-20,University,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-02-20,Downtown,Blueberry Muffin,Bakery,21,2.95,61.95
+2026-02-20,University,Latte,Coffee,38,4.5,171.0
+2026-02-20,Riverside,Latte,Coffee,33,4.5,148.5
+2026-02-20,Riverside,Cappuccino,Coffee,18,4.25,76.5
+2026-02-20,Downtown,Latte,Coffee,47,4.5,211.5
+2026-02-20,Downtown,Espresso,Coffee,27,3.0,81.0
+2026-02-21,University,Blueberry Muffin,Bakery,15,2.95,44.25
+2026-02-21,Downtown,Latte,Coffee,66,4.5,297.0
+2026-02-21,University,Cappuccino,Coffee,25,4.25,106.25
+2026-02-21,University,Croissant,Bakery,19,3.25,61.75
+2026-02-21,University,Espresso,Coffee,24,3.0,72.0
+2026-02-21,Riverside,Blueberry Muffin,Bakery,11,2.95,32.45
+2026-02-21,Riverside,Cold Brew,Coffee,15,4.75,71.25
+2026-02-21,Riverside,Latte,Coffee,32,4.5,144.0
+2026-02-21,Downtown,Blueberry Muffin,Bakery,28,2.95,82.6
+2026-02-21,University,Latte,Coffee,33,4.5,148.5
+2026-02-21,Downtown,Cold Brew,Coffee,31,4.75,147.25
+2026-02-21,Riverside,Croissant,Bakery,27,3.25,87.75
+2026-02-21,Riverside,Cappuccino,Coffee,30,4.25,127.5
+2026-02-21,University,Cold Brew,Coffee,16,4.75,76.0
+2026-02-21,Downtown,Croissant,Bakery,37,3.25,120.25
+2026-02-21,Riverside,Espresso,Coffee,17,3.0,51.0
+2026-02-21,Downtown,Cappuccino,Coffee,31,4.25,131.75
+2026-02-21,Downtown,Espresso,Coffee,38,3.0,114.0
+2026-02-22,University,Latte,Coffee,34,4.5,153.0
+2026-02-22,Riverside,Blueberry Muffin,Bakery,17,2.95,50.15
+2026-02-22,Riverside,Croissant,Bakery,27,3.25,87.75
+2026-02-22,Downtown,Cappuccino,Coffee,39,4.25,165.75
+2026-02-22,Riverside,Latte,Coffee,44,4.5,198.0
+2026-02-22,University,Cappuccino,Coffee,22,4.25,93.5
+2026-02-22,Downtown,Cold Brew,Coffee,31,4.75,147.25
+2026-02-22,University,Blueberry Muffin,Bakery,10,2.95,29.5
+2026-02-22,Downtown,Blueberry Muffin,Bakery,30,2.95,88.5
+2026-02-22,Riverside,Cappuccino,Coffee,15,4.25,63.75
+2026-02-22,University,Espresso,Coffee,23,3.0,69.0
+2026-02-22,University,Croissant,Bakery,17,3.25,55.25
+2026-02-22,Riverside,Espresso,Coffee,23,3.0,69.0
+2026-02-22,Downtown,Croissant,Bakery,30,3.25,97.5
+2026-02-22,Riverside,Cold Brew,Coffee,22,4.75,104.5
+2026-02-22,Downtown,Latte,Coffee,63,4.5,283.5
+2026-02-22,University,Cold Brew,Coffee,20,4.75,95.0
+2026-02-23,Downtown,Blueberry Muffin,Bakery,24,2.95,70.8
+2026-02-23,Downtown,Croissant,Bakery,18,3.25,58.5
+2026-02-23,University,Cold Brew,Coffee,24,4.75,114.0
+2026-02-23,University,Blueberry Muffin,Bakery,11,2.95,32.45
+2026-02-23,University,Cappuccino,Coffee,28,4.25,119.0
+2026-02-23,Downtown,Latte,Coffee,47,4.5,211.5
+2026-02-23,Riverside,Croissant,Bakery,20,3.25,65.0
+2026-02-23,Downtown,Espresso,Coffee,29,3.0,87.0
+2026-02-23,University,Latte,Coffee,41,4.5,184.5
+2026-02-23,Riverside,Espresso,Coffee,12,3.0,36.0
+2026-02-23,Downtown,Cold Brew,Coffee,29,4.75,137.75
+2026-02-23,Riverside,Cappuccino,Coffee,20,4.25,85.0
+2026-02-23,University,Croissant,Bakery,20,3.25,65.0
+2026-02-23,Downtown,Cappuccino,Coffee,28,4.25,119.0
+2026-02-23,Riverside,Cold Brew,Coffee,16,4.75,76.0
+2026-02-23,Riverside,Blueberry Muffin,Bakery,12,2.95,35.4
+2026-02-23,Riverside,Latte,Coffee,34,4.5,153.0
+2026-02-23,University,Espresso,Coffee,24,3.0,72.0
+2026-02-24,Downtown,Latte,Coffee,46,4.5,207.0
+2026-02-24,University,Espresso,Coffee,33,3.0,99.0
+2026-02-24,Riverside,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-02-24,Downtown,Croissant,Bakery,36,3.25,117.0
+2026-02-24,Downtown,Cold Brew,Coffee,21,4.75,99.75
+2026-02-24,Riverside,Croissant,Bakery,12,3.25,39.0
+2026-02-24,University,Croissant,Bakery,21,3.25,68.25
+2026-02-24,University,Cappuccino,Coffee,27,4.25,114.75
+2026-02-24,Downtown,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-02-24,University,Blueberry Muffin,Bakery,26,2.95,76.7
+2026-02-24,Riverside,Latte,Coffee,27,4.5,121.5
+2026-02-24,Riverside,Espresso,Coffee,16,3.0,48.0
+2026-02-24,Downtown,Espresso,Coffee,21,3.0,63.0
+2026-02-24,University,Cold Brew,Coffee,28,4.75,133.0
+2026-02-24,University,Latte,Coffee,47,4.5,211.5
+2026-02-24,Riverside,Cold Brew,Coffee,13,4.75,61.75
+2026-02-24,Riverside,Cappuccino,Coffee,13,4.25,55.25
+2026-02-24,Downtown,Cappuccino,Coffee,34,4.25,144.5
+2026-02-25,Downtown,Croissant,Bakery,37,3.25,120.25
+2026-02-25,Riverside,Espresso,Coffee,27,3.0,81.0
+2026-02-25,University,Latte,Coffee,54,4.5,243.0
+2026-02-25,Riverside,Cold Brew,Coffee,14,4.75,66.5
+2026-02-25,Downtown,Latte,Coffee,46,4.5,207.0
+2026-02-25,Riverside,Cappuccino,Coffee,20,4.25,85.0
+2026-02-25,Riverside,Latte,Coffee,25,4.5,112.5
+2026-02-25,University,Blueberry Muffin,Bakery,18,2.95,53.1
+2026-02-25,University,Espresso,Coffee,24,3.0,72.0
+2026-02-25,Downtown,Cold Brew,Coffee,38,4.75,180.5
+2026-02-25,Downtown,Cappuccino,Coffee,43,4.25,182.75
+2026-02-25,Riverside,Croissant,Bakery,17,3.25,55.25
+2026-02-25,University,Cold Brew,Coffee,23,4.75,109.25
+2026-02-25,University,Croissant,Bakery,22,3.25,71.5
+2026-02-25,Riverside,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-02-25,Downtown,Espresso,Coffee,21,3.0,63.0
+2026-02-25,University,Cappuccino,Coffee,31,4.25,131.75
+2026-02-26,Downtown,Latte,Coffee,51,4.5,229.5
+2026-02-26,University,Espresso,Coffee,21,3.0,63.0
+2026-02-26,Downtown,Cold Brew,Coffee,30,4.75,142.5
+2026-02-26,Downtown,Espresso,Coffee,32,3.0,96.0
+2026-02-26,Riverside,Cold Brew,Coffee,13,4.75,61.75
+2026-02-26,University,Cold Brew,Coffee,22,4.75,104.5
+2026-02-26,Riverside,Croissant,Bakery,18,3.25,58.5
+2026-02-26,University,Cappuccino,Coffee,18,4.25,76.5
+2026-02-26,Downtown,Blueberry Muffin,Bakery,20,2.95,59.0
+2026-02-26,Riverside,Cappuccino,Coffee,16,4.25,68.0
+2026-02-26,Riverside,Latte,Coffee,28,4.5,126.0
+2026-02-26,University,Latte,Coffee,41,4.5,184.5
+2026-02-26,Downtown,Croissant,Bakery,21,3.25,68.25
+2026-02-26,Riverside,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-02-26,University,Croissant,Bakery,23,3.25,74.75
+2026-02-26,Riverside,Espresso,Coffee,18,3.0,54.0
+2026-02-26,University,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-02-27,University,Croissant,Bakery,29,3.25,94.25
+2026-02-27,University,Cold Brew,Coffee,27,4.75,128.25
+2026-02-27,Riverside,Cappuccino,Coffee,24,4.25,102.0
+2026-02-27,University,Cappuccino,Coffee,23,4.25,97.75
+2026-02-27,Riverside,Cold Brew,Coffee,16,4.75,76.0
+2026-02-27,Riverside,Espresso,Coffee,14,3.0,42.0
+2026-02-27,University,Latte,Coffee,40,4.5,180.0
+2026-02-27,Downtown,Blueberry Muffin,Bakery,28,2.95,82.6
+2026-02-27,Downtown,Latte,Coffee,37,4.5,166.5
+2026-02-27,Downtown,Cappuccino,Coffee,42,4.25,178.5
+2026-02-27,Riverside,Latte,Coffee,20,4.5,90.0
+2026-02-27,Riverside,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-02-27,Downtown,Croissant,Bakery,30,3.25,97.5
+2026-02-27,Riverside,Croissant,Bakery,17,3.25,55.25
+2026-02-27,Downtown,Cold Brew,Coffee,30,4.75,142.5
+2026-02-27,Downtown,Espresso,Coffee,24,3.0,72.0
+2026-02-27,University,Blueberry Muffin,Bakery,17,2.95,50.15
+2026-02-27,University,Espresso,Coffee,25,3.0,75.0
+2026-02-28,Downtown,Espresso,Coffee,36,3.0,108.0
+2026-02-28,Riverside,Latte,Coffee,33,4.5,148.5
+2026-02-28,Downtown,Croissant,Bakery,38,3.25,123.5
+2026-02-28,Riverside,Croissant,Bakery,25,3.25,81.25
+2026-02-28,University,Latte,Coffee,30,4.5,135.0
+2026-02-28,Riverside,Cold Brew,Coffee,20,4.75,95.0
+2026-02-28,Riverside,Cappuccino,Coffee,27,4.25,114.75
+2026-02-28,Downtown,Cold Brew,Coffee,39,4.75,185.25
+2026-02-28,Downtown,Latte,Coffee,64,4.5,288.0
+2026-02-28,University,Espresso,Coffee,14,3.0,42.0
+2026-02-28,University,Blueberry Muffin,Bakery,21,2.95,61.95
+2026-02-28,Downtown,Blueberry Muffin,Bakery,33,2.95,97.35
+2026-02-28,University,Croissant,Bakery,31,3.25,100.75
+2026-02-28,Downtown,Cappuccino,Coffee,40,4.25,170.0
+2026-02-28,University,Cold Brew,Coffee,17,4.75,80.75
+2026-02-28,Riverside,Espresso,Coffee,24,3.0,72.0
+2026-03-01,Downtown,Cold Brew,Coffee,38,4.75,180.5
+2026-03-01,Riverside,Latte,Coffee,29,4.5,130.5
+2026-03-01,Riverside,Espresso,Coffee,13,3.0,39.0
+2026-03-01,University,Latte,Coffee,32,4.5,144.0
+2026-03-01,Downtown,Croissant,Bakery,36,3.25,117.0
+2026-03-01,Riverside,Blueberry Muffin,Bakery,13,2.95,38.35
+2026-03-01,Downtown,Cappuccino,Coffee,50,4.25,212.5
+2026-03-01,Riverside,Cappuccino,Coffee,22,4.25,93.5
+2026-03-01,Downtown,Blueberry Muffin,Bakery,23,2.95,67.85
+2026-03-01,University,Blueberry Muffin,Bakery,18,2.95,53.1
+2026-03-01,Riverside,Cold Brew,Coffee,17,4.75,80.75
+2026-03-01,Downtown,Latte,Coffee,55,4.5,247.5
+2026-03-01,University,Croissant,Bakery,16,3.25,52.0
+2026-03-01,University,Cappuccino,Coffee,24,4.25,102.0
+2026-03-01,University,Cold Brew,Coffee,17,4.75,80.75
+2026-03-01,Riverside,Croissant,Bakery,22,3.25,71.5
+2026-03-01,Downtown,Espresso,Coffee,28,3.0,84.0
+2026-03-01,University,Espresso,Coffee,23,3.0,69.0
+2026-03-02,Riverside,Espresso,Coffee,10,3.0,30.0
+2026-03-02,University,Croissant,Bakery,26,3.25,84.5
+2026-03-02,Downtown,Espresso,Coffee,34,3.0,102.0
+2026-03-02,Downtown,Croissant,Bakery,33,3.25,107.25
+2026-03-02,Riverside,Croissant,Bakery,26,3.25,84.5
+2026-03-02,Riverside,Blueberry Muffin,Bakery,17,2.95,50.15
+2026-03-02,University,Blueberry Muffin,Bakery,15,2.95,44.25
+2026-03-02,University,Latte,Coffee,32,4.5,144.0
+2026-03-02,Riverside,Cold Brew,Coffee,20,4.75,95.0
+2026-03-02,Downtown,Cold Brew,Coffee,33,4.75,156.75
+2026-03-02,University,Espresso,Coffee,21,3.0,63.0
+2026-03-02,Downtown,Cappuccino,Coffee,42,4.25,178.5
+2026-03-02,Downtown,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-03-02,Riverside,Latte,Coffee,30,4.5,135.0
+2026-03-02,Riverside,Cappuccino,Coffee,15,4.25,63.75
+2026-03-02,University,Cappuccino,Coffee,34,4.25,144.5
+2026-03-02,University,Cold Brew,Coffee,28,4.75,133.0
+2026-03-03,University,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-03-03,University,Croissant,Bakery,24,3.25,78.0
+2026-03-03,University,Cold Brew,Coffee,21,4.75,99.75
+2026-03-03,University,Latte,Coffee,35,4.5,157.5
+2026-03-03,Riverside,Cold Brew,Coffee,16,4.75,76.0
+2026-03-03,Riverside,Croissant,Bakery,22,3.25,71.5
+2026-03-03,Downtown,Espresso,Coffee,34,3.0,102.0
+2026-03-03,Downtown,Cappuccino,Coffee,37,4.25,157.25
+2026-03-03,Downtown,Blueberry Muffin,Bakery,18,2.95,53.1
+2026-03-03,Downtown,Latte,Coffee,52,4.5,234.0
+2026-03-03,Downtown,Croissant,Bakery,28,3.25,91.0
+2026-03-03,Riverside,Cappuccino,Coffee,21,4.25,89.25
+2026-03-03,Riverside,Latte,Coffee,31,4.5,139.5
+2026-03-03,Riverside,Blueberry Muffin,Bakery,12,2.95,35.4
+2026-03-03,Downtown,Cold Brew,Coffee,23,4.75,109.25
+2026-03-03,Riverside,Espresso,Coffee,15,3.0,45.0
+2026-03-03,University,Espresso,Coffee,25,3.0,75.0
+2026-03-04,Downtown,Latte,Coffee,43,4.5,193.5
+2026-03-04,University,Cappuccino,Coffee,24,4.25,102.0
+2026-03-04,Downtown,Croissant,Bakery,37,3.25,120.25
+2026-03-04,University,Blueberry Muffin,Bakery,26,2.95,76.7
+2026-03-04,Riverside,Espresso,Coffee,17,3.0,51.0
+2026-03-04,Downtown,Blueberry Muffin,Bakery,25,2.95,73.75
+2026-03-04,Downtown,Espresso,Coffee,23,3.0,69.0
+2026-03-04,Riverside,Cappuccino,Coffee,16,4.25,68.0
+2026-03-04,University,Latte,Coffee,37,4.5,166.5
+2026-03-04,Riverside,Croissant,Bakery,13,3.25,42.25
+2026-03-04,Riverside,Cold Brew,Coffee,18,4.75,85.5
+2026-03-04,Riverside,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-03-04,University,Espresso,Coffee,25,3.0,75.0
+2026-03-04,University,Cold Brew,Coffee,23,4.75,109.25
+2026-03-04,University,Croissant,Bakery,23,3.25,74.75
+2026-03-04,Downtown,Cold Brew,Coffee,29,4.75,137.75
+2026-03-04,Downtown,Cappuccino,Coffee,39,4.25,165.75
+2026-03-04,Riverside,Latte,Coffee,21,4.5,94.5
+2026-03-05,University,Latte,Coffee,50,4.5,225.0
+2026-03-05,University,Croissant,Bakery,24,3.25,78.0
+2026-03-05,Riverside,Espresso,Coffee,11,3.0,33.0
+2026-03-05,Downtown,Blueberry Muffin,Bakery,21,2.95,61.95
+2026-03-05,Downtown,Croissant,Bakery,29,3.25,94.25
+2026-03-05,Riverside,Croissant,Bakery,19,3.25,61.75
+2026-03-05,Riverside,Cold Brew,Coffee,16,4.75,76.0
+2026-03-05,University,Blueberry Muffin,Bakery,15,2.95,44.25
+2026-03-05,Downtown,Latte,Coffee,39,4.5,175.5
+2026-03-05,University,Cold Brew,Coffee,25,4.75,118.75
+2026-03-05,Riverside,Cappuccino,Coffee,22,4.25,93.5
+2026-03-05,University,Espresso,Coffee,35,3.0,105.0
+2026-03-05,Riverside,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-03-05,Downtown,Cappuccino,Coffee,36,4.25,153.0
+2026-03-05,Downtown,Espresso,Coffee,29,3.0,87.0
+2026-03-05,Downtown,Cold Brew,Coffee,33,4.75,156.75
+2026-03-05,University,Cappuccino,Coffee,30,4.25,127.5
+2026-03-06,Riverside,Cappuccino,Coffee,14,4.25,59.5
+2026-03-06,Downtown,Espresso,Coffee,31,3.0,93.0
+2026-03-06,Riverside,Cold Brew,Coffee,18,4.75,85.5
+2026-03-06,University,Espresso,Coffee,16,3.0,48.0
+2026-03-06,Riverside,Espresso,Coffee,17,3.0,51.0
+2026-03-06,Downtown,Cold Brew,Coffee,37,4.75,175.75
+2026-03-06,University,Croissant,Bakery,21,3.25,68.25
+2026-03-06,Downtown,Cappuccino,Coffee,29,4.25,123.25
+2026-03-06,Downtown,Blueberry Muffin,Bakery,21,2.95,61.95
+2026-03-06,University,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-03-06,Downtown,Latte,Coffee,46,4.5,207.0
+2026-03-06,Downtown,Croissant,Bakery,27,3.25,87.75
+2026-03-06,Riverside,Latte,Coffee,28,4.5,126.0
+2026-03-06,Riverside,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-03-06,University,Cold Brew,Coffee,17,4.75,80.75
+2026-03-06,University,Cappuccino,Coffee,21,4.25,89.25
+2026-03-06,University,Latte,Coffee,39,4.5,175.5
+2026-03-06,Riverside,Croissant,Bakery,20,3.25,65.0
+2026-03-07,University,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-03-07,University,Croissant,Bakery,23,3.25,74.75
+2026-03-07,University,Cold Brew,Coffee,14,4.75,66.5
+2026-03-07,Downtown,Blueberry Muffin,Bakery,30,2.95,88.5
+2026-03-07,Downtown,Latte,Coffee,47,4.5,211.5
+2026-03-07,University,Espresso,Coffee,21,3.0,63.0
+2026-03-07,Downtown,Croissant,Bakery,35,3.25,113.75
+2026-03-07,Downtown,Cold Brew,Coffee,32,4.75,152.0
+2026-03-07,Riverside,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-03-07,Downtown,Cappuccino,Coffee,30,4.25,127.5
+2026-03-07,Riverside,Croissant,Bakery,22,3.25,71.5
+2026-03-07,Riverside,Latte,Coffee,48,4.5,216.0
+2026-03-07,University,Latte,Coffee,41,4.5,184.5
+2026-03-07,University,Cappuccino,Coffee,20,4.25,85.0
+2026-03-07,Riverside,Cold Brew,Coffee,21,4.75,99.75
+2026-03-07,Riverside,Espresso,Coffee,17,3.0,51.0
+2026-03-07,Riverside,Cappuccino,Coffee,22,4.25,93.5
+2026-03-07,Downtown,Espresso,Coffee,26,3.0,78.0
+2026-03-08,University,Cold Brew,Coffee,30,4.75,142.5
+2026-03-08,Downtown,Cappuccino,Coffee,49,4.25,208.25
+2026-03-08,Riverside,Espresso,Coffee,21,3.0,63.0
+2026-03-08,Riverside,Cold Brew,Coffee,24,4.75,114.0
+2026-03-08,Downtown,Cold Brew,Coffee,34,4.75,161.5
+2026-03-08,University,Espresso,Coffee,18,3.0,54.0
+2026-03-08,University,Latte,Coffee,39,4.5,175.5
+2026-03-08,Riverside,Latte,Coffee,38,4.5,171.0
+2026-03-08,University,Croissant,Bakery,28,3.25,91.0
+2026-03-08,Downtown,Latte,Coffee,65,4.5,292.5
+2026-03-08,Downtown,Blueberry Muffin,Bakery,23,2.95,67.85
+2026-03-08,Riverside,Cappuccino,Coffee,20,4.25,85.0
+2026-03-08,Downtown,Espresso,Coffee,31,3.0,93.0
+2026-03-08,University,Blueberry Muffin,Bakery,18,2.95,53.1
+2026-03-08,Downtown,Croissant,Bakery,41,3.25,133.25
+2026-03-08,Riverside,Croissant,Bakery,20,3.25,65.0
+2026-03-08,Riverside,Blueberry Muffin,Bakery,15,2.95,44.25
+2026-03-08,University,Cappuccino,Coffee,23,4.25,97.75
+2026-03-09,Downtown,Blueberry Muffin,Bakery,26,2.95,76.7
+2026-03-09,Riverside,Cold Brew,Coffee,15,4.75,71.25
+2026-03-09,University,Cappuccino,Coffee,28,4.25,119.0
+2026-03-09,University,Espresso,Coffee,26,3.0,78.0
+2026-03-09,Riverside,Latte,Coffee,31,4.5,139.5
+2026-03-09,University,Latte,Coffee,33,4.5,148.5
+2026-03-09,Riverside,Blueberry Muffin,Bakery,13,2.95,38.35
+2026-03-09,Riverside,Croissant,Bakery,21,3.25,68.25
+2026-03-09,University,Blueberry Muffin,Bakery,15,2.95,44.25
+2026-03-09,Downtown,Croissant,Bakery,26,3.25,84.5
+2026-03-09,Riverside,Espresso,Coffee,25,3.0,75.0
+2026-03-09,Downtown,Cappuccino,Coffee,31,4.25,131.75
+2026-03-09,Riverside,Cappuccino,Coffee,17,4.25,72.25
+2026-03-09,Downtown,Cold Brew,Coffee,33,4.75,156.75
+2026-03-09,Downtown,Latte,Coffee,57,4.5,256.5
+2026-03-09,University,Cold Brew,Coffee,24,4.75,114.0
+2026-03-09,Downtown,Espresso,Coffee,32,3.0,96.0
+2026-03-09,University,Croissant,Bakery,16,3.25,52.0
+2026-03-10,Downtown,Croissant,Bakery,25,3.25,81.25
+2026-03-10,University,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-03-10,University,Latte,Coffee,30,4.5,135.0
+2026-03-10,Downtown,Blueberry Muffin,Bakery,24,2.95,70.8
+2026-03-10,Riverside,Cold Brew,Coffee,16,4.75,76.0
+2026-03-10,University,Cappuccino,Coffee,30,4.25,127.5
+2026-03-10,Riverside,Espresso,Coffee,20,3.0,60.0
+2026-03-10,Downtown,Latte,Coffee,45,4.5,202.5
+2026-03-10,Riverside,Croissant,Bakery,13,3.25,42.25
+2026-03-10,Downtown,Cold Brew,Coffee,29,4.75,137.75
+2026-03-10,University,Cold Brew,Coffee,31,4.75,147.25
+2026-03-10,University,Espresso,Coffee,21,3.0,63.0
+2026-03-10,Downtown,Espresso,Coffee,22,3.0,66.0
+2026-03-10,Downtown,Cappuccino,Coffee,28,4.25,119.0
+2026-03-10,University,Croissant,Bakery,29,3.25,94.25
+2026-03-10,Riverside,Cappuccino,Coffee,25,4.25,106.25
+2026-03-11,Downtown,Espresso,Coffee,37,3.0,111.0
+2026-03-11,Downtown,Blueberry Muffin,Bakery,26,2.95,76.7
+2026-03-11,Riverside,Croissant,Bakery,26,3.25,84.5
+2026-03-11,Downtown,Croissant,Bakery,21,3.25,68.25
+2026-03-11,University,Espresso,Coffee,28,3.0,84.0
+2026-03-11,Riverside,Cold Brew,Coffee,26,4.75,123.5
+2026-03-11,University,Croissant,Bakery,18,3.25,58.5
+2026-03-11,Riverside,Espresso,Coffee,17,3.0,51.0
+2026-03-11,University,Cold Brew,Coffee,15,4.75,71.25
+2026-03-11,Downtown,Latte,Coffee,41,4.5,184.5
+2026-03-11,University,Latte,Coffee,52,4.5,234.0
+2026-03-11,University,Cappuccino,Coffee,27,4.25,114.75
+2026-03-11,University,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-03-11,Downtown,Cold Brew,Coffee,23,4.75,109.25
+2026-03-11,Riverside,Latte,Coffee,31,4.5,139.5
+2026-03-11,Downtown,Cappuccino,Coffee,36,4.25,153.0
+2026-03-11,Riverside,Blueberry Muffin,Bakery,8,2.95,23.6
+2026-03-12,Riverside,Espresso,Coffee,25,3.0,75.0
+2026-03-12,Riverside,Cold Brew,Coffee,26,4.75,123.5
+2026-03-12,Riverside,Blueberry Muffin,Bakery,12,2.95,35.4
+2026-03-12,University,Croissant,Bakery,25,3.25,81.25
+2026-03-12,University,Cappuccino,Coffee,29,4.25,123.25
+2026-03-12,University,Latte,Coffee,43,4.5,193.5
+2026-03-12,University,Espresso,Coffee,26,3.0,78.0
+2026-03-12,University,Cold Brew,Coffee,24,4.75,114.0
+2026-03-12,Riverside,Latte,Coffee,26,4.5,117.0
+2026-03-12,University,Blueberry Muffin,Bakery,13,2.95,38.35
+2026-03-12,Downtown,Croissant,Bakery,27,3.25,87.75
+2026-03-12,Downtown,Cold Brew,Coffee,30,4.75,142.5
+2026-03-12,Riverside,Cappuccino,Coffee,26,4.25,110.5
+2026-03-12,Downtown,Latte,Coffee,57,4.5,256.5
+2026-03-12,Downtown,Blueberry Muffin,Bakery,20,2.95,59.0
+2026-03-12,Downtown,Cappuccino,Coffee,27,4.25,114.75
+2026-03-12,Riverside,Croissant,Bakery,12,3.25,39.0
+2026-03-13,University,Latte,Coffee,33,4.5,148.5
+2026-03-13,Riverside,Cappuccino,Coffee,22,4.25,93.5
+2026-03-13,University,Blueberry Muffin,Bakery,21,2.95,61.95
+2026-03-13,Riverside,Croissant,Bakery,14,3.25,45.5
+2026-03-13,Riverside,Cold Brew,Coffee,15,4.75,71.25
+2026-03-13,Riverside,Latte,Coffee,26,4.5,117.0
+2026-03-13,Downtown,Cold Brew,Coffee,34,4.75,161.5
+2026-03-13,Downtown,Blueberry Muffin,Bakery,15,2.95,44.25
+2026-03-13,Riverside,Espresso,Coffee,16,3.0,48.0
+2026-03-13,University,Cappuccino,Coffee,39,4.25,165.75
+2026-03-13,Downtown,Latte,Coffee,45,4.5,202.5
+2026-03-13,Downtown,Cappuccino,Coffee,26,4.25,110.5
+2026-03-13,Downtown,Croissant,Bakery,22,3.25,71.5
+2026-03-13,University,Cold Brew,Coffee,38,4.75,180.5
+2026-03-13,University,Croissant,Bakery,27,3.25,87.75
+2026-03-13,Riverside,Blueberry Muffin,Bakery,15,2.95,44.25
+2026-03-13,University,Espresso,Coffee,20,3.0,60.0
+2026-03-13,Downtown,Espresso,Coffee,35,3.0,105.0
+2026-03-14,Downtown,Blueberry Muffin,Bakery,41,2.95,120.95
+2026-03-14,University,Croissant,Bakery,22,3.25,71.5
+2026-03-14,Downtown,Cold Brew,Coffee,46,4.75,218.5
+2026-03-14,University,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-03-14,Riverside,Blueberry Muffin,Bakery,17,2.95,50.15
+2026-03-14,University,Cold Brew,Coffee,31,4.75,147.25
+2026-03-14,University,Espresso,Coffee,22,3.0,66.0
+2026-03-14,Downtown,Espresso,Coffee,26,3.0,78.0
+2026-03-14,University,Cappuccino,Coffee,25,4.25,106.25
+2026-03-14,Downtown,Cappuccino,Coffee,45,4.25,191.25
+2026-03-14,Riverside,Cappuccino,Coffee,28,4.25,119.0
+2026-03-14,Riverside,Latte,Coffee,26,4.5,117.0
+2026-03-14,University,Latte,Coffee,23,4.5,103.5
+2026-03-14,Downtown,Latte,Coffee,59,4.5,265.5
+2026-03-14,Riverside,Espresso,Coffee,23,3.0,69.0
+2026-03-14,Riverside,Cold Brew,Coffee,25,4.75,118.75
+2026-03-14,Downtown,Croissant,Bakery,39,3.25,126.75
+2026-03-15,Riverside,Espresso,Coffee,21,3.0,63.0
+2026-03-15,University,Espresso,Coffee,19,3.0,57.0
+2026-03-15,Riverside,Cold Brew,Coffee,25,4.75,118.75
+2026-03-15,Riverside,Cappuccino,Coffee,22,4.25,93.5
+2026-03-15,Riverside,Croissant,Bakery,20,3.25,65.0
+2026-03-15,Downtown,Blueberry Muffin,Bakery,23,2.95,67.85
+2026-03-15,University,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-03-15,University,Cold Brew,Coffee,9,4.75,42.75
+2026-03-15,University,Latte,Coffee,40,4.5,180.0
+2026-03-15,University,Croissant,Bakery,10,3.25,32.5
+2026-03-15,Downtown,Croissant,Bakery,36,3.25,117.0
+2026-03-15,Downtown,Cappuccino,Coffee,44,4.25,187.0
+2026-03-15,Downtown,Espresso,Coffee,48,3.0,144.0
+2026-03-15,Riverside,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-03-15,Downtown,Cold Brew,Coffee,37,4.75,175.75
+2026-03-15,Downtown,Latte,Coffee,60,4.5,270.0
+2026-03-15,Riverside,Latte,Coffee,39,4.5,175.5
+2026-03-15,University,Cappuccino,Coffee,28,4.25,119.0
+2026-03-16,Riverside,Cappuccino,Coffee,20,4.25,85.0
+2026-03-16,Riverside,Croissant,Bakery,18,3.25,58.5
+2026-03-16,Downtown,Cappuccino,Coffee,42,4.25,178.5
+2026-03-16,Riverside,Espresso,Coffee,19,3.0,57.0
+2026-03-16,Riverside,Blueberry Muffin,Bakery,15,2.95,44.25
+2026-03-16,University,Latte,Coffee,33,4.5,148.5
+2026-03-16,University,Cappuccino,Coffee,26,4.25,110.5
+2026-03-16,University,Blueberry Muffin,Bakery,11,2.95,32.45
+2026-03-16,Downtown,Blueberry Muffin,Bakery,20,2.95,59.0
+2026-03-16,University,Croissant,Bakery,41,3.25,133.25
+2026-03-16,Downtown,Cold Brew,Coffee,33,4.75,156.75
+2026-03-16,University,Cold Brew,Coffee,19,4.75,90.25
+2026-03-16,Downtown,Latte,Coffee,61,4.5,274.5
+2026-03-16,Riverside,Latte,Coffee,19,4.5,85.5
+2026-03-16,Downtown,Croissant,Bakery,31,3.25,100.75
+2026-03-16,University,Espresso,Coffee,30,3.0,90.0
+2026-03-16,Downtown,Espresso,Coffee,21,3.0,63.0
+2026-03-17,Downtown,Croissant,Bakery,34,3.25,110.5
+2026-03-17,Downtown,Latte,Coffee,46,4.5,207.0
+2026-03-17,Riverside,Cappuccino,Coffee,19,4.25,80.75
+2026-03-17,Downtown,Cold Brew,Coffee,40,4.75,190.0
+2026-03-17,University,Latte,Coffee,28,4.5,126.0
+2026-03-17,Downtown,Cappuccino,Coffee,37,4.25,157.25
+2026-03-17,Downtown,Blueberry Muffin,Bakery,18,2.95,53.1
+2026-03-17,Riverside,Croissant,Bakery,19,3.25,61.75
+2026-03-17,University,Croissant,Bakery,32,3.25,104.0
+2026-03-17,Riverside,Cold Brew,Coffee,22,4.75,104.5
+2026-03-17,University,Cappuccino,Coffee,24,4.25,102.0
+2026-03-17,Downtown,Espresso,Coffee,28,3.0,84.0
+2026-03-17,Riverside,Espresso,Coffee,14,3.0,42.0
+2026-03-17,Riverside,Latte,Coffee,32,4.5,144.0
+2026-03-17,University,Espresso,Coffee,23,3.0,69.0
+2026-03-17,Riverside,Blueberry Muffin,Bakery,13,2.95,38.35
+2026-03-17,University,Cold Brew,Coffee,22,4.75,104.5
+2026-03-17,University,Blueberry Muffin,Bakery,21,2.95,61.95
+2026-03-18,University,Cold Brew,Coffee,33,4.75,156.75
+2026-03-18,Riverside,Cappuccino,Coffee,20,4.25,85.0
+2026-03-18,University,Espresso,Coffee,25,3.0,75.0
+2026-03-18,Downtown,Espresso,Coffee,29,3.0,87.0
+2026-03-18,Riverside,Latte,Coffee,32,4.5,144.0
+2026-03-18,University,Latte,Coffee,34,4.5,153.0
+2026-03-18,Downtown,Cappuccino,Coffee,46,4.25,195.5
+2026-03-18,University,Croissant,Bakery,28,3.25,91.0
+2026-03-18,Riverside,Croissant,Bakery,25,3.25,81.25
+2026-03-18,Riverside,Blueberry Muffin,Bakery,15,2.95,44.25
+2026-03-18,Riverside,Espresso,Coffee,15,3.0,45.0
+2026-03-18,University,Blueberry Muffin,Bakery,17,2.95,50.15
+2026-03-18,Downtown,Latte,Coffee,52,4.5,234.0
+2026-03-18,Downtown,Cold Brew,Coffee,32,4.75,152.0
+2026-03-18,Downtown,Croissant,Bakery,38,3.25,123.5
+2026-03-18,Downtown,Blueberry Muffin,Bakery,27,2.95,79.65
+2026-03-18,University,Cappuccino,Coffee,29,4.25,123.25
+2026-03-19,Downtown,Cappuccino,Coffee,26,4.25,110.5
+2026-03-19,University,Cappuccino,Coffee,31,4.25,131.75
+2026-03-19,Riverside,Blueberry Muffin,Bakery,13,2.95,38.35
+2026-03-19,University,Blueberry Muffin,Bakery,25,2.95,73.75
+2026-03-19,Downtown,Cold Brew,Coffee,34,4.75,161.5
+2026-03-19,Downtown,Blueberry Muffin,Bakery,29,2.95,85.55
+2026-03-19,Riverside,Espresso,Coffee,22,3.0,66.0
+2026-03-19,Riverside,Cold Brew,Coffee,17,4.75,80.75
+2026-03-19,University,Latte,Coffee,39,4.5,175.5
+2026-03-19,University,Cold Brew,Coffee,22,4.75,104.5
+2026-03-19,University,Espresso,Coffee,12,3.0,36.0
+2026-03-19,Riverside,Cappuccino,Coffee,26,4.25,110.5
+2026-03-19,Downtown,Latte,Coffee,51,4.5,229.5
+2026-03-19,Downtown,Croissant,Bakery,23,3.25,74.75
+2026-03-19,University,Croissant,Bakery,19,3.25,61.75
+2026-03-19,Riverside,Croissant,Bakery,15,3.25,48.75
+2026-03-19,Downtown,Espresso,Coffee,29,3.0,87.0
+2026-03-20,Riverside,Croissant,Bakery,28,3.25,91.0
+2026-03-20,Riverside,Espresso,Coffee,15,3.0,45.0
+2026-03-20,Downtown,Latte,Coffee,55,4.5,247.5
+2026-03-20,Downtown,Croissant,Bakery,38,3.25,123.5
+2026-03-20,University,Espresso,Coffee,20,3.0,60.0
+2026-03-20,University,Croissant,Bakery,29,3.25,94.25
+2026-03-20,University,Cappuccino,Coffee,33,4.25,140.25
+2026-03-20,Riverside,Cold Brew,Coffee,24,4.75,114.0
+2026-03-20,Riverside,Latte,Coffee,34,4.5,153.0
+2026-03-20,Downtown,Cappuccino,Coffee,44,4.25,187.0
+2026-03-20,Downtown,Blueberry Muffin,Bakery,28,2.95,82.6
+2026-03-20,Riverside,Cappuccino,Coffee,24,4.25,102.0
+2026-03-20,University,Blueberry Muffin,Bakery,17,2.95,50.15
+2026-03-20,Downtown,Cold Brew,Coffee,41,4.75,194.75
+2026-03-20,University,Latte,Coffee,36,4.5,162.0
+2026-03-20,Riverside,Blueberry Muffin,Bakery,11,2.95,32.45
+2026-03-20,University,Cold Brew,Coffee,31,4.75,147.25
+2026-03-20,Downtown,Espresso,Coffee,30,3.0,90.0
+2026-03-21,Downtown,Latte,Coffee,79,4.5,355.5
+2026-03-21,University,Cold Brew,Coffee,23,4.75,109.25
+2026-03-21,University,Cappuccino,Coffee,26,4.25,110.5
+2026-03-21,Riverside,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-03-21,University,Latte,Coffee,32,4.5,144.0
+2026-03-21,University,Blueberry Muffin,Bakery,22,2.95,64.9
+2026-03-21,Riverside,Croissant,Bakery,27,3.25,87.75
+2026-03-21,Riverside,Latte,Coffee,38,4.5,171.0
+2026-03-21,Riverside,Espresso,Coffee,22,3.0,66.0
+2026-03-21,Riverside,Cappuccino,Coffee,26,4.25,110.5
+2026-03-21,Downtown,Croissant,Bakery,43,3.25,139.75
+2026-03-21,Downtown,Espresso,Coffee,36,3.0,108.0
+2026-03-21,University,Espresso,Coffee,18,3.0,54.0
+2026-03-21,Riverside,Cold Brew,Coffee,30,4.75,142.5
+2026-03-21,University,Croissant,Bakery,24,3.25,78.0
+2026-03-21,Downtown,Cold Brew,Coffee,36,4.75,171.0
+2026-03-21,Downtown,Blueberry Muffin,Bakery,31,2.95,91.45
+2026-03-21,Downtown,Cappuccino,Coffee,35,4.25,148.75
+2026-03-22,Riverside,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-03-22,Downtown,Espresso,Coffee,42,3.0,126.0
+2026-03-22,University,Latte,Coffee,43,4.5,193.5
+2026-03-22,University,Espresso,Coffee,14,3.0,42.0
+2026-03-22,Riverside,Latte,Coffee,32,4.5,144.0
+2026-03-22,Downtown,Blueberry Muffin,Bakery,27,2.95,79.65
+2026-03-22,Riverside,Croissant,Bakery,26,3.25,84.5
+2026-03-22,Downtown,Croissant,Bakery,36,3.25,117.0
+2026-03-22,Downtown,Cold Brew,Coffee,39,4.75,185.25
+2026-03-22,University,Cappuccino,Coffee,31,4.25,131.75
+2026-03-22,University,Croissant,Bakery,17,3.25,55.25
+2026-03-22,Downtown,Latte,Coffee,60,4.5,270.0
+2026-03-22,Riverside,Espresso,Coffee,18,3.0,54.0
+2026-03-22,Riverside,Cappuccino,Coffee,22,4.25,93.5
+2026-03-22,Downtown,Cappuccino,Coffee,38,4.25,161.5
+2026-03-22,University,Cold Brew,Coffee,19,4.75,90.25
+2026-03-22,Riverside,Cold Brew,Coffee,21,4.75,99.75
+2026-03-23,Riverside,Latte,Coffee,39,4.5,175.5
+2026-03-23,University,Espresso,Coffee,29,3.0,87.0
+2026-03-23,Downtown,Cappuccino,Coffee,37,4.25,157.25
+2026-03-23,Downtown,Croissant,Bakery,36,3.25,117.0
+2026-03-23,Riverside,Croissant,Bakery,29,3.25,94.25
+2026-03-23,Downtown,Latte,Coffee,48,4.5,216.0
+2026-03-23,University,Cappuccino,Coffee,17,4.25,72.25
+2026-03-23,University,Blueberry Muffin,Bakery,24,2.95,70.8
+2026-03-23,Riverside,Cappuccino,Coffee,22,4.25,93.5
+2026-03-23,Downtown,Espresso,Coffee,23,3.0,69.0
+2026-03-23,University,Latte,Coffee,41,4.5,184.5
+2026-03-23,Downtown,Blueberry Muffin,Bakery,21,2.95,61.95
+2026-03-23,Riverside,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-03-23,University,Cold Brew,Coffee,24,4.75,114.0
+2026-03-23,University,Croissant,Bakery,24,3.25,78.0
+2026-03-23,Riverside,Cold Brew,Coffee,25,4.75,118.75
+2026-03-23,Riverside,Espresso,Coffee,19,3.0,57.0
+2026-03-23,Downtown,Cold Brew,Coffee,25,4.75,118.75
+2026-03-24,University,Cold Brew,Coffee,26,4.75,123.5
+2026-03-24,Riverside,Latte,Coffee,20,4.5,90.0
+2026-03-24,Riverside,Espresso,Coffee,24,3.0,72.0
+2026-03-24,University,Espresso,Coffee,19,3.0,57.0
+2026-03-24,Downtown,Espresso,Coffee,30,3.0,90.0
+2026-03-24,Riverside,Cold Brew,Coffee,22,4.75,104.5
+2026-03-24,University,Cappuccino,Coffee,19,4.25,80.75
+2026-03-24,Downtown,Croissant,Bakery,39,3.25,126.75
+2026-03-24,Downtown,Cappuccino,Coffee,41,4.25,174.25
+2026-03-24,University,Croissant,Bakery,24,3.25,78.0
+2026-03-24,University,Blueberry Muffin,Bakery,15,2.95,44.25
+2026-03-24,Downtown,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-03-24,Riverside,Cappuccino,Coffee,20,4.25,85.0
+2026-03-24,Riverside,Croissant,Bakery,22,3.25,71.5
+2026-03-24,Riverside,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-03-24,Downtown,Latte,Coffee,45,4.5,202.5
+2026-03-24,Downtown,Cold Brew,Coffee,29,4.75,137.75
+2026-03-24,University,Latte,Coffee,36,4.5,162.0
+2026-03-25,Downtown,Latte,Coffee,65,4.5,292.5
+2026-03-25,Riverside,Espresso,Coffee,17,3.0,51.0
+2026-03-25,Riverside,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-03-25,Downtown,Espresso,Coffee,20,3.0,60.0
+2026-03-25,Riverside,Latte,Coffee,30,4.5,135.0
+2026-03-25,University,Croissant,Bakery,28,3.25,91.0
+2026-03-25,Downtown,Cold Brew,Coffee,50,4.75,237.5
+2026-03-25,Riverside,Cappuccino,Coffee,19,4.25,80.75
+2026-03-25,University,Blueberry Muffin,Bakery,27,2.95,79.65
+2026-03-25,Downtown,Cappuccino,Coffee,35,4.25,148.75
+2026-03-25,University,Cappuccino,Coffee,26,4.25,110.5
+2026-03-25,University,Cold Brew,Coffee,24,4.75,114.0
+2026-03-25,Riverside,Croissant,Bakery,22,3.25,71.5
+2026-03-25,Downtown,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-03-25,University,Espresso,Coffee,23,3.0,69.0
+2026-03-25,Riverside,Cold Brew,Coffee,19,4.75,90.25
+2026-03-25,Downtown,Croissant,Bakery,29,3.25,94.25
+2026-03-26,Downtown,Croissant,Bakery,30,3.25,97.5
+2026-03-26,Riverside,Espresso,Coffee,13,3.0,39.0
+2026-03-26,University,Blueberry Muffin,Bakery,22,2.95,64.9
+2026-03-26,Downtown,Latte,Coffee,46,4.5,207.0
+2026-03-26,Riverside,Latte,Coffee,28,4.5,126.0
+2026-03-26,University,Latte,Coffee,46,4.5,207.0
+2026-03-26,Downtown,Cappuccino,Coffee,47,4.25,199.75
+2026-03-26,Riverside,Cold Brew,Coffee,21,4.75,99.75
+2026-03-26,Riverside,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-03-26,University,Croissant,Bakery,38,3.25,123.5
+2026-03-26,Downtown,Blueberry Muffin,Bakery,21,2.95,61.95
+2026-03-26,University,Cold Brew,Coffee,30,4.75,142.5
+2026-03-26,Riverside,Croissant,Bakery,22,3.25,71.5
+2026-03-26,University,Espresso,Coffee,25,3.0,75.0
+2026-03-26,Downtown,Espresso,Coffee,32,3.0,96.0
+2026-03-26,University,Cappuccino,Coffee,30,4.25,127.5
+2026-03-26,Downtown,Cold Brew,Coffee,35,4.75,166.25
+2026-03-27,Downtown,Croissant,Bakery,34,3.25,110.5
+2026-03-27,Downtown,Cold Brew,Coffee,36,4.75,171.0
+2026-03-27,Downtown,Cappuccino,Coffee,48,4.25,204.0
+2026-03-27,Riverside,Cappuccino,Coffee,14,4.25,59.5
+2026-03-27,University,Croissant,Bakery,19,3.25,61.75
+2026-03-27,University,Blueberry Muffin,Bakery,19,2.95,56.05
+2026-03-27,Riverside,Croissant,Bakery,17,3.25,55.25
+2026-03-27,Riverside,Blueberry Muffin,Bakery,14,2.95,41.3
+2026-03-27,Riverside,Espresso,Coffee,24,3.0,72.0
+2026-03-27,University,Espresso,Coffee,16,3.0,48.0
+2026-03-27,Downtown,Blueberry Muffin,Bakery,22,2.95,64.9
+2026-03-27,University,Cappuccino,Coffee,45,4.25,191.25
+2026-03-27,Riverside,Cold Brew,Coffee,23,4.75,109.25
+2026-03-27,Downtown,Latte,Coffee,55,4.5,247.5
+2026-03-27,Downtown,Espresso,Coffee,28,3.0,84.0
+2026-03-27,University,Latte,Coffee,44,4.5,198.0
+2026-03-27,University,Cold Brew,Coffee,37,4.75,175.75
+2026-03-27,Riverside,Latte,Coffee,26,4.5,117.0
+2026-03-28,University,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-03-28,University,Latte,Coffee,30,4.5,135.0
+2026-03-28,University,Cold Brew,Coffee,25,4.75,118.75
+2026-03-28,Downtown,Espresso,Coffee,36,3.0,108.0
+2026-03-28,Riverside,Latte,Coffee,37,4.5,166.5
+2026-03-28,Riverside,Espresso,Coffee,18,3.0,54.0
+2026-03-28,Downtown,Cold Brew,Coffee,45,4.75,213.75
+2026-03-28,University,Croissant,Bakery,22,3.25,71.5
+2026-03-28,Downtown,Blueberry Muffin,Bakery,25,2.95,73.75
+2026-03-28,Riverside,Blueberry Muffin,Bakery,13,2.95,38.35
+2026-03-28,Downtown,Latte,Coffee,74,4.5,333.0
+2026-03-28,University,Espresso,Coffee,18,3.0,54.0
+2026-03-28,Downtown,Cappuccino,Coffee,42,4.25,178.5
+2026-03-28,Riverside,Cappuccino,Coffee,16,4.25,68.0
+2026-03-28,Downtown,Croissant,Bakery,43,3.25,139.75
+2026-03-28,Riverside,Cold Brew,Coffee,20,4.75,95.0
+2026-03-28,University,Cappuccino,Coffee,25,4.25,106.25
+2026-03-28,Riverside,Croissant,Bakery,18,3.25,58.5
+2026-03-29,Riverside,Cappuccino,Coffee,25,4.25,106.25
+2026-03-29,University,Cold Brew,Coffee,23,4.75,109.25
+2026-03-29,University,Croissant,Bakery,33,3.25,107.25
+2026-03-29,University,Latte,Coffee,32,4.5,144.0
+2026-03-29,Downtown,Cold Brew,Coffee,32,4.75,152.0
+2026-03-29,Riverside,Latte,Coffee,24,4.5,108.0
+2026-03-29,University,Espresso,Coffee,22,3.0,66.0
+2026-03-29,Downtown,Croissant,Bakery,31,3.25,100.75
+2026-03-29,University,Blueberry Muffin,Bakery,17,2.95,50.15
+2026-03-29,Downtown,Latte,Coffee,62,4.5,279.0
+2026-03-29,Riverside,Croissant,Bakery,24,3.25,78.0
+2026-03-29,Downtown,Blueberry Muffin,Bakery,27,2.95,79.65
+2026-03-29,Riverside,Espresso,Coffee,13,3.0,39.0
+2026-03-29,Downtown,Cappuccino,Coffee,58,4.25,246.5
+2026-03-29,Riverside,Blueberry Muffin,Bakery,16,2.95,47.2
+2026-03-29,Riverside,Cold Brew,Coffee,17,4.75,80.75
+2026-03-29,University,Cappuccino,Coffee,24,4.25,102.0
+2026-03-29,Downtown,Espresso,Coffee,44,3.0,132.0
+2026-03-30,University,Latte,Coffee,41,4.5,184.5
+2026-03-30,University,Espresso,Coffee,28,3.0,84.0
+2026-03-30,Downtown,Croissant,Bakery,29,3.25,94.25
+2026-03-30,Downtown,Blueberry Muffin,Bakery,27,2.95,79.65
+2026-03-30,University,Cold Brew,Coffee,22,4.75,104.5
+2026-03-30,Downtown,Cold Brew,Coffee,26,4.75,123.5
+2026-03-30,Riverside,Croissant,Bakery,16,3.25,52.0
+2026-03-30,Riverside,Latte,Coffee,25,4.5,112.5
+2026-03-30,Riverside,Cappuccino,Coffee,13,4.25,55.25
+2026-03-30,Riverside,Cold Brew,Coffee,16,4.75,76.0
+2026-03-30,University,Cappuccino,Coffee,28,4.25,119.0
+2026-03-30,University,Blueberry Muffin,Bakery,27,2.95,79.65
+2026-03-30,Riverside,Espresso,Coffee,17,3.0,51.0
+2026-03-30,University,Croissant,Bakery,21,3.25,68.25
+2026-03-30,Downtown,Espresso,Coffee,24,3.0,72.0
+2026-03-30,Downtown,Latte,Coffee,39,4.5,175.5
+2026-03-30,Riverside,Blueberry Muffin,Bakery,15,2.95,44.25
+2026-03-31,Riverside,Croissant,Bakery,25,3.25,81.25
+2026-03-31,Riverside,Blueberry Muffin,Bakery,13,2.95,38.35
+2026-03-31,University,Cold Brew,Coffee,26,4.75,123.5
+2026-03-31,University,Croissant,Bakery,36,3.25,117.0
+2026-03-31,Downtown,Cappuccino,Coffee,38,4.25,161.5
+2026-03-31,Downtown,Latte,Coffee,52,4.5,234.0
+2026-03-31,Downtown,Cold Brew,Coffee,28,4.75,133.0
+2026-03-31,Riverside,Cold Brew,Coffee,17,4.75,80.75
+2026-03-31,University,Cappuccino,Coffee,23,4.25,97.75
+2026-03-31,University,Blueberry Muffin,Bakery,20,2.95,59.0
+2026-03-31,Riverside,Espresso,Coffee,15,3.0,45.0
+2026-03-31,Downtown,Blueberry Muffin,Bakery,22,2.95,64.9
+2026-03-31,University,Latte,Coffee,40,4.5,180.0
+2026-03-31,Downtown,Croissant,Bakery,29,3.25,94.25
+2026-03-31,Downtown,Espresso,Coffee,29,3.0,87.0
+2026-03-31,Riverside,Cappuccino,Coffee,14,4.25,59.5
+2026-03-31,Riverside,Latte,Coffee,23,4.5,103.5

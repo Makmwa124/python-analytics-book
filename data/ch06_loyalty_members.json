@@ -1,0 +1,155 @@
+{
+  "exported": "2026-04-01",
+  "members": [
+    {
+      "member_id": 50101,
+      "name": "Ana Park",
+      "joined": "2024-06-02",
+      "home_store": "Downtown",
+      "favorites": {
+        "drink": "Latte",
+        "milk": "Oat"
+      },
+      "visits": [
+        {
+          "date": "2026-03-14",
+          "store": "Downtown",
+          "spend": 4.0
+        },
+        {
+          "date": "2026-03-23",
+          "store": "Downtown",
+          "spend": 6.75
+        },
+        {
+          "date": "2026-03-31",
+          "store": "Downtown",
+          "spend": 5.0
+        }
+      ]
+    },
+    {
+      "member_id": 50102,
+      "name": "Ben Lowe",
+      "joined": "2024-09-26",
+      "home_store": "University",
+      "favorites": {
+        "drink": "Cold Brew"
+      },
+      "visits": [
+        {
+          "date": "2026-03-14",
+          "store": "University",
+          "spend": 8.75
+        },
+        {
+          "date": "2026-03-17",
+          "store": "University",
+          "spend": 13.5
+        },
+        {
+          "date": "2026-03-26",
+          "store": "University",
+          "spend": 3.75
+        }
+      ]
+    },
+    {
+      "member_id": 50103,
+      "name": "Chloe Moreau",
+      "joined": "2024-10-30",
+      "home_store": "Riverside",
+      "favorites": {
+        "drink": "Cappuccino",
+        "milk": "Whole"
+      },
+      "visits": [
+        {
+          "date": "2026-03-20",
+          "store": "Downtown",
+          "spend": 13.5
+        },
+        {
+          "date": "2026-03-22",
+          "store": "Riverside",
+          "spend": 6.0
+        }
+      ]
+    },
+    {
+      "member_id": 50104,
+      "name": "Dev Shah",
+      "joined": "2025-02-07",
+      "home_store": "Downtown",
+      "favorites": {
+        "drink": "Espresso"
+      },
+      "visits": [
+        {
+          "date": "2026-03-04",
+          "store": "Downtown",
+          "spend": 3.5
+        },
+        {
+          "date": "2026-03-05",
+          "store": "Downtown",
+          "spend": 13.25
+        },
+        {
+          "date": "2026-03-09",
+          "store": "Downtown",
+          "spend": 11.5
+        }
+      ]
+    },
+    {
+      "member_id": 50105,
+      "name": "Esme Quinn",
+      "joined": "2024-02-19",
+      "home_store": "University",
+      "favorites": {
+        "drink": "Latte",
+        "milk": "Almond"
+      },
+      "visits": [
+        {
+          "date": "2026-03-04",
+          "store": "Downtown",
+          "spend": 5.0
+        },
+        {
+          "date": "2026-03-20",
+          "store": "University",
+          "spend": 5.5
+        },
+        {
+          "date": "2026-03-27",
+          "store": "University",
+          "spend": 9.25
+        }
+      ]
+    },
+    {
+      "member_id": 50106,
+      "name": "Femi Adeyemi",
+      "joined": "2024-10-24",
+      "home_store": "Riverside",
+      "favorites": {
+        "drink": "Latte",
+        "milk": "Whole"
+      },
+      "visits": [
+        {
+          "date": "2026-03-20",
+          "store": "Riverside",
+          "spend": 13.5
+        },
+        {
+          "date": "2026-03-29",
+          "store": "Riverside",
+          "spend": 3.25
+        }
+      ]
+    }
+  ]
+}
