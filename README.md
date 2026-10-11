@@ -3,7 +3,7 @@
 These are the companion files for the book *Data Analytics with Python and Jupyter
 Notebook* by Mathew Kariuki.
 
-**Get the book:** [Buy it on Gumroad](https://mathewkariuki.gumroad.com/l/data-analytics-with-python).
+**Get the book:** [Paperback on Amazon](https://www.amazon.com/dp/B0HMFZPFCH) ([Amazon Australia](https://www.amazon.com.au/dp/B0HMFZPFCH)), or the [PDF + EPUB bundle on Gumroad](https://mathewkariuki.gumroad.com/l/data-analytics-with-python).
 
 - `notebooks/` has one executed Jupyter notebook per chapter.
 - `data/` has every dataset used in the book.
@@ -19,5 +19,5 @@ All Bean There data is synthetic and was generated for this book.
 
 ## More from Mathew Kariuki
 
-- [Python from Zero](https://mathewkariuki.gumroad.com/l/python-from-zero): new to Python? Start here, then come back to this book.
+- [Python from Zero](https://www.amazon.com/dp/B0HMGH54XN) (paperback and Kindle on Amazon, or the [PDF bundle on Gumroad](https://mathewkariuki.gumroad.com/l/python-from-zero)): new to Python? Start here, then come back to this book.
 - [mathewkanalytics.com](https://www.mathewkanalytics.com/): 700+ free video lessons with Jupyter notebooks.
