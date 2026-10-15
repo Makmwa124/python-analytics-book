@@ -19,5 +19,5 @@ All Bean There data is synthetic and was generated for this book.
 
 ## More from Mathew Kariuki
 
-- [Python from Zero](https://www.amazon.com/dp/B0HMGH54XN) (paperback and Kindle on Amazon, or the [PDF bundle on Gumroad](https://mathewkariuki.gumroad.com/l/python-from-zero)): new to Python? Start here, then come back to this book.
+- [Python from Zero](https://www.amazon.com/dp/B0HMGH54XN) (paperback and Kindle on Amazon): new to Python? Start here, then come back to this book.
 - [mathewkanalytics.com](https://www.mathewkanalytics.com/): 700+ free video lessons with Jupyter notebooks.
