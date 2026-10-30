@@ -3,7 +3,7 @@
 These are the companion files for the book *Data Analytics with Python and Jupyter
 Notebook* by Mathew Kariuki.
 
-**Get the book:** [Paperback on Amazon](https://www.amazon.com/dp/B0HMFZPFCH) ([Amazon Australia](https://www.amazon.com.au/dp/B0HMFZPFCH)), or the [PDF + EPUB bundle on Gumroad](https://mathewkariuki.gumroad.com/l/data-analytics-with-python).
+**Get the book:** [Paperback on Amazon](https://www.amazon.com/dp/B0HMFZPFCH) ([Amazon Australia](https://www.amazon.com.au/dp/B0HMFZPFCH)).
 
 - `notebooks/` has one executed Jupyter notebook per chapter.
 - `data/` has every dataset used in the book.
