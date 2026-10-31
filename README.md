@@ -21,3 +21,14 @@ All Bean There data is synthetic and was generated for this book.
 
 - [Python from Zero](https://www.amazon.com/dp/B0HMGH54XN) (paperback and Kindle on Amazon): new to Python? Start here, then come back to this book.
 - [mathewkanalytics.com](https://www.mathewkanalytics.com/): 700+ free video lessons with Jupyter notebooks.
+
+
+## Free lessons that go with this book
+
+Follow along with free video lessons, notebooks and real datasets on [Mathew K Analytics](https://www.mathewkanalytics.com/):
+
+- [Data Analytics Zero to Hero course](https://www.mathewkanalytics.com/series/data-analytics-zero-to-hero/)
+- [Pandas Full Course](https://www.mathewkanalytics.com/series/pandas-full-course/)
+- [Real-World Data Analytics projects](https://www.mathewkanalytics.com/series/real-world-data-analytics/)
+- [Data analyst learning path](https://www.mathewkanalytics.com/paths/data-analyst/)
+- [Free practice datasets](https://www.mathewkanalytics.com/datasets/)
